@@ -1,0 +1,50 @@
+[
+  {
+    "league": "MLB",
+    "team": "Tigers",
+    "metric": "Wins",
+    "actual": 76,
+    "expected": 88.6,
+    "note": "Record 76-86, runs 723-652 (Pythagorean)."
+  },
+  {
+    "league": "MLB",
+    "team": "Angels",
+    "metric": "Wins",
+    "actual": 62,
+    "expected": 70.8,
+    "note": "Record 62-100, runs 655-752 (Pythagorean)."
+  },
+  {
+    "league": "MLB",
+    "team": "Giants",
+    "metric": "Wins",
+    "actual": 65,
+    "expected": 71.6,
+    "note": "Record 65-97, runs 669-760 (Pythagorean)."
+  },
+  {
+    "league": "MLB",
+    "team": "Padres",
+    "metric": "Wins",
+    "actual": 91,
+    "expected": 85.3,
+    "note": "Record 91-71, runs 722-681 (Pythagorean)."
+  },
+  {
+    "league": "MLB",
+    "team": "Rays",
+    "metric": "Wins",
+    "actual": 98,
+    "expected": 90.2,
+    "note": "Record 98-64, runs 736-650 (Pythagorean)."
+  },
+  {
+    "league": "MLB",
+    "team": "Reds",
+    "metric": "Wins",
+    "actual": 75,
+    "expected": 65.2,
+    "note": "Record 75-87, runs 666-826 (Pythagorean)."
+  }
+]

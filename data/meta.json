@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-10-15T00:59:48.603Z",
+  "modelVersion": "heuristic-v0",
+  "timezone": "America/Chicago",
+  "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
+  "creditsRemaining": 177,
+  "info": [
+    "This run could spend up to 13 credits (157 left this cycle).",
+    "NBA: no games in the next 36 hours, no credits used.",
+    "LIGA MX: no games in the next 36 hours, no credits used.",
+    "Used 5 credits this run."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Friendly Picks",
+  "short_name": "Friendly Picks",
+  "description": "Daily picks for NFL, NBA, MLB and Liga MX, for fun. With the reasons shown.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0E151B",
+  "theme_color": "#0E151B",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
