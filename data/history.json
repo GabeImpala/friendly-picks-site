@@ -526,5 +526,16 @@
     "odds": 1.98,
     "prob": 49.8,
     "result": "L"
+  },
+  {
+    "id": "a681025734060bef9fcce7ea7175674c|h2h|home|",
+    "date": "2026-10-15",
+    "league": "MLB",
+    "home": "Cleveland Guardians",
+    "away": "Tampa Bay Rays",
+    "selection": "Cleveland Guardians ML",
+    "odds": 1.79,
+    "prob": 55.5,
+    "result": "W"
   }
 ]
