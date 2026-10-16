@@ -251,5 +251,16 @@
     "odds": 1.79,
     "prob": 56.6,
     "result": "W"
+  },
+  {
+    "id": "855f58fad5f0f14b239f4f63df27998b|ai",
+    "date": "2026-10-15",
+    "league": "NFL",
+    "home": "Denver Broncos",
+    "away": "Seattle Seahawks",
+    "selection": "Seattle Seahawks ML",
+    "odds": 1.71,
+    "prob": 57.5,
+    "result": "L"
   }
 ]

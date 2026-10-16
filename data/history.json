@@ -537,5 +537,49 @@
     "odds": 1.79,
     "prob": 55.5,
     "result": "W"
+  },
+  {
+    "id": "855f58fad5f0f14b239f4f63df27998b|spread|away|-2.5",
+    "date": "2026-10-15",
+    "league": "NFL",
+    "home": "Denver Broncos",
+    "away": "Seattle Seahawks",
+    "selection": "Seattle Seahawks -2.5",
+    "odds": 1.96,
+    "prob": 50.3,
+    "result": "L"
+  },
+  {
+    "id": "beffe22ff3d46b84b1b4e36b0970ccba|h2h|home|",
+    "date": "2026-10-15",
+    "league": "NHL",
+    "home": "Detroit Red Wings",
+    "away": "Philadelphia Flyers",
+    "selection": "Detroit Red Wings ML",
+    "odds": 1.77,
+    "prob": 56,
+    "result": "W"
+  },
+  {
+    "id": "30fa3646c2d75c2eb8c2746d50f7c14e|spread|away|1.5",
+    "date": "2026-10-15",
+    "league": "NHL",
+    "home": "Minnesota Wild",
+    "away": "St Louis Blues",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.53,
+    "prob": 64.5,
+    "result": "W"
+  },
+  {
+    "id": "26e6afd471708bd7858f66f49d1f49f6|h2h|home|",
+    "date": "2026-10-15",
+    "league": "NHL",
+    "home": "Nashville Predators",
+    "away": "San Jose Sharks",
+    "selection": "Nashville Predators ML",
+    "odds": 1.74,
+    "prob": 56.5,
+    "result": "L"
   }
 ]
