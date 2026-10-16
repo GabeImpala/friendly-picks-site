@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T20:00:25.775Z",
+  "updatedAt": "2026-10-16T23:00:22.385Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 80,
+  "creditsRemaining": 76,
   "info": [
-    "This run could spend up to 5 credits (59 left this cycle).",
+    "This run could spend up to 5 credits (55 left this cycle).",
     "SERIE A: results will be settled on a later run (credit budget).",
     "LA LIGA: results will be settled on a later run (credit budget).",
     "MLB: results will be settled on a later run (credit budget).",
