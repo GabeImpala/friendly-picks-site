@@ -1,18 +1,16 @@
 {
-  "updatedAt": "2026-10-16T18:17:21.933Z",
+  "updatedAt": "2026-10-16T20:00:25.775Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 84,
+  "creditsRemaining": 80,
   "info": [
-    "This run could spend up to 6 credits (65 left this cycle).",
-    "LIGA MX: kept the previous picks this run to stay within the credit budget.",
-    "NHL: kept the previous picks this run to stay within the credit budget.",
-    "EPL: kept the previous picks this run to stay within the credit budget.",
-    "NFL: no games in the next 36 hours, no credits used.",
-    "NBA: no games in the next 36 hours, no credits used.",
-    "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
-    "BTTS: some games skipped to stay within the credit budget.",
-    "Used 6 credits this run."
+    "This run could spend up to 5 credits (59 left this cycle).",
+    "SERIE A: results will be settled on a later run (credit budget).",
+    "LA LIGA: results will be settled on a later run (credit budget).",
+    "MLB: results will be settled on a later run (credit budget).",
+    "LIGA MX: results will be settled on a later run (credit budget).",
+    "Settle-only run: skipped fetching new odds.",
+    "Used 4 credits this run."
   ]
 }
