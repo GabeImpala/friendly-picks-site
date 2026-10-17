@@ -581,5 +581,16 @@
     "odds": 1.74,
     "prob": 56.5,
     "result": "L"
+  },
+  {
+    "id": "7c44228f4c2e89133b34a3c70bfb30c5|h2h|away|",
+    "date": "2026-10-16",
+    "league": "NHL",
+    "home": "Anaheim Ducks",
+    "away": "Boston Bruins",
+    "selection": "Boston Bruins ML",
+    "odds": 1.89,
+    "prob": 52.3,
+    "result": "W"
   }
 ]
