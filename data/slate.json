@@ -223,32 +223,6 @@
     }
   },
   {
-    "id": "c6a315628d73f0f9ac146b3be0c78c54",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-17T23:00:00Z",
-    "venue": "",
-    "home": "Santos Laguna",
-    "away": "Querétaro",
-    "market": "Match result",
-    "selection": "Querétaro to win",
-    "odds": 2.87,
-    "openOdds": 2.87,
-    "baseProb": 34.5,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 65.4,
-      "windMph": 9.4,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "d1f0173f69efeede8e50d941b1802eae",
     "league": "LIGA MX",
     "kickoff": "2026-10-17T23:07:00Z",
