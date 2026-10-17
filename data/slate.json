@@ -381,27 +381,6 @@
     }
   },
   {
-    "id": "f00cd1ea41fa39149729d14ebc07aa6c",
-    "league": "LA LIGA",
-    "kickoff": "2026-10-17T19:00:00Z",
-    "venue": "",
-    "home": "Valencia",
-    "away": "Athletic Bilbao",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.86,
-    "openOdds": 1.86,
-    "baseProb": 53.9,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    }
-  },
-  {
     "id": "1f566f17c50fe5162724ec2863d2207b",
     "league": "LA LIGA",
     "kickoff": "2026-10-18T12:00:00Z",
@@ -489,28 +468,6 @@
     },
     "locked": true,
     "publishedOdds": 2.1
-  },
-  {
-    "id": "18d478f469da3bcc654dd4555b85c7e3",
-    "league": "SERIE A",
-    "kickoff": "2026-10-17T18:45:00Z",
-    "venue": "",
-    "home": "AS Roma",
-    "away": "Genoa",
-    "market": "Match result",
-    "selection": "AS Roma to win",
-    "odds": 1.61,
-    "openOdds": 1.51,
-    "baseProb": 61.8,
-    "baselineNote": "Consensus of 24 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.51
   },
   {
     "id": "367da93aa21a1e13eeafb94fd2263c75",
@@ -689,6 +646,28 @@
     "live": true
   },
   {
+    "id": "18d478f469da3bcc654dd4555b85c7e3",
+    "league": "SERIE A",
+    "kickoff": "2026-10-17T18:45:00Z",
+    "venue": "",
+    "home": "AS Roma",
+    "away": "Genoa",
+    "market": "Match result",
+    "selection": "AS Roma to win",
+    "odds": 1.51,
+    "openOdds": 1.51,
+    "baseProb": 65.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.51,
+    "live": true
+  },
+  {
     "id": "846e496fc232b2fc20214754836727d0",
     "league": "LA LIGA",
     "kickoff": "2026-10-17T16:30:00Z",
@@ -800,6 +779,29 @@
     },
     "locked": true,
     "publishedOdds": 1.83,
+    "live": true
+  },
+  {
+    "id": "f00cd1ea41fa39149729d14ebc07aa6c",
+    "league": "LA LIGA",
+    "kickoff": "2026-10-17T19:00:00Z",
+    "venue": "",
+    "home": "Valencia",
+    "away": "Athletic Bilbao",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 1.86,
+    "openOdds": 1.86,
+    "baseProb": 53.9,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.86,
     "live": true
   }
 ]
