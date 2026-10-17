@@ -603,5 +603,38 @@
     "odds": 1.75,
     "prob": 56.9,
     "result": "L"
+  },
+  {
+    "id": "19ee731602634e5c9e3106630e087464|total|under|2.5",
+    "date": "2026-10-16",
+    "league": "LA LIGA",
+    "home": "Deportivo La Coruña",
+    "away": "Levante",
+    "selection": "Under 2.5 goals",
+    "odds": 2,
+    "prob": 50,
+    "result": "W"
+  },
+  {
+    "id": "6436925dd15916d7041ba32b60000d48|h2h|away|",
+    "date": "2026-10-17",
+    "league": "LA LIGA",
+    "home": "Espanyol",
+    "away": "Atlético Madrid",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.8,
+    "prob": 55.5,
+    "result": "W"
+  },
+  {
+    "id": "aef660734585649651415961a9d177c6|h2h|home|",
+    "date": "2026-10-17",
+    "league": "LA LIGA",
+    "home": "Villarreal",
+    "away": "Elche CF",
+    "selection": "Villarreal to win",
+    "odds": 1.51,
+    "prob": 65.6,
+    "result": "P"
   }
 ]
