@@ -223,69 +223,6 @@
     }
   },
   {
-    "id": "b9d2e07cf437b5643307aba274c45a74",
-    "league": "MLB",
-    "kickoff": "2026-10-17T00:00:00Z",
-    "venue": "",
-    "home": "Cleveland Guardians",
-    "away": "Tampa Bay Rays",
-    "market": "Moneyline",
-    "selection": "Cleveland Guardians ML",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "regression",
-        "label": "Selection is due for better results",
-        "detail": "Guardians: 85 wins vs 82.2 expected from runs. Rays: 98 vs 90.2. Rays has won more games than its run differential suggests.",
-        "points": 0.8
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 52.1,
-      "windMph": 17.9,
-      "precip": "Light rain",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.98,
-    "aiHomeProb": 57.3
-  },
-  {
-    "id": "a16dd30c67c32f12e0b4879034895cf9",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-17T01:00:00Z",
-    "venue": "",
-    "home": "Necaxa",
-    "away": "Atlas",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.2,
-    "openOdds": 2.2,
-    "baseProb": 45.7,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 66.2,
-      "windMph": 13.2,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "02a5db366cb0660f86092f9d119a95ef",
     "league": "LIGA MX",
     "kickoff": "2026-10-17T03:00:00Z",
@@ -866,26 +803,6 @@
     }
   },
   {
-    "id": "343be4cf732ddd9fd0a058953456d811",
-    "league": "NHL",
-    "kickoff": "2026-10-17T01:10:00Z",
-    "venue": "",
-    "home": "Colorado Avalanche",
-    "away": "Pittsburgh Penguins",
-    "market": "Moneyline",
-    "selection": "Pittsburgh Penguins ML",
-    "odds": 2.9,
-    "openOdds": 2.9,
-    "baseProb": 34.2,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "7c44228f4c2e89133b34a3c70bfb30c5",
     "league": "NHL",
     "kickoff": "2026-10-17T02:10:00Z",
@@ -949,6 +866,52 @@
     },
     "locked": true,
     "publishedOdds": 2,
+    "live": true
+  },
+  {
+    "id": "b9d2e07cf437b5643307aba274c45a74",
+    "league": "MLB",
+    "kickoff": "2026-10-16T22:00:00Z",
+    "venue": "",
+    "home": "Cleveland Guardians",
+    "away": "Tampa Bay Rays",
+    "market": "Moneyline",
+    "selection": "Cleveland Guardians ML",
+    "odds": 1.98,
+    "openOdds": 1.98,
+    "baseProb": 50.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.98,
+    "live": true,
+    "aiHomeProb": 57.3
+  },
+  {
+    "id": "a16dd30c67c32f12e0b4879034895cf9",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-17T01:00:00Z",
+    "venue": "",
+    "home": "Necaxa",
+    "away": "Atlas",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.2,
+    "openOdds": 2.2,
+    "baseProb": 45.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 2.2,
     "live": true
   }
 ]
