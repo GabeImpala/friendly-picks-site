@@ -223,33 +223,6 @@
     }
   },
   {
-    "id": "b0470ca19e0e46eb4dd81aeea6191e24",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-18T03:10:00Z",
-    "venue": "",
-    "home": "Cruz Azul",
-    "away": "FC Juárez",
-    "market": "Total",
-    "selection": "Over 3.5 goals",
-    "odds": 2.34,
-    "openOdds": 2.34,
-    "baseProb": 43,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 3.5
-    },
-    "weather": {
-      "tempF": 54,
-      "windMph": 3.3,
-      "precip": "Light rain",
-      "roof": "open"
-    }
-  },
-  {
     "id": "b79280836285fc24488c27fdb0e342df",
     "league": "LIGA MX",
     "kickoff": "2026-10-19T01:00:00Z",
