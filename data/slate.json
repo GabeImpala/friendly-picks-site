@@ -268,29 +268,6 @@
     "publishedOdds": 2.1
   },
   {
-    "id": "f9403dd597edbfaa73abdc974e55344c",
-    "league": "SERIE A",
-    "kickoff": "2026-10-18T16:00:00Z",
-    "venue": "",
-    "home": "AC Milan",
-    "away": "Atalanta BC",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.81,
-    "openOdds": 1.83,
-    "baseProb": 54.6,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.83
-  },
-  {
     "id": "4c4026e2782f09d6f0ff2bde2a390513",
     "league": "SERIE A",
     "kickoff": "2026-10-18T18:45:00Z",
@@ -442,6 +419,29 @@
     },
     "locked": true,
     "publishedOdds": 1.73,
+    "live": true
+  },
+  {
+    "id": "f9403dd597edbfaa73abdc974e55344c",
+    "league": "SERIE A",
+    "kickoff": "2026-10-18T16:00:00Z",
+    "venue": "",
+    "home": "AC Milan",
+    "away": "Atalanta BC",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.83,
+    "openOdds": 1.83,
+    "baseProb": 54.5,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.83,
     "live": true
   },
   {
