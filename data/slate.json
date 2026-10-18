@@ -26,49 +26,6 @@
     }
   },
   {
-    "id": "eccd63bf768e2f2a358b871d3f33a63d",
-    "league": "LA LIGA",
-    "kickoff": "2026-10-18T19:00:00Z",
-    "venue": "",
-    "home": "Real Madrid",
-    "away": "Sevilla",
-    "market": "Total",
-    "selection": "Over 3.5 goals",
-    "odds": 2.12,
-    "openOdds": 2.1,
-    "baseProb": 46.8,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 3.5
-    },
-    "locked": true,
-    "publishedOdds": 2.1
-  },
-  {
-    "id": "4c4026e2782f09d6f0ff2bde2a390513",
-    "league": "SERIE A",
-    "kickoff": "2026-10-18T18:45:00Z",
-    "venue": "",
-    "home": "Juventus",
-    "away": "Lazio",
-    "market": "Match result",
-    "selection": "Juventus to win",
-    "odds": 1.74,
-    "openOdds": 1.75,
-    "baseProb": 56.9,
-    "baselineNote": "Consensus of 24 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "ce94aca384a20f6af459366da6e1dd21",
     "league": "SERIE A",
     "kickoff": "2026-10-19T16:30:00Z",
@@ -360,6 +317,29 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
+    "live": true
+  },
+  {
+    "id": "eccd63bf768e2f2a358b871d3f33a63d",
+    "league": "LA LIGA",
+    "kickoff": "2026-10-18T19:00:00Z",
+    "venue": "",
+    "home": "Real Madrid",
+    "away": "Sevilla",
+    "market": "Total",
+    "selection": "Over 3.5 goals",
+    "odds": 2.1,
+    "openOdds": 2.1,
+    "baseProb": 47.6,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 3.5
+    },
+    "locked": true,
+    "publishedOdds": 2.1,
     "live": true
   },
   {
