@@ -1,16 +1,17 @@
 {
-  "updatedAt": "2026-10-18T05:00:23.354Z",
+  "updatedAt": "2026-10-18T08:43:26.197Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
   "creditsRemaining": 43,
   "info": [
-    "This run could spend up to 2 credits (20 left this cycle).",
+    "This run could spend up to 1 credits (18 left this cycle).",
+    "NFL: results will be settled on a later run (credit budget).",
     "SERIE A: results will be settled on a later run (credit budget).",
     "LA LIGA: results will be settled on a later run (credit budget).",
     "MLB: results will be settled on a later run (credit budget).",
     "LIGA MX: results will be settled on a later run (credit budget).",
     "Settle-only run: skipped fetching new odds.",
-    "Used 2 credits this run."
+    "Used 0 credits this run."
   ]
 }
