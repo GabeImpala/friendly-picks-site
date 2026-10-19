@@ -636,5 +636,38 @@
     "odds": 1.51,
     "prob": 65.6,
     "result": "P"
+  },
+  {
+    "id": "caca2d752fe1a1779029082e95332fcc|spread|away|-3.5",
+    "date": "2026-10-18",
+    "league": "NFL",
+    "home": "Philadelphia Eagles",
+    "away": "Carolina Panthers",
+    "selection": "Carolina Panthers -3.5",
+    "odds": 1.98,
+    "prob": 49.8,
+    "result": "W"
+  },
+  {
+    "id": "0b0b582b32b09ab6ff6664ffae0c9653|spread|home|-7",
+    "date": "2026-10-18",
+    "league": "NFL",
+    "home": "New England Patriots",
+    "away": "New York Jets",
+    "selection": "New England Patriots -7",
+    "odds": 1.95,
+    "prob": 50.5,
+    "result": "P"
+  },
+  {
+    "id": "27f3994841ce8081c0b7349cf3d1e3d7|total|under|39.5",
+    "date": "2026-10-18",
+    "league": "NFL",
+    "home": "Tampa Bay Buccaneers",
+    "away": "Pittsburgh Steelers",
+    "selection": "Under 39.5",
+    "odds": 1.93,
+    "prob": 53.4,
+    "result": "L"
   }
 ]

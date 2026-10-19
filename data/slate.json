@@ -1,31 +1,5 @@
 [
   {
-    "id": "b79280836285fc24488c27fdb0e342df",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-19T01:00:00Z",
-    "venue": "",
-    "home": "Monterrey",
-    "away": "Pachuca",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 4.4,
-    "openOdds": 4.4,
-    "baseProb": 23.4,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
-    },
-    "weather": {
-      "tempF": 65.2,
-      "windMph": 5.1,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "ce94aca384a20f6af459366da6e1dd21",
     "league": "SERIE A",
     "kickoff": "2026-10-19T16:30:00Z",
@@ -45,75 +19,6 @@
       "side": "under",
       "line": 2.5
     }
-  },
-  {
-    "id": "caca2d752fe1a1779029082e95332fcc",
-    "league": "NFL",
-    "kickoff": "2026-10-18T17:00:00Z",
-    "venue": "",
-    "home": "Philadelphia Eagles",
-    "away": "Carolina Panthers",
-    "market": "Spread",
-    "selection": "Carolina Panthers -3.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -3.5
-    },
-    "locked": true,
-    "publishedOdds": 1.98,
-    "live": true
-  },
-  {
-    "id": "0b0b582b32b09ab6ff6664ffae0c9653",
-    "league": "NFL",
-    "kickoff": "2026-10-18T17:00:00Z",
-    "venue": "",
-    "home": "New England Patriots",
-    "away": "New York Jets",
-    "market": "Spread",
-    "selection": "New England Patriots -7",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 50.5,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -7
-    },
-    "locked": true,
-    "publishedOdds": 1.95,
-    "live": true
-  },
-  {
-    "id": "27f3994841ce8081c0b7349cf3d1e3d7",
-    "league": "NFL",
-    "kickoff": "2026-10-18T17:00:00Z",
-    "venue": "",
-    "home": "Tampa Bay Buccaneers",
-    "away": "Pittsburgh Steelers",
-    "market": "Total",
-    "selection": "Under 39.5",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 53.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 39.5
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
-    "live": true
   },
   {
     "id": "907639dade64cca45d1ab639195d201e",
