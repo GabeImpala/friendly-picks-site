@@ -1,26 +1,5 @@
 [
   {
-    "id": "ce94aca384a20f6af459366da6e1dd21",
-    "league": "SERIE A",
-    "kickoff": "2026-10-19T16:30:00Z",
-    "venue": "",
-    "home": "Monza",
-    "away": "Cagliari",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.82,
-    "openOdds": 1.82,
-    "baseProb": 54.5,
-    "baselineNote": "Consensus of 16 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    }
-  },
-  {
     "id": "907639dade64cca45d1ab639195d201e",
     "league": "SERIE A",
     "kickoff": "2026-10-17T13:00:00Z",
@@ -360,6 +339,29 @@
     "role": "upset",
     "locked": true,
     "publishedOdds": 3.7,
+    "live": true
+  },
+  {
+    "id": "ce94aca384a20f6af459366da6e1dd21",
+    "league": "SERIE A",
+    "kickoff": "2026-10-19T16:30:00Z",
+    "venue": "",
+    "home": "Monza",
+    "away": "Cagliari",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 1.82,
+    "openOdds": 1.82,
+    "baseProb": 54.5,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.82,
     "live": true
   },
   {
