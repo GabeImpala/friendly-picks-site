@@ -616,6 +616,39 @@
     "result": "W"
   },
   {
+    "id": "907639dade64cca45d1ab639195d201e|total|over|2.5",
+    "date": "2026-10-17",
+    "league": "SERIE A",
+    "home": "Venezia",
+    "away": "Napoli",
+    "selection": "Over 2.5 goals",
+    "odds": 1.77,
+    "prob": 56.3,
+    "result": "L"
+  },
+  {
+    "id": "bfefc309177723410230fee52f650315|h2h|away|",
+    "date": "2026-10-17",
+    "league": "SERIE A",
+    "home": "Bologna",
+    "away": "Inter Milan",
+    "selection": "Inter Milan to win",
+    "odds": 1.69,
+    "prob": 59.4,
+    "result": "W"
+  },
+  {
+    "id": "18d478f469da3bcc654dd4555b85c7e3|h2h|home|",
+    "date": "2026-10-17",
+    "league": "SERIE A",
+    "home": "AS Roma",
+    "away": "Genoa",
+    "selection": "AS Roma to win",
+    "odds": 1.51,
+    "prob": 65.7,
+    "result": "W"
+  },
+  {
     "id": "6436925dd15916d7041ba32b60000d48|h2h|away|",
     "date": "2026-10-17",
     "league": "LA LIGA",
@@ -668,6 +701,61 @@
     "selection": "Under 39.5",
     "odds": 1.93,
     "prob": 53.4,
+    "result": "L"
+  },
+  {
+    "id": "367da93aa21a1e13eeafb94fd2263c75|total|under|2.5",
+    "date": "2026-10-18",
+    "league": "SERIE A",
+    "home": "Udinese",
+    "away": "Lecce",
+    "selection": "Under 2.5 goals",
+    "odds": 1.87,
+    "prob": 52.6,
+    "result": "L"
+  },
+  {
+    "id": "3ea32a0aa44a5f0ef7fd088155430087|total|over|2.5",
+    "date": "2026-10-18",
+    "league": "SERIE A",
+    "home": "Fiorentina",
+    "away": "Como",
+    "selection": "Over 2.5 goals",
+    "odds": 1.73,
+    "prob": 56.7,
+    "result": "W"
+  },
+  {
+    "id": "f9403dd597edbfaa73abdc974e55344c|total|over|2.5",
+    "date": "2026-10-18",
+    "league": "SERIE A",
+    "home": "AC Milan",
+    "away": "Atalanta BC",
+    "selection": "Over 2.5 goals",
+    "odds": 1.83,
+    "prob": 54.5,
+    "result": "W"
+  },
+  {
+    "id": "3ea32a0aa44a5f0ef7fd088155430087|h2h|home|",
+    "date": "2026-10-18",
+    "league": "SERIE A",
+    "home": "Fiorentina",
+    "away": "Como",
+    "selection": "Fiorentina to win",
+    "odds": 3.7,
+    "prob": 28.2,
+    "result": "L"
+  },
+  {
+    "id": "ce94aca384a20f6af459366da6e1dd21|total|under|2.5",
+    "date": "2026-10-19",
+    "league": "SERIE A",
+    "home": "Monza",
+    "away": "Cagliari",
+    "selection": "Under 2.5 goals",
+    "odds": 1.82,
+    "prob": 54.5,
     "result": "L"
   }
 ]
