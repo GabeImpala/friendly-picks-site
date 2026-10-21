@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T19:26:36.448Z",
+  "updatedAt": "2026-10-21T19:31:40.310Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19998,
+  "creditsRemaining": 19997,
   "info": [
-    "This run could spend up to 1 credits (10 left this cycle).",
+    "This run could spend up to 1 credits (9 left this cycle).",
     "LA LIGA: results will be settled on a later run (credit budget).",
     "MLB: results will be settled on a later run (credit budget).",
     "LIGA MX: results will be settled on a later run (credit budget).",
@@ -18,7 +18,6 @@
     "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
     "LA LIGA: no games in the next 36 hours, no credits used.",
     "SERIE A: no games in the next 36 hours, no credits used.",
-    "BTTS: some games skipped to stay within the credit budget.",
     "Used 1 credits this run."
   ]
 }
