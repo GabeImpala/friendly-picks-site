@@ -18,7 +18,9 @@
       "type": "spread",
       "side": "home",
       "line": -4.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.94
   },
   {
     "id": "85e6e4e2404ef7268659739997758da1",
@@ -58,7 +60,9 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.91
   },
   {
     "id": "60431a347feac3f1c7ed925b8b769ec5",
@@ -88,18 +92,18 @@
     "venue": "",
     "home": "Miami Heat",
     "away": "Minnesota Timberwolves",
-    "market": "Total",
-    "selection": "Over 240.5",
-    "odds": 1.95,
+    "market": "Spread",
+    "selection": "Miami Heat -1.5",
+    "odds": 1.98,
     "openOdds": 1.95,
-    "baseProb": 50,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "baseProb": 49.4,
+    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 240.5
+      "type": "spread",
+      "side": "home",
+      "line": -1.5
     }
   },
   {
@@ -135,7 +139,7 @@
     "odds": 1.97,
     "openOdds": 1.97,
     "baseProb": 49.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
@@ -213,7 +217,7 @@
     "away": "Sacramento Kings",
     "market": "Moneyline",
     "selection": "Sacramento Kings ML",
-    "odds": 2.75,
+    "odds": 2.7,
     "openOdds": 2.75,
     "baseProb": 36.6,
     "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
@@ -233,16 +237,18 @@
     "away": "Cleveland Cavaliers",
     "market": "Moneyline",
     "selection": "Philadelphia 76ers ML",
-    "odds": 1.77,
+    "odds": 1.74,
     "openOdds": 1.77,
-    "baseProb": 55.4,
+    "baseProb": 55.6,
     "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.77
   },
   {
     "id": "223b2883b9b05a67329ef246384b85f1",
@@ -263,7 +269,9 @@
       "type": "total",
       "side": "under",
       "line": 235.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.98
   },
   {
     "id": "0d34c898f6cbb990077ae9f0a2773513",
@@ -283,7 +291,9 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.77
   },
   {
     "id": "49fc89a9696a9a20b658732b34ce61c4",
@@ -316,7 +326,7 @@
     "selection": "Philadelphia Flyers ML",
     "odds": 2.68,
     "openOdds": 2.68,
-    "baseProb": 36.6,
+    "baseProb": 36.5,
     "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -344,7 +354,9 @@
       "type": "total",
       "side": "under",
       "line": 5.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 2
   },
   {
     "id": "921ae4814ca448a3040aa6de5b0fb9e9",
@@ -384,7 +396,9 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.67
   },
   {
     "id": "d57c3873ab3f113b8b77614edff4cf8f",
@@ -508,7 +522,9 @@
       "type": "spread",
       "side": "home",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.43
   },
   {
     "id": "7e4df53f515e77bc6555279eb5d6946a",
@@ -550,7 +566,9 @@
       "type": "spread",
       "side": "home",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.43
   },
   {
     "id": "2d1a2e330020589eb147fe4736ccfd1e",
@@ -584,7 +602,7 @@
     "selection": "Utah Mammoth -1.5",
     "odds": 2.55,
     "openOdds": 2.55,
-    "baseProb": 38.9,
+    "baseProb": 39,
     "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -618,7 +636,9 @@
       "windMph": 4.5,
       "precip": "None",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.62
   },
   {
     "id": "0c2a678f69b702ad3579488a6bf60cfd",
@@ -644,7 +664,9 @@
       "windMph": 8.7,
       "precip": "None",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.69
   },
   {
     "id": "33447078b28d03801c00b90ad1051eb9",
@@ -696,7 +718,9 @@
       "windMph": 5.8,
       "precip": "None",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.59
   },
   {
     "id": "24e76350fbe9f35cb57c93e72bc2a0cf",
