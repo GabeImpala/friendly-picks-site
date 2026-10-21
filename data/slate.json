@@ -1,5 +1,32 @@
 [
   {
+    "id": "ffebea881c1d7b2dfb85b3e590c35985",
+    "league": "NFL",
+    "kickoff": "2026-10-23T00:15:00Z",
+    "venue": "",
+    "home": "Chicago Bears",
+    "away": "New England Patriots",
+    "market": "Moneyline",
+    "selection": "New England Patriots ML",
+    "odds": 2.41,
+    "openOdds": 2.41,
+    "baseProb": 41.1,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 55.1,
+      "windMph": 5.2,
+      "precip": "None",
+      "roof": "open"
+    },
+    "aiHomeProb": 59
+  },
+  {
     "id": "164cc0396837d5ff433215ffd3279283",
     "league": "NBA",
     "kickoff": "2026-10-21T23:00:00Z",
@@ -316,6 +343,190 @@
     }
   },
   {
+    "id": "03cd9aab53293d44e78489ce0ab707e3",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-22T01:00:00Z",
+    "venue": "",
+    "home": "Atlas",
+    "away": "América",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.62,
+    "openOdds": 1.62,
+    "baseProb": 60.7,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "weather": {
+      "tempF": 81.2,
+      "windMph": 4.5,
+      "precip": "None",
+      "roof": "open"
+    },
+    "locked": true,
+    "publishedOdds": 1.62
+  },
+  {
+    "id": "0c2a678f69b702ad3579488a6bf60cfd",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-22T01:00:00Z",
+    "venue": "",
+    "home": "Puebla",
+    "away": "Monterrey",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.69,
+    "openOdds": 1.69,
+    "baseProb": 58.8,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "weather": {
+      "tempF": 63.3,
+      "windMph": 8.7,
+      "precip": "None",
+      "roof": "open"
+    },
+    "locked": true,
+    "publishedOdds": 1.69
+  },
+  {
+    "id": "33447078b28d03801c00b90ad1051eb9",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-22T01:00:00Z",
+    "venue": "",
+    "home": "Toluca",
+    "away": "Tijuana",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.8,
+    "openOdds": 1.8,
+    "baseProb": 55.8,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "weather": {
+      "tempF": 55.8,
+      "windMph": 1.9,
+      "precip": "Light rain",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "d31e02db07844bb9404170edf4e33d63",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-22T03:10:00Z",
+    "venue": "",
+    "home": "Pachuca",
+    "away": "Cruz Azul",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.59,
+    "openOdds": 1.59,
+    "baseProb": 62.3,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "weather": {
+      "tempF": 55.5,
+      "windMph": 5.8,
+      "precip": "None",
+      "roof": "open"
+    },
+    "locked": true,
+    "publishedOdds": 1.59
+  },
+  {
+    "id": "24e76350fbe9f35cb57c93e72bc2a0cf",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-22T03:10:00Z",
+    "venue": "",
+    "home": "Santos Laguna",
+    "away": "Pumas",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.46,
+    "openOdds": 2.46,
+    "baseProb": 41.3,
+    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "weather": {
+      "tempF": 71.2,
+      "windMph": 7,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "93724e91911d1080f18a37c0d2f849ac",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-24T01:00:00Z",
+    "venue": "",
+    "home": "Necaxa",
+    "away": "FC Juárez",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.46,
+    "openOdds": 2.46,
+    "baseProb": 40.7,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "weather": {
+      "tempF": 74,
+      "windMph": 8.2,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "b87c8686c5331aacf51b54b25124a332",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-24T03:00:00Z",
+    "venue": "",
+    "home": "Atlante FC",
+    "away": "Atlético San Luis",
+    "market": "Match result",
+    "selection": "Draw",
+    "odds": 3.66,
+    "openOdds": 3.66,
+    "baseProb": 26.9,
+    "baselineNote": "Consensus of 17 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "draw"
+    }
+  },
+  {
     "id": "0b4bab4d663e04a571655ec7477eb10a",
     "league": "NHL",
     "kickoff": "2026-10-21T23:40:00Z",
@@ -611,217 +822,6 @@
       "side": "away",
       "line": -1.5
     }
-  },
-  {
-    "id": "03cd9aab53293d44e78489ce0ab707e3",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
-    "venue": "",
-    "home": "Atlas",
-    "away": "América",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.62,
-    "openOdds": 1.62,
-    "baseProb": 60.7,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 81.2,
-      "windMph": 4.5,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.62
-  },
-  {
-    "id": "0c2a678f69b702ad3579488a6bf60cfd",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Monterrey",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.69,
-    "openOdds": 1.69,
-    "baseProb": 58.8,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 63.3,
-      "windMph": 8.7,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.69
-  },
-  {
-    "id": "33447078b28d03801c00b90ad1051eb9",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
-    "venue": "",
-    "home": "Toluca",
-    "away": "Tijuana",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.8,
-    "openOdds": 1.8,
-    "baseProb": 55.8,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 55.8,
-      "windMph": 1.9,
-      "precip": "Light rain",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "d31e02db07844bb9404170edf4e33d63",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T03:10:00Z",
-    "venue": "",
-    "home": "Pachuca",
-    "away": "Cruz Azul",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.59,
-    "openOdds": 1.59,
-    "baseProb": 62.3,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 55.5,
-      "windMph": 5.8,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.59
-  },
-  {
-    "id": "24e76350fbe9f35cb57c93e72bc2a0cf",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T03:10:00Z",
-    "venue": "",
-    "home": "Santos Laguna",
-    "away": "Pumas",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.46,
-    "openOdds": 2.46,
-    "baseProb": 41.3,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 71.2,
-      "windMph": 7,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "93724e91911d1080f18a37c0d2f849ac",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-24T01:00:00Z",
-    "venue": "",
-    "home": "Necaxa",
-    "away": "FC Juárez",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.46,
-    "openOdds": 2.46,
-    "baseProb": 40.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 74,
-      "windMph": 8.2,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "b87c8686c5331aacf51b54b25124a332",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-24T03:00:00Z",
-    "venue": "",
-    "home": "Atlante FC",
-    "away": "Atlético San Luis",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 3.66,
-    "openOdds": 3.66,
-    "baseProb": 26.9,
-    "baselineNote": "Consensus of 17 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
-    }
-  },
-  {
-    "id": "ffebea881c1d7b2dfb85b3e590c35985",
-    "league": "NFL",
-    "kickoff": "2026-10-23T00:15:00Z",
-    "venue": "",
-    "home": "Chicago Bears",
-    "away": "New England Patriots",
-    "market": "Moneyline",
-    "selection": "New England Patriots ML",
-    "odds": 2.41,
-    "openOdds": 2.41,
-    "baseProb": 41.1,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 55.1,
-      "windMph": 5.2,
-      "precip": "None",
-      "roof": "open"
-    },
-    "aiHomeProb": 59
   },
   {
     "id": "846e496fc232b2fc20214754836727d0",
