@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T22:02:38.519Z",
+  "updatedAt": "2026-10-21T23:06:31.499Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19915,
+  "creditsRemaining": 19904,
   "info": [
-    "This run could spend up to 197 credits (1448 left this cycle).",
+    "This run could spend up to 195 credits (1437 left this cycle).",
     "MLB: no games in the next 36 hours, no credits used.",
     "EPL: no games in the next 36 hours, no credits used.",
     "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
