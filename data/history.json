@@ -757,5 +757,16 @@
     "odds": 1.82,
     "prob": 54.5,
     "result": "L"
+  },
+  {
+    "id": "164cc0396837d5ff433215ffd3279283|spread|home|-4.5",
+    "date": "2026-10-21",
+    "league": "NBA",
+    "home": "Washington Wizards",
+    "away": "Milwaukee Bucks",
+    "selection": "Washington Wizards -4.5",
+    "odds": 1.94,
+    "prob": 50.6,
+    "result": "W"
   }
 ]
