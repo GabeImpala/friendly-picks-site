@@ -27,46 +27,6 @@
     "aiHomeProb": 59
   },
   {
-    "id": "71e24359951927c356bd8c852fb867dd",
-    "league": "NBA",
-    "kickoff": "2026-10-22T02:10:00Z",
-    "venue": "",
-    "home": "Portland Trail Blazers",
-    "away": "Phoenix Suns",
-    "market": "Moneyline",
-    "selection": "Phoenix Suns ML",
-    "odds": 2.25,
-    "openOdds": 2.25,
-    "baseProb": 43.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "f6be3e587d43c3821d8f059c3a1f1967",
-    "league": "NBA",
-    "kickoff": "2026-10-22T02:40:00Z",
-    "venue": "",
-    "home": "Los Angeles Clippers",
-    "away": "Sacramento Kings",
-    "market": "Moneyline",
-    "selection": "Sacramento Kings ML",
-    "odds": 2.7,
-    "openOdds": 2.75,
-    "baseProb": 36.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "110e33c79c5ec8c0377702aff685f83b",
     "league": "NBA",
     "kickoff": "2026-10-22T23:10:00Z",
@@ -151,61 +111,6 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
-  },
-  {
-    "id": "d31e02db07844bb9404170edf4e33d63",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T03:10:00Z",
-    "venue": "",
-    "home": "Pachuca",
-    "away": "Cruz Azul",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.59,
-    "openOdds": 1.59,
-    "baseProb": 62.3,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 55.3,
-      "windMph": 4.1,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.59
-  },
-  {
-    "id": "24e76350fbe9f35cb57c93e72bc2a0cf",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T03:10:00Z",
-    "venue": "",
-    "home": "Santos Laguna",
-    "away": "Pumas",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.5,
-    "openOdds": 2.46,
-    "baseProb": 41,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 69.9,
-      "windMph": 4.9,
-      "precip": "None",
-      "roof": "open"
     }
   },
   {
@@ -742,62 +647,17 @@
     "live": true
   },
   {
-    "id": "47cc511bb5ce50f715e3625ce5ef77ee",
-    "league": "NBA",
-    "kickoff": "2026-10-21T23:30:00Z",
-    "venue": "",
-    "home": "Brooklyn Nets",
-    "away": "Charlotte Hornets",
-    "market": "Moneyline",
-    "selection": "Charlotte Hornets ML",
-    "odds": 1.91,
-    "openOdds": 1.91,
-    "baseProb": 51.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.91,
-    "live": true
-  },
-  {
-    "id": "5736c2282f978bfdf849f4b10876080e",
-    "league": "NHL",
-    "kickoff": "2026-10-21T23:40:00Z",
-    "venue": "",
-    "home": "Ottawa Senators",
-    "away": "Florida Panthers",
-    "market": "Total",
-    "selection": "Under 5.5",
-    "odds": 2,
-    "openOdds": 2,
-    "baseProb": 49.5,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 5.5
-    },
-    "locked": true,
-    "publishedOdds": 2,
-    "live": true
-  },
-  {
-    "id": "03cd9aab53293d44e78489ce0ab707e3",
+    "id": "d31e02db07844bb9404170edf4e33d63",
     "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
+    "kickoff": "2026-10-22T03:10:00Z",
     "venue": "",
-    "home": "Atlas",
-    "away": "América",
+    "home": "Pachuca",
+    "away": "Cruz Azul",
     "market": "Both teams to score",
     "selection": "Both teams to score: Yes",
-    "odds": 1.62,
-    "openOdds": 1.62,
-    "baseProb": 60.7,
+    "odds": 1.59,
+    "openOdds": 1.59,
+    "baseProb": 62.3,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -805,97 +665,7 @@
       "side": "yes"
     },
     "locked": true,
-    "publishedOdds": 1.62,
-    "live": true
-  },
-  {
-    "id": "0c2a678f69b702ad3579488a6bf60cfd",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Monterrey",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.69,
-    "openOdds": 1.69,
-    "baseProb": 58.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "locked": true,
-    "publishedOdds": 1.69,
-    "live": true
-  },
-  {
-    "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
-    "league": "NBA",
-    "kickoff": "2026-10-22T00:10:00Z",
-    "venue": "",
-    "home": "New Orleans Pelicans",
-    "away": "Indiana Pacers",
-    "market": "Spread",
-    "selection": "Indiana Pacers -3.5",
-    "odds": 1.99,
-    "openOdds": 1.97,
-    "baseProb": 49.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -3.5
-    },
-    "locked": true,
-    "publishedOdds": 1.99,
-    "live": true
-  },
-  {
-    "id": "0c2a678f69b702ad3579488a6bf60cfd",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T01:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Monterrey",
-    "market": "Match result",
-    "selection": "Puebla to win",
-    "odds": 4.4,
-    "openOdds": 4.3,
-    "baseProb": 23.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 4.4,
-    "live": true
-  },
-  {
-    "id": "0b4bab4d663e04a571655ec7477eb10a",
-    "league": "NHL",
-    "kickoff": "2026-10-21T23:40:00Z",
-    "venue": "",
-    "home": "Buffalo Sabres",
-    "away": "Philadelphia Flyers",
-    "market": "Moneyline",
-    "selection": "Buffalo Sabres ML",
-    "odds": 1.53,
-    "openOdds": 1.53,
-    "baseProb": 64.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.53,
+    "publishedOdds": 1.59,
     "live": true
   }
 ]
