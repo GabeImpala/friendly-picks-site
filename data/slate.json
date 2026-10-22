@@ -645,27 +645,5 @@
     "locked": true,
     "publishedOdds": 1.86,
     "live": true
-  },
-  {
-    "id": "d31e02db07844bb9404170edf4e33d63",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-22T03:10:00Z",
-    "venue": "",
-    "home": "Pachuca",
-    "away": "Cruz Azul",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.59,
-    "openOdds": 1.59,
-    "baseProb": 62.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "locked": true,
-    "publishedOdds": 1.59,
-    "live": true
   }
 ]
