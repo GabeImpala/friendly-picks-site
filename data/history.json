@@ -869,6 +869,17 @@
     "result": "W"
   },
   {
+    "id": "223b2883b9b05a67329ef246384b85f1|total|under|235.5",
+    "date": "2026-10-22",
+    "league": "NBA",
+    "home": "Oklahoma City Thunder",
+    "away": "Denver Nuggets",
+    "selection": "Under 235.5",
+    "odds": 1.98,
+    "prob": 49.6,
+    "result": "W"
+  },
+  {
     "id": "62fca8dce49c8fa3988f75322311b896|h2h|home|",
     "date": "2026-10-22",
     "league": "NHL",
@@ -877,6 +888,28 @@
     "selection": "Boston Bruins ML",
     "odds": 1.67,
     "prob": 58.7,
+    "result": "W"
+  },
+  {
+    "id": "58afd2b5779b2e4f163314436900d379|spread|home|1.5",
+    "date": "2026-10-22",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Vegas Golden Knights",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.43,
+    "prob": 68.6,
+    "result": "W"
+  },
+  {
+    "id": "8a951cc95f91e5df49f7aad4219c40e0|spread|home|1.5",
+    "date": "2026-10-22",
+    "league": "NHL",
+    "home": "Edmonton Oilers",
+    "away": "Carolina Hurricanes",
+    "selection": "Edmonton Oilers +1.5",
+    "odds": 1.43,
+    "prob": 68.9,
     "result": "W"
   }
 ]

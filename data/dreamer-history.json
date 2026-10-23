@@ -711,5 +711,165 @@
     "publishedAt": "2026-10-21T19:42:37.775Z",
     "result": "L",
     "settledAt": "2026-10-22T09:17:06.991Z"
+  },
+  {
+    "day": "2026-10-22",
+    "legs": [
+      {
+        "eventId": "8a951cc95f91e5df49f7aad4219c40e0",
+        "league": "NHL",
+        "kickoff": "2026-10-23T01:10:00Z",
+        "home": "Edmonton Oilers",
+        "away": "Carolina Hurricanes",
+        "market": "Spread",
+        "selection": "Edmonton Oilers +1.5",
+        "odds": 1.43,
+        "prob": 68.1,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 6,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "58afd2b5779b2e4f163314436900d379",
+        "league": "NHL",
+        "kickoff": "2026-10-23T00:10:00Z",
+        "home": "St Louis Blues",
+        "away": "Vegas Golden Knights",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.44,
+        "prob": 67.6,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 6,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "62fca8dce49c8fa3988f75322311b896",
+        "league": "NHL",
+        "kickoff": "2026-10-22T23:10:00Z",
+        "home": "Boston Bruins",
+        "away": "Nashville Predators",
+        "market": "Moneyline",
+        "selection": "Boston Bruins ML",
+        "odds": 1.72,
+        "prob": 56.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 6,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "110e33c79c5ec8c0377702aff685f83b",
+        "league": "NBA",
+        "kickoff": "2026-10-22T23:10:00Z",
+        "home": "Philadelphia 76ers",
+        "away": "Cleveland Cavaliers",
+        "market": "Moneyline",
+        "selection": "Philadelphia 76ers ML",
+        "odds": 1.71,
+        "prob": 56.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 114,
+        "awayScore": 106,
+        "result": "W"
+      },
+      {
+        "eventId": "921ae4814ca448a3040aa6de5b0fb9e9",
+        "league": "NHL",
+        "kickoff": "2026-10-22T23:10:00Z",
+        "home": "New Jersey Devils",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.77,
+        "prob": 55.4,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "d57c3873ab3f113b8b77614edff4cf8f",
+        "league": "NHL",
+        "kickoff": "2026-10-22T23:10:00Z",
+        "home": "Pittsburgh Penguins",
+        "away": "Florida Panthers",
+        "market": "Total",
+        "selection": "Over 6.5",
+        "odds": 1.85,
+        "prob": 53.4,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 6.5
+        },
+        "homeScore": 4,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "223b2883b9b05a67329ef246384b85f1",
+        "league": "NBA",
+        "kickoff": "2026-10-23T01:40:00Z",
+        "home": "Oklahoma City Thunder",
+        "away": "Denver Nuggets",
+        "market": "Total",
+        "selection": "Under 235.5",
+        "odds": 1.98,
+        "prob": 49.9,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 236.5
+        },
+        "homeScore": 96,
+        "awayScore": 84,
+        "result": "W"
+      },
+      {
+        "eventId": "64c943b2b0c51d39a312874b925590f7",
+        "league": "NHL",
+        "kickoff": "2026-10-23T00:10:00Z",
+        "home": "Dallas Stars",
+        "away": "Winnipeg Jets",
+        "market": "Total",
+        "selection": "Over 5.5",
+        "odds": 1.99,
+        "prob": 49.3,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 5.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "L"
+      }
+    ],
+    "odds": 78.1423285044505,
+    "hitChance": 1.07,
+    "publishedAt": "2026-10-22T18:44:35.135Z",
+    "result": "L",
+    "settledAt": "2026-10-23T05:00:25.773Z"
   }
 ]

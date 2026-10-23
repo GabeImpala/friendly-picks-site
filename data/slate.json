@@ -1179,48 +1179,6 @@
     }
   },
   {
-    "id": "2d1a2e330020589eb147fe4736ccfd1e",
-    "league": "NHL",
-    "kickoff": "2026-10-23T02:10:00Z",
-    "venue": "",
-    "home": "Vancouver Canucks",
-    "away": "Detroit Red Wings",
-    "market": "Spread",
-    "selection": "Detroit Red Wings -1.5",
-    "odds": 2.5,
-    "openOdds": 2.5,
-    "baseProb": 39,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
-    }
-  },
-  {
-    "id": "ec5f71ec810aef5fc417a879c49750f1",
-    "league": "NHL",
-    "kickoff": "2026-10-23T02:10:00Z",
-    "venue": "",
-    "home": "Seattle Kraken",
-    "away": "Utah Mammoth",
-    "market": "Spread",
-    "selection": "Utah Mammoth -1.5",
-    "odds": 2.45,
-    "openOdds": 2.55,
-    "baseProb": 40,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
-    }
-  },
-  {
     "id": "db9d82d62d8f222bfd835100662c6ac6",
     "league": "NHL",
     "kickoff": "2026-10-24T00:10:00Z",
@@ -1466,75 +1424,6 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
-    "live": true
-  },
-  {
-    "id": "223b2883b9b05a67329ef246384b85f1",
-    "league": "NBA",
-    "kickoff": "2026-10-23T01:40:00Z",
-    "venue": "",
-    "home": "Oklahoma City Thunder",
-    "away": "Denver Nuggets",
-    "market": "Total",
-    "selection": "Under 235.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 235.5
-    },
-    "locked": true,
-    "publishedOdds": 1.98,
-    "live": true
-  },
-  {
-    "id": "58afd2b5779b2e4f163314436900d379",
-    "league": "NHL",
-    "kickoff": "2026-10-23T00:10:00Z",
-    "venue": "",
-    "home": "St Louis Blues",
-    "away": "Vegas Golden Knights",
-    "market": "Spread",
-    "selection": "St Louis Blues +1.5",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 68.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.43,
-    "live": true
-  },
-  {
-    "id": "8a951cc95f91e5df49f7aad4219c40e0",
-    "league": "NHL",
-    "kickoff": "2026-10-23T01:10:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Carolina Hurricanes",
-    "market": "Spread",
-    "selection": "Edmonton Oilers +1.5",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 68.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.43,
     "live": true
   }
 ]
