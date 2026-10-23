@@ -856,5 +856,27 @@
     "odds": 1.53,
     "prob": 64.3,
     "result": "L"
+  },
+  {
+    "id": "110e33c79c5ec8c0377702aff685f83b|h2h|home|",
+    "date": "2026-10-22",
+    "league": "NBA",
+    "home": "Philadelphia 76ers",
+    "away": "Cleveland Cavaliers",
+    "selection": "Philadelphia 76ers ML",
+    "odds": 1.77,
+    "prob": 55.4,
+    "result": "W"
+  },
+  {
+    "id": "62fca8dce49c8fa3988f75322311b896|h2h|home|",
+    "date": "2026-10-22",
+    "league": "NHL",
+    "home": "Boston Bruins",
+    "away": "Nashville Predators",
+    "selection": "Boston Bruins ML",
+    "odds": 1.67,
+    "prob": 58.7,
+    "result": "W"
   }
 ]
