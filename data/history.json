@@ -911,5 +911,49 @@
     "odds": 1.43,
     "prob": 68.9,
     "result": "W"
+  },
+  {
+    "id": "124c70f8f3248a845bdb983a54e74720|total|under|2.5",
+    "date": "2026-10-23",
+    "league": "SERIE A",
+    "home": "Torino",
+    "away": "Monza",
+    "selection": "Under 2.5 goals",
+    "odds": 1.96,
+    "prob": 51.4,
+    "result": "L"
+  },
+  {
+    "id": "d0202960708a442401d7fc7bd74a0183|total|over|2.5",
+    "date": "2026-10-23",
+    "league": "EPL",
+    "home": "Ipswich Town",
+    "away": "Nottingham Forest",
+    "selection": "Over 2.5 goals",
+    "odds": 1.83,
+    "prob": 54.3,
+    "result": "L"
+  },
+  {
+    "id": "903eb4941471ffe20d525b02dd3b77aa|h2h|home|",
+    "date": "2026-10-23",
+    "league": "LA LIGA",
+    "home": "Alavés",
+    "away": "Málaga",
+    "selection": "Alavés to win",
+    "odds": 1.79,
+    "prob": 55.9,
+    "result": "P"
+  },
+  {
+    "id": "124c70f8f3248a845bdb983a54e74720|h2h|away|",
+    "date": "2026-10-23",
+    "league": "SERIE A",
+    "home": "Torino",
+    "away": "Monza",
+    "selection": "Monza to win",
+    "odds": 4,
+    "prob": 26.1,
+    "result": "L"
   }
 ]

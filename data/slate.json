@@ -216,26 +216,6 @@
     "aiHomeProb": 44.6
   },
   {
-    "id": "0cdc865f5b785c0be6bc409117fe38aa",
-    "league": "NBA",
-    "kickoff": "2026-10-23T20:10:00Z",
-    "venue": "",
-    "home": "Milwaukee Bucks",
-    "away": "Chicago Bulls",
-    "market": "Moneyline",
-    "selection": "Chicago Bulls ML",
-    "odds": 2.08,
-    "openOdds": 2,
-    "baseProb": 47.3,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "fd0625e5807950edc0d2d31772639859",
     "league": "NBA",
     "kickoff": "2026-10-23T23:10:00Z",
@@ -1892,97 +1872,6 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
-    "live": true
-  },
-  {
-    "id": "124c70f8f3248a845bdb983a54e74720",
-    "league": "SERIE A",
-    "kickoff": "2026-10-23T18:45:00Z",
-    "venue": "",
-    "home": "Torino",
-    "away": "Monza",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 51.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.96,
-    "live": true
-  },
-  {
-    "id": "d0202960708a442401d7fc7bd74a0183",
-    "league": "EPL",
-    "kickoff": "2026-10-23T19:00:00Z",
-    "venue": "",
-    "home": "Ipswich Town",
-    "away": "Nottingham Forest",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.83,
-    "openOdds": 1.83,
-    "baseProb": 54.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.83,
-    "live": true
-  },
-  {
-    "id": "903eb4941471ffe20d525b02dd3b77aa",
-    "league": "LA LIGA",
-    "kickoff": "2026-10-23T19:00:00Z",
-    "venue": "",
-    "home": "Alavés",
-    "away": "Málaga",
-    "market": "Match result",
-    "selection": "Alavés to win",
-    "odds": 1.79,
-    "openOdds": 1.79,
-    "baseProb": 55.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.79,
-    "live": true
-  },
-  {
-    "id": "124c70f8f3248a845bdb983a54e74720",
-    "league": "SERIE A",
-    "kickoff": "2026-10-23T18:45:00Z",
-    "venue": "",
-    "home": "Torino",
-    "away": "Monza",
-    "market": "Match result",
-    "selection": "Monza to win",
-    "odds": 4,
-    "openOdds": 3.75,
-    "baseProb": 26.1,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 4,
     "live": true
   }
 ]
