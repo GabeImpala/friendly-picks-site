@@ -1,13 +1,12 @@
 {
-  "updatedAt": "2026-10-23T18:38:55.080Z",
+  "updatedAt": "2026-10-23T20:00:26.554Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19757,
+  "creditsRemaining": 19741,
   "info": [
-    "This run could spend up to 216 credits (1297 left this cycle).",
-    "NFL: no games in the next 36 hours, no credits used.",
-    "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
-    "Used 18 credits this run."
+    "This run could spend up to 213 credits (1279 left this cycle).",
+    "Settle-only run: skipped fetching new odds.",
+    "Used 16 credits this run."
   ]
 }
