@@ -1034,6 +1034,17 @@
     "result": "W"
   },
   {
+    "id": "b87c8686c5331aacf51b54b25124a332|total|over|2.5",
+    "date": "2026-10-23",
+    "league": "LIGA MX",
+    "home": "Atlante FC",
+    "away": "Atlético San Luis",
+    "selection": "Over 2.5 goals",
+    "odds": 1.88,
+    "prob": 52.9,
+    "result": "L"
+  },
+  {
     "id": "946d3484688886fd8d3662aee224fb5f|spread|home|-9",
     "date": "2026-10-23",
     "league": "NBA",
