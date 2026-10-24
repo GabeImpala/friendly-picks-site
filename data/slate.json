@@ -216,90 +216,6 @@
     "aiHomeProb": 44.6
   },
   {
-    "id": "d7525d3e92349ef234ca0c1ac699b365",
-    "league": "NBA",
-    "kickoff": "2026-10-24T02:10:00Z",
-    "venue": "",
-    "home": "Golden State Warriors",
-    "away": "Memphis Grizzlies",
-    "market": "Moneyline",
-    "selection": "Golden State Warriors ML",
-    "odds": 1.63,
-    "openOdds": 1.65,
-    "baseProb": 60.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.65
-  },
-  {
-    "id": "946d3484688886fd8d3662aee224fb5f",
-    "league": "NBA",
-    "kickoff": "2026-10-24T02:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Los Angeles Clippers",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -9",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.3,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -9
-    }
-  },
-  {
-    "id": "93ae924d3fc473aadfa50b26a9a2115b",
-    "league": "NBA",
-    "kickoff": "2026-10-24T02:10:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "Portland Trail Blazers",
-    "market": "Moneyline",
-    "selection": "Portland Trail Blazers ML",
-    "odds": 1.25,
-    "openOdds": 1.38,
-    "baseProb": 78.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "b87c8686c5331aacf51b54b25124a332",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-24T03:00:00Z",
-    "venue": "",
-    "home": "Atlante FC",
-    "away": "Atlético San Luis",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.88,
-    "openOdds": 1.75,
-    "baseProb": 52.9,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    }
-  },
-  {
     "id": "b98b81ceae2c0605ad5df25aeeda52c2",
     "league": "LIGA MX",
     "kickoff": "2026-10-24T23:00:00Z",
@@ -1506,7 +1422,7 @@
     "locked": true,
     "publishedOdds": 1.98,
     "live": true,
-    "aiHomeProb": 57.3
+    "aiHomeProb": 57.5
   },
   {
     "id": "a16dd30c67c32f12e0b4879034895cf9",
@@ -1601,63 +1517,17 @@
     "live": true
   },
   {
-    "id": "db9d82d62d8f222bfd835100662c6ac6",
-    "league": "NHL",
-    "kickoff": "2026-10-24T00:10:00Z",
-    "venue": "",
-    "home": "Chicago Blackhawks",
-    "away": "Montréal Canadiens",
-    "market": "Spread",
-    "selection": "Chicago Blackhawks +1.5",
-    "odds": 1.5,
-    "openOdds": 1.5,
-    "baseProb": 65.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.5,
-    "live": true
-  },
-  {
-    "id": "e4c03eec29795f56b6b06c313d3af271",
-    "league": "MLB",
-    "kickoff": "2026-10-24T00:00:00Z",
-    "venue": "",
-    "home": "Milwaukee Brewers",
-    "away": "Tampa Bay Rays",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.64,
-    "openOdds": 1.64,
-    "baseProb": 60.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.64,
-    "live": true,
-    "aiHomeProb": 60.7
-  },
-  {
-    "id": "93724e91911d1080f18a37c0d2f849ac",
+    "id": "b87c8686c5331aacf51b54b25124a332",
     "league": "LIGA MX",
-    "kickoff": "2026-10-24T01:00:00Z",
+    "kickoff": "2026-10-24T03:00:00Z",
     "venue": "",
-    "home": "Necaxa",
-    "away": "FC Juárez",
+    "home": "Atlante FC",
+    "away": "Atlético San Luis",
     "market": "Total",
     "selection": "Over 2.5 goals",
-    "odds": 1.69,
-    "openOdds": 1.64,
-    "baseProb": 58.5,
+    "odds": 1.88,
+    "openOdds": 1.75,
+    "baseProb": 52.9,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -1666,29 +1536,7 @@
       "line": 2.5
     },
     "locked": true,
-    "publishedOdds": 1.69,
-    "live": true
-  },
-  {
-    "id": "b7e4d8193096703065db318c2813168f",
-    "league": "NHL",
-    "kickoff": "2026-10-24T01:10:00Z",
-    "venue": "",
-    "home": "Colorado Avalanche",
-    "away": "Tampa Bay Lightning",
-    "market": "Moneyline",
-    "selection": "Colorado Avalanche ML",
-    "odds": 1.87,
-    "openOdds": 1.83,
-    "baseProb": 52.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.87,
+    "publishedOdds": 1.88,
     "live": true
   }
 ]

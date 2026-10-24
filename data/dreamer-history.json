@@ -871,5 +871,161 @@
     "publishedAt": "2026-10-22T18:44:35.135Z",
     "result": "L",
     "settledAt": "2026-10-23T05:00:25.773Z"
+  },
+  {
+    "day": "2026-10-23",
+    "legs": [
+      {
+        "eventId": "d36eac2ef6bf2d6c0af0073612f6193d",
+        "league": "NBA",
+        "kickoff": "2026-10-23T23:10:00Z",
+        "home": "Indiana Pacers",
+        "away": "Dallas Mavericks",
+        "market": "Moneyline",
+        "selection": "Indiana Pacers ML",
+        "odds": 1.39,
+        "prob": 70,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 105,
+        "awayScore": 121,
+        "result": "L"
+      },
+      {
+        "eventId": "e4c03eec29795f56b6b06c313d3af271",
+        "league": "MLB",
+        "kickoff": "2026-10-24T00:00:00Z",
+        "home": "Milwaukee Brewers",
+        "away": "Tampa Bay Rays",
+        "market": "Moneyline",
+        "selection": "Milwaukee Brewers ML",
+        "odds": 1.55,
+        "prob": 64.2,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "db9d82d62d8f222bfd835100662c6ac6",
+        "league": "NHL",
+        "kickoff": "2026-10-24T00:10:00Z",
+        "home": "Chicago Blackhawks",
+        "away": "Montréal Canadiens",
+        "market": "Spread",
+        "selection": "Chicago Blackhawks +1.5",
+        "odds": 1.57,
+        "prob": 61.9,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "d7525d3e92349ef234ca0c1ac699b365",
+        "league": "NBA",
+        "kickoff": "2026-10-24T02:10:00Z",
+        "home": "Golden State Warriors",
+        "away": "Memphis Grizzlies",
+        "market": "Moneyline",
+        "selection": "Golden State Warriors ML",
+        "odds": 1.63,
+        "prob": 60.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 108,
+        "awayScore": 111,
+        "result": "L"
+      },
+      {
+        "eventId": "903eb4941471ffe20d525b02dd3b77aa",
+        "league": "LA LIGA",
+        "kickoff": "2026-10-23T19:00:00Z",
+        "home": "Alavés",
+        "away": "Málaga",
+        "market": "Match result",
+        "selection": "Alavés to win",
+        "odds": 1.69,
+        "prob": 59,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "P"
+      },
+      {
+        "eventId": "fd0625e5807950edc0d2d31772639859",
+        "league": "NBA",
+        "kickoff": "2026-10-23T23:10:00Z",
+        "home": "Charlotte Hornets",
+        "away": "Atlanta Hawks",
+        "market": "Moneyline",
+        "selection": "Atlanta Hawks ML",
+        "odds": 1.75,
+        "prob": 56.3,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 81,
+        "awayScore": 128,
+        "result": "W"
+      },
+      {
+        "eventId": "93724e91911d1080f18a37c0d2f849ac",
+        "league": "LIGA MX",
+        "kickoff": "2026-10-24T01:00:00Z",
+        "home": "Necaxa",
+        "away": "FC Juárez",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.81,
+        "prob": 55.8,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "0d34c898f6cbb990077ae9f0a2773513",
+        "league": "NBA",
+        "kickoff": "2026-10-23T23:10:00Z",
+        "home": "Boston Celtics",
+        "away": "New York Knicks",
+        "market": "Moneyline",
+        "selection": "Boston Celtics ML",
+        "odds": 1.75,
+        "prob": 55.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 107,
+        "awayScore": 103,
+        "result": "W"
+      }
+    ],
+    "odds": 51.65057160186219,
+    "hitChance": 1.73,
+    "publishedAt": "2026-10-23T18:38:55.080Z",
+    "result": "L",
+    "settledAt": "2026-10-24T05:00:27.667Z"
   }
 ]
