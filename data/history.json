@@ -1054,5 +1054,93 @@
     "odds": 1.99,
     "prob": 49.3,
     "result": "L"
+  },
+  {
+    "id": "b7f0880e3da978f9481f7cb5697e2aa5|total|under|2.5",
+    "date": "2026-10-24",
+    "league": "SERIE A",
+    "home": "Cagliari",
+    "away": "Bologna",
+    "selection": "Under 2.5 goals",
+    "odds": 1.76,
+    "prob": 56.6,
+    "result": "W"
+  },
+  {
+    "id": "08ffd99b2249c81d8a7410598f32b9b0|h2h|home|",
+    "date": "2026-10-24",
+    "league": "SERIE A",
+    "home": "Como",
+    "away": "Sassuolo",
+    "selection": "Como to win",
+    "odds": 1.56,
+    "prob": 63.4,
+    "result": "W"
+  },
+  {
+    "id": "aca5dd297dbee71f576f7641569fe578|total|under|3.5",
+    "date": "2026-10-24",
+    "league": "EPL",
+    "home": "Aston Villa",
+    "away": "Manchester City",
+    "selection": "Under 3.5 goals",
+    "odds": 1.69,
+    "prob": 58.5,
+    "result": "W"
+  },
+  {
+    "id": "f66e4f29c1b7bcfc5ab58c0b88c8850b|h2h|home|",
+    "date": "2026-10-24",
+    "league": "EPL",
+    "home": "Arsenal",
+    "away": "Everton",
+    "selection": "Arsenal to win",
+    "odds": 1.5,
+    "prob": 66.2,
+    "result": "W"
+  },
+  {
+    "id": "0382a9faef0bb8df1bcc436536cffb05|total|under|3.5",
+    "date": "2026-10-24",
+    "league": "EPL",
+    "home": "Chelsea",
+    "away": "Tottenham Hotspur",
+    "selection": "Under 3.5 goals",
+    "odds": 1.71,
+    "prob": 58,
+    "result": "W"
+  },
+  {
+    "id": "5960b1b6c20acfd78e78764fed47d505|total|over|2.5",
+    "date": "2026-10-24",
+    "league": "LA LIGA",
+    "home": "Real Racing Club de Santander",
+    "away": "Espanyol",
+    "selection": "Over 2.5 goals",
+    "odds": 1.73,
+    "prob": 56.8,
+    "result": "W"
+  },
+  {
+    "id": "0dae715cc56fe201f9e667917c126691|total|over|2.5",
+    "date": "2026-10-24",
+    "league": "LA LIGA",
+    "home": "Valencia",
+    "away": "Villarreal",
+    "selection": "Over 2.5 goals",
+    "odds": 1.79,
+    "prob": 55.4,
+    "result": "W"
+  },
+  {
+    "id": "0382a9faef0bb8df1bcc436536cffb05|h2h|away|",
+    "date": "2026-10-24",
+    "league": "EPL",
+    "home": "Chelsea",
+    "away": "Tottenham Hotspur",
+    "selection": "Tottenham Hotspur to win",
+    "odds": 4.5,
+    "prob": 23.3,
+    "result": "W"
   }
 ]
