@@ -216,172 +216,6 @@
     "aiHomeProb": 44.6
   },
   {
-    "id": "fd0625e5807950edc0d2d31772639859",
-    "league": "NBA",
-    "kickoff": "2026-10-23T23:10:00Z",
-    "venue": "",
-    "home": "Charlotte Hornets",
-    "away": "Atlanta Hawks",
-    "market": "Moneyline",
-    "selection": "Atlanta Hawks ML",
-    "odds": 1.75,
-    "openOdds": 1.74,
-    "baseProb": 56.3,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "0d34c898f6cbb990077ae9f0a2773513",
-    "league": "NBA",
-    "kickoff": "2026-10-23T23:10:00Z",
-    "venue": "",
-    "home": "Boston Celtics",
-    "away": "New York Knicks",
-    "market": "Moneyline",
-    "selection": "Boston Celtics ML",
-    "odds": 1.75,
-    "openOdds": 1.77,
-    "baseProb": 55.3,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.77
-  },
-  {
-    "id": "d36eac2ef6bf2d6c0af0073612f6193d",
-    "league": "NBA",
-    "kickoff": "2026-10-23T23:10:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Dallas Mavericks",
-    "market": "Moneyline",
-    "selection": "Indiana Pacers ML",
-    "odds": 1.39,
-    "openOdds": 1.49,
-    "baseProb": 70,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.49
-  },
-  {
-    "id": "7763ba1c6e1e163be38cbe1b880d4cd9",
-    "league": "NBA",
-    "kickoff": "2026-10-23T23:10:00Z",
-    "venue": "",
-    "home": "Orlando Magic",
-    "away": "Minnesota Timberwolves",
-    "market": "Moneyline",
-    "selection": "Orlando Magic ML",
-    "odds": 1.96,
-    "openOdds": 2.06,
-    "baseProb": 50.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "8540b2b24fe0b2042a07c8c20452aead",
-    "league": "NBA",
-    "kickoff": "2026-10-23T23:10:00Z",
-    "venue": "",
-    "home": "Washington Wizards",
-    "away": "Toronto Raptors",
-    "market": "Spread",
-    "selection": "Toronto Raptors -8.5",
-    "odds": 1.94,
-    "openOdds": 1.94,
-    "baseProb": 50.7,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -8.5
-    }
-  },
-  {
-    "id": "db951d9ee1d6777d7ced41eba05aac44",
-    "league": "NBA",
-    "kickoff": "2026-10-24T00:10:00Z",
-    "venue": "",
-    "home": "Miami Heat",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 1.89,
-    "openOdds": 2.06,
-    "baseProb": 52.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "49fc89a9696a9a20b658732b34ce61c4",
-    "league": "NBA",
-    "kickoff": "2026-10-24T01:40:00Z",
-    "venue": "",
-    "home": "San Antonio Spurs",
-    "away": "Houston Rockets",
-    "market": "Spread",
-    "selection": "San Antonio Spurs -5",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 50,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -5
-    }
-  },
-  {
-    "id": "7469a7f48dbb77001b3148829f80c97b",
-    "league": "NBA",
-    "kickoff": "2026-10-24T01:40:00Z",
-    "venue": "",
-    "home": "Utah Jazz",
-    "away": "New Orleans Pelicans",
-    "market": "Moneyline",
-    "selection": "Utah Jazz ML",
-    "odds": 1.95,
-    "openOdds": 1.7,
-    "baseProb": 50.8,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "d7525d3e92349ef234ca0c1ac699b365",
     "league": "NBA",
     "kickoff": "2026-10-24T02:10:00Z",
@@ -443,71 +277,6 @@
       "type": "h2h",
       "side": "away"
     }
-  },
-  {
-    "id": "e4c03eec29795f56b6b06c313d3af271",
-    "league": "MLB",
-    "kickoff": "2026-10-24T00:00:00Z",
-    "venue": "",
-    "home": "Milwaukee Brewers",
-    "away": "Tampa Bay Rays",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.55,
-    "openOdds": 1.64,
-    "baseProb": 63.1,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "regression",
-        "label": "Selection is due for better results",
-        "detail": "Brewers: 103 wins vs 102.5 expected from runs. Rays: 98 vs 90.2. Rays has won more games than its run differential suggests.",
-        "points": 1.1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "locked": true,
-    "publishedOdds": 1.64,
-    "aiHomeProb": 60.7
-  },
-  {
-    "id": "93724e91911d1080f18a37c0d2f849ac",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-24T01:00:00Z",
-    "venue": "",
-    "home": "Necaxa",
-    "away": "FC Juárez",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.81,
-    "openOdds": 1.64,
-    "baseProb": 55.8,
-    "baselineNote": "Consensus of 13 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 72.3,
-      "windMph": 7.9,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.69
   },
   {
     "id": "b87c8686c5331aacf51b54b25124a332",
@@ -1376,49 +1145,6 @@
     }
   },
   {
-    "id": "db9d82d62d8f222bfd835100662c6ac6",
-    "league": "NHL",
-    "kickoff": "2026-10-24T00:10:00Z",
-    "venue": "",
-    "home": "Chicago Blackhawks",
-    "away": "Montréal Canadiens",
-    "market": "Spread",
-    "selection": "Chicago Blackhawks +1.5",
-    "odds": 1.57,
-    "openOdds": 1.5,
-    "baseProb": 61.9,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.5
-  },
-  {
-    "id": "b7e4d8193096703065db318c2813168f",
-    "league": "NHL",
-    "kickoff": "2026-10-24T01:10:00Z",
-    "venue": "",
-    "home": "Colorado Avalanche",
-    "away": "Tampa Bay Lightning",
-    "market": "Moneyline",
-    "selection": "Colorado Avalanche ML",
-    "odds": 1.87,
-    "openOdds": 1.83,
-    "baseProb": 52.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "6f808f8ba28d3f5b26edeb74f752549f",
     "league": "NHL",
     "kickoff": "2026-10-24T17:00:00Z",
@@ -1872,6 +1598,97 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
+    "live": true
+  },
+  {
+    "id": "db9d82d62d8f222bfd835100662c6ac6",
+    "league": "NHL",
+    "kickoff": "2026-10-24T00:10:00Z",
+    "venue": "",
+    "home": "Chicago Blackhawks",
+    "away": "Montréal Canadiens",
+    "market": "Spread",
+    "selection": "Chicago Blackhawks +1.5",
+    "odds": 1.5,
+    "openOdds": 1.5,
+    "baseProb": 65.6,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": 1.5
+    },
+    "locked": true,
+    "publishedOdds": 1.5,
+    "live": true
+  },
+  {
+    "id": "e4c03eec29795f56b6b06c313d3af271",
+    "league": "MLB",
+    "kickoff": "2026-10-24T00:00:00Z",
+    "venue": "",
+    "home": "Milwaukee Brewers",
+    "away": "Tampa Bay Rays",
+    "market": "Moneyline",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.64,
+    "openOdds": 1.64,
+    "baseProb": 60.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.64,
+    "live": true,
+    "aiHomeProb": 60.7
+  },
+  {
+    "id": "93724e91911d1080f18a37c0d2f849ac",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-24T01:00:00Z",
+    "venue": "",
+    "home": "Necaxa",
+    "away": "FC Juárez",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.69,
+    "openOdds": 1.64,
+    "baseProb": 58.5,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.69,
+    "live": true
+  },
+  {
+    "id": "b7e4d8193096703065db318c2813168f",
+    "league": "NHL",
+    "kickoff": "2026-10-24T01:10:00Z",
+    "venue": "",
+    "home": "Colorado Avalanche",
+    "away": "Tampa Bay Lightning",
+    "market": "Moneyline",
+    "selection": "Colorado Avalanche ML",
+    "odds": 1.87,
+    "openOdds": 1.83,
+    "baseProb": 52.8,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.87,
     "live": true
   }
 ]

@@ -913,6 +913,28 @@
     "result": "W"
   },
   {
+    "id": "0d34c898f6cbb990077ae9f0a2773513|h2h|home|",
+    "date": "2026-10-23",
+    "league": "NBA",
+    "home": "Boston Celtics",
+    "away": "New York Knicks",
+    "selection": "Boston Celtics ML",
+    "odds": 1.77,
+    "prob": 56.1,
+    "result": "W"
+  },
+  {
+    "id": "d36eac2ef6bf2d6c0af0073612f6193d|h2h|home|",
+    "date": "2026-10-23",
+    "league": "NBA",
+    "home": "Indiana Pacers",
+    "away": "Dallas Mavericks",
+    "selection": "Indiana Pacers ML",
+    "odds": 1.49,
+    "prob": 65.9,
+    "result": "L"
+  },
+  {
     "id": "124c70f8f3248a845bdb983a54e74720|total|under|2.5",
     "date": "2026-10-23",
     "league": "SERIE A",
