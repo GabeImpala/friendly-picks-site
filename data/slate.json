@@ -364,26 +364,6 @@
     "aiHomeProb": 61.9
   },
   {
-    "id": "0abd50d04d02296b33809f9458fd47e4",
-    "league": "NBA",
-    "kickoff": "2026-10-24T22:10:00Z",
-    "venue": "",
-    "home": "Charlotte Hornets",
-    "away": "Miami Heat",
-    "market": "Moneyline",
-    "selection": "Charlotte Hornets ML",
-    "odds": 2.25,
-    "openOdds": 2.25,
-    "baseProb": 43.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "f187c8a86c1d1676bb45b9b3a6707872",
     "league": "NBA",
     "kickoff": "2026-10-24T23:40:00Z",
@@ -562,32 +542,6 @@
       "roof": "dome"
     },
     "aiHomeProb": 61.2
-  },
-  {
-    "id": "b98b81ceae2c0605ad5df25aeeda52c2",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-24T23:00:00Z",
-    "venue": "",
-    "home": "León",
-    "away": "Toluca",
-    "market": "Match result",
-    "selection": "León to win",
-    "odds": 3.9,
-    "openOdds": 3.4,
-    "baseProb": 26,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 76,
-      "windMph": 9.4,
-      "precip": "None",
-      "roof": "open"
-    }
   },
   {
     "id": "98511642551c0c399253afbb7571764a",
@@ -1695,74 +1649,6 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
-    "live": true
-  },
-  {
-    "id": "b27cb3ea731fa3f18d05e6a627bdf984",
-    "league": "SERIE A",
-    "kickoff": "2026-10-24T18:45:00Z",
-    "venue": "",
-    "home": "Lazio",
-    "away": "Parma",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 51.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
-    "live": true
-  },
-  {
-    "id": "70df1835c3b5ddff1c99e0189532136b",
-    "league": "LA LIGA",
-    "kickoff": "2026-10-24T19:00:00Z",
-    "venue": "",
-    "home": "Atlético Madrid",
-    "away": "Deportivo La Coruña",
-    "market": "Total",
-    "selection": "Under 3.5 goals",
-    "odds": 1.6,
-    "openOdds": 1.6,
-    "baseProb": 61.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 3.5
-    },
-    "locked": true,
-    "publishedOdds": 1.6,
-    "live": true
-  },
-  {
-    "id": "b2c782b53aa0561575bd82258e047dcd",
-    "league": "NHL",
-    "kickoff": "2026-10-24T19:30:00Z",
-    "venue": "",
-    "home": "New Jersey Devils",
-    "away": "Los Angeles Kings",
-    "market": "Moneyline",
-    "selection": "New Jersey Devils ML",
-    "odds": 1.64,
-    "openOdds": 1.64,
-    "baseProb": 59.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.64,
     "live": true
   }
 ]

@@ -1078,6 +1078,17 @@
     "result": "W"
   },
   {
+    "id": "b27cb3ea731fa3f18d05e6a627bdf984|total|over|2.5",
+    "date": "2026-10-24",
+    "league": "SERIE A",
+    "home": "Lazio",
+    "away": "Parma",
+    "selection": "Over 2.5 goals",
+    "odds": 1.93,
+    "prob": 51.7,
+    "result": "W"
+  },
+  {
     "id": "aca5dd297dbee71f576f7641569fe578|total|under|3.5",
     "date": "2026-10-24",
     "league": "EPL",
@@ -1133,6 +1144,17 @@
     "result": "W"
   },
   {
+    "id": "70df1835c3b5ddff1c99e0189532136b|total|under|3.5",
+    "date": "2026-10-24",
+    "league": "LA LIGA",
+    "home": "Atlético Madrid",
+    "away": "Deportivo La Coruña",
+    "selection": "Under 3.5 goals",
+    "odds": 1.6,
+    "prob": 61.3,
+    "result": "W"
+  },
+  {
     "id": "0382a9faef0bb8df1bcc436536cffb05|h2h|away|",
     "date": "2026-10-24",
     "league": "EPL",
@@ -1141,6 +1163,17 @@
     "selection": "Tottenham Hotspur to win",
     "odds": 4.5,
     "prob": 23.3,
+    "result": "W"
+  },
+  {
+    "id": "b2c782b53aa0561575bd82258e047dcd|h2h|home|",
+    "date": "2026-10-24",
+    "league": "NHL",
+    "home": "New Jersey Devils",
+    "away": "Los Angeles Kings",
+    "selection": "New Jersey Devils ML",
+    "odds": 1.64,
+    "prob": 59.9,
     "result": "W"
   }
 ]
