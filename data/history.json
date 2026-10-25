@@ -1276,6 +1276,28 @@
     "result": "L"
   },
   {
+    "id": "b1be064fb52a198a62109c279e7ab24c|spread|away|-2.5",
+    "date": "2026-10-25",
+    "league": "NFL",
+    "home": "Atlanta Falcons",
+    "away": "San Francisco 49ers",
+    "selection": "San Francisco 49ers -2.5",
+    "odds": 1.91,
+    "prob": 51.6,
+    "result": "L"
+  },
+  {
+    "id": "2bba7fde6f97d0e54403d53676e4ab63|total|over|42.5",
+    "date": "2026-10-25",
+    "league": "NFL",
+    "home": "Houston Texans",
+    "away": "New York Giants",
+    "selection": "Over 42.5",
+    "odds": 1.96,
+    "prob": 50.2,
+    "result": "W"
+  },
+  {
     "id": "be5dd120ca08b43d647b6caa8953500a|h2h|home|",
     "date": "2026-10-25",
     "league": "NFL",
@@ -1405,6 +1427,28 @@
     "selection": "Manchester United to win",
     "odds": 2.34,
     "prob": 43.9,
+    "result": "L"
+  },
+  {
+    "id": "72089d103a5fe6a922c35e17efba6ffc|h2h|away|",
+    "date": "2026-10-25",
+    "league": "LA LIGA",
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "selection": "Real Madrid to win",
+    "odds": 4.32,
+    "prob": 24.3,
+    "result": "W"
+  },
+  {
+    "id": "e13d36d055361cb7f59a37b7e5dca489|total|over|6.5",
+    "date": "2026-10-25",
+    "league": "NHL",
+    "home": "Chicago Blackhawks",
+    "away": "Florida Panthers",
+    "selection": "Over 6.5",
+    "odds": 2.09,
+    "prob": 48,
     "result": "L"
   }
 ]
