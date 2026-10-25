@@ -1027,5 +1027,164 @@
     "publishedAt": "2026-10-23T18:38:55.080Z",
     "result": "L",
     "settledAt": "2026-10-24T05:00:27.667Z"
+  },
+  {
+    "day": "2026-10-24",
+    "legs": [
+      {
+        "eventId": "0b8a03e43524a57bae9c25a6c73c9024",
+        "league": "NHL",
+        "kickoff": "2026-10-24T23:10:00Z",
+        "home": "Washington Capitals",
+        "away": "Buffalo Sabres",
+        "market": "Spread",
+        "selection": "Buffalo Sabres +1.5",
+        "odds": 1.44,
+        "prob": 67.6,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "f66e4f29c1b7bcfc5ab58c0b88c8850b",
+        "league": "EPL",
+        "kickoff": "2026-10-24T14:00:00Z",
+        "home": "Arsenal",
+        "away": "Everton",
+        "market": "Match result",
+        "selection": "Arsenal to win",
+        "odds": 1.5,
+        "prob": 66.2,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "b2c782b53aa0561575bd82258e047dcd",
+        "league": "NHL",
+        "kickoff": "2026-10-24T19:30:00Z",
+        "home": "New Jersey Devils",
+        "away": "Los Angeles Kings",
+        "market": "Moneyline",
+        "selection": "New Jersey Devils ML",
+        "odds": 1.53,
+        "prob": 63.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 3,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "08ffd99b2249c81d8a7410598f32b9b0",
+        "league": "SERIE A",
+        "kickoff": "2026-10-24T13:00:00Z",
+        "home": "Como",
+        "away": "Sassuolo",
+        "market": "Match result",
+        "selection": "Como to win",
+        "odds": 1.56,
+        "prob": 63.4,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "70df1835c3b5ddff1c99e0189532136b",
+        "league": "LA LIGA",
+        "kickoff": "2026-10-24T19:00:00Z",
+        "home": "Atlético Madrid",
+        "away": "Deportivo La Coruña",
+        "market": "Total",
+        "selection": "Under 3.5 goals",
+        "odds": 1.67,
+        "prob": 59.3,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 3.5
+        },
+        "homeScore": 1,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "fbdbed1c7dfbc3b1837fa581ea66b703",
+        "league": "NHL",
+        "kickoff": "2026-10-24T23:10:00Z",
+        "home": "Boston Bruins",
+        "away": "San Jose Sharks",
+        "market": "Spread",
+        "selection": "San Jose Sharks +1.5",
+        "odds": 1.67,
+        "prob": 58.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 6,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "aca5dd297dbee71f576f7641569fe578",
+        "league": "EPL",
+        "kickoff": "2026-10-24T11:30:00Z",
+        "home": "Aston Villa",
+        "away": "Manchester City",
+        "market": "Total",
+        "selection": "Under 3.5 goals",
+        "odds": 1.69,
+        "prob": 58.5,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 3.5
+        },
+        "homeScore": 2,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "bd017af43e74a8d506cdcec368a4c2c0",
+        "league": "NHL",
+        "kickoff": "2026-10-24T23:10:00Z",
+        "home": "Edmonton Oilers",
+        "away": "Toronto Maple Leafs",
+        "market": "Spread",
+        "selection": "Toronto Maple Leafs +1.5",
+        "odds": 1.67,
+        "prob": 58.3,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 7,
+        "result": "W"
+      }
+    ],
+    "odds": 40.579425885735354,
+    "hitChance": 2.15,
+    "publishedAt": "2026-10-24T17:32:33.179Z",
+    "result": "L",
+    "settledAt": "2026-10-25T02:00:21.851Z"
   }
 ]

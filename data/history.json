@@ -1175,5 +1175,38 @@
     "odds": 1.64,
     "prob": 59.9,
     "result": "W"
+  },
+  {
+    "id": "0b8a03e43524a57bae9c25a6c73c9024|spread|away|1.5",
+    "date": "2026-10-24",
+    "league": "NHL",
+    "home": "Washington Capitals",
+    "away": "Buffalo Sabres",
+    "selection": "Buffalo Sabres +1.5",
+    "odds": 1.49,
+    "prob": 66.2,
+    "result": "W"
+  },
+  {
+    "id": "bd017af43e74a8d506cdcec368a4c2c0|spread|away|1.5",
+    "date": "2026-10-24",
+    "league": "NHL",
+    "home": "Edmonton Oilers",
+    "away": "Toronto Maple Leafs",
+    "selection": "Toronto Maple Leafs +1.5",
+    "odds": 1.75,
+    "prob": 56.4,
+    "result": "W"
+  },
+  {
+    "id": "fbdbed1c7dfbc3b1837fa581ea66b703|spread|away|1.5",
+    "date": "2026-10-24",
+    "league": "NHL",
+    "home": "Boston Bruins",
+    "away": "San Jose Sharks",
+    "selection": "San Jose Sharks +1.5",
+    "odds": 1.67,
+    "prob": 58.9,
+    "result": "L"
   }
 ]
