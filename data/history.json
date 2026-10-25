@@ -1274,5 +1274,137 @@
     "odds": 1.67,
     "prob": 58.9,
     "result": "L"
+  },
+  {
+    "id": "be5dd120ca08b43d647b6caa8953500a|h2h|home|",
+    "date": "2026-10-25",
+    "league": "NFL",
+    "home": "New York Jets",
+    "away": "Miami Dolphins",
+    "selection": "New York Jets ML",
+    "odds": 1.48,
+    "prob": 66.3,
+    "result": "L"
+  },
+  {
+    "id": "c9b6c7048d8dc33dae618f67f462f67a|h2h|home|",
+    "date": "2026-10-25",
+    "league": "SERIE A",
+    "home": "Inter Milan",
+    "away": "Fiorentina",
+    "selection": "Inter Milan to win",
+    "odds": 1.41,
+    "prob": 70.4,
+    "result": "W"
+  },
+  {
+    "id": "63aa6e3f679ee4c68de5b4bd8d3361bb|total|under|3.5",
+    "date": "2026-10-25",
+    "league": "SERIE A",
+    "home": "Atalanta BC",
+    "away": "Frosinone",
+    "selection": "Under 3.5 goals",
+    "odds": 1.87,
+    "prob": 53.1,
+    "result": "L"
+  },
+  {
+    "id": "63af660d4d0d52f8ac7685172ef939c4|h2h|away|",
+    "date": "2026-10-25",
+    "league": "SERIE A",
+    "home": "Lecce",
+    "away": "Juventus",
+    "selection": "Juventus to win",
+    "odds": 1.5,
+    "prob": 65.7,
+    "result": "W"
+  },
+  {
+    "id": "33fb7467b23c91d57dc976d9ab05ea97|total|over|2.5",
+    "date": "2026-10-25",
+    "league": "EPL",
+    "home": "Manchester United",
+    "away": "Bournemouth",
+    "selection": "Over 2.5 goals",
+    "odds": 1.68,
+    "prob": 58.8,
+    "result": "W"
+  },
+  {
+    "id": "290ba8cd3f3a2e9252effca673bf5549|total|over|2.5",
+    "date": "2026-10-25",
+    "league": "EPL",
+    "home": "Liverpool",
+    "away": "Brighton and Hove Albion",
+    "selection": "Over 2.5 goals",
+    "odds": 1.64,
+    "prob": 60.5,
+    "result": "L"
+  },
+  {
+    "id": "fe235b26408c477368c40672a4488694|total|over|2.5",
+    "date": "2026-10-25",
+    "league": "EPL",
+    "home": "Crystal Palace",
+    "away": "Newcastle United",
+    "selection": "Over 2.5 goals",
+    "odds": 1.69,
+    "prob": 58.9,
+    "result": "L"
+  },
+  {
+    "id": "9c4254cba9944a839b421db27260504d|h2h|home|",
+    "date": "2026-10-25",
+    "league": "LA LIGA",
+    "home": "Athletic Bilbao",
+    "away": "Getafe",
+    "selection": "Athletic Bilbao to win",
+    "odds": 1.67,
+    "prob": 59.4,
+    "result": "W"
+  },
+  {
+    "id": "2013e3955186ebe5258e85eb741a7553|total|over|2.5",
+    "date": "2026-10-25",
+    "league": "LA LIGA",
+    "home": "Celta Vigo",
+    "away": "Real Betis",
+    "selection": "Over 2.5 goals",
+    "odds": 1.93,
+    "prob": 51.5,
+    "result": "L"
+  },
+  {
+    "id": "3cb8660cd2375b60e81144a7572cfb89|total|over|2.5",
+    "date": "2026-10-25",
+    "league": "LA LIGA",
+    "home": "Real Sociedad",
+    "away": "Levante",
+    "selection": "Over 2.5 goals",
+    "odds": 1.71,
+    "prob": 59.6,
+    "result": "W"
+  },
+  {
+    "id": "63aa6e3f679ee4c68de5b4bd8d3361bb|h2h|away|",
+    "date": "2026-10-25",
+    "league": "SERIE A",
+    "home": "Atalanta BC",
+    "away": "Frosinone",
+    "selection": "Frosinone to win",
+    "odds": 4.22,
+    "prob": 24.7,
+    "result": "P"
+  },
+  {
+    "id": "33fb7467b23c91d57dc976d9ab05ea97|h2h|home|",
+    "date": "2026-10-25",
+    "league": "EPL",
+    "home": "Manchester United",
+    "away": "Bournemouth",
+    "selection": "Manchester United to win",
+    "odds": 2.34,
+    "prob": 43.9,
+    "result": "L"
   }
 ]

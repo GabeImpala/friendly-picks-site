@@ -317,5 +317,16 @@
     "odds": 1.87,
     "prob": 61.2,
     "result": "W"
+  },
+  {
+    "id": "be5dd120ca08b43d647b6caa8953500a|ai",
+    "date": "2026-10-25",
+    "league": "NFL",
+    "home": "New York Jets",
+    "away": "Miami Dolphins",
+    "selection": "Miami Dolphins ML",
+    "odds": 2.94,
+    "prob": 55.4,
+    "result": "W"
   }
 ]
