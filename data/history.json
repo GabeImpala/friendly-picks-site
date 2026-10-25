@@ -1210,6 +1210,17 @@
     "result": "W"
   },
   {
+    "id": "5e009bd6c0a10ead492bc214f637512c|total|under|2.5",
+    "date": "2026-10-24",
+    "league": "LIGA MX",
+    "home": "Pumas",
+    "away": "Tigres",
+    "selection": "Under 2.5 goals",
+    "odds": 2.08,
+    "prob": 47.6,
+    "result": "W"
+  },
+  {
     "id": "efb2248ad964f84921b3e700125e404b|spread|home|12.5",
     "date": "2026-10-24",
     "league": "NBA",

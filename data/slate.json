@@ -1199,28 +1199,5 @@
     "locked": true,
     "publishedOdds": 1.86,
     "live": true
-  },
-  {
-    "id": "5e009bd6c0a10ead492bc214f637512c",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-25T03:10:00Z",
-    "venue": "",
-    "home": "Pumas",
-    "away": "Tigres",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.08,
-    "openOdds": 2.04,
-    "baseProb": 47.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 2.08,
-    "live": true
   }
 ]
