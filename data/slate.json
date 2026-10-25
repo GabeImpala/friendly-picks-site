@@ -364,56 +364,6 @@
     "aiHomeProb": 61.9
   },
   {
-    "id": "a71197130d9b661f5b29c812583fe652",
-    "league": "NBA",
-    "kickoff": "2026-10-25T02:10:00Z",
-    "venue": "",
-    "home": "Phoenix Suns",
-    "away": "Golden State Warriors",
-    "market": "Total",
-    "selection": "Under 222",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.5,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 222
-    }
-  },
-  {
-    "id": "5e009bd6c0a10ead492bc214f637512c",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-25T03:10:00Z",
-    "venue": "",
-    "home": "Pumas",
-    "away": "Tigres",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.08,
-    "openOdds": 2.04,
-    "baseProb": 47.4,
-    "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 58.3,
-      "windMph": 4.9,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 2.08
-  },
-  {
     "id": "9b9e417e9f0852376d7766dae13ad74c",
     "league": "LIGA MX",
     "kickoff": "2026-10-25T23:00:00Z",
@@ -941,48 +891,6 @@
     }
   },
   {
-    "id": "40bdb8bb226b82f2cfb6d4518d6fdfbd",
-    "league": "NHL",
-    "kickoff": "2026-10-25T02:10:00Z",
-    "venue": "",
-    "home": "Calgary Flames",
-    "away": "Detroit Red Wings",
-    "market": "Spread",
-    "selection": "Detroit Red Wings -1.5",
-    "odds": 2.96,
-    "openOdds": 2.7,
-    "baseProb": 33.1,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
-    }
-  },
-  {
-    "id": "fa693c68730d8d6347e71ff2f92ba2d8",
-    "league": "NHL",
-    "kickoff": "2026-10-25T02:10:00Z",
-    "venue": "",
-    "home": "Seattle Kraken",
-    "away": "Minnesota Wild",
-    "market": "Spread",
-    "selection": "Minnesota Wild -1.5",
-    "odds": 2.63,
-    "openOdds": 2.7,
-    "baseProb": 37.3,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
-    }
-  },
-  {
     "id": "e13d36d055361cb7f59a37b7e5dca489",
     "league": "NHL",
     "kickoff": "2026-10-25T19:00:00Z",
@@ -1198,7 +1106,7 @@
     "locked": true,
     "publishedOdds": 1.98,
     "live": true,
-    "aiHomeProb": 57.5
+    "aiHomeProb": 57.8
   },
   {
     "id": "a16dd30c67c32f12e0b4879034895cf9",
@@ -1293,17 +1201,17 @@
     "live": true
   },
   {
-    "id": "98511642551c0c399253afbb7571764a",
+    "id": "5e009bd6c0a10ead492bc214f637512c",
     "league": "LIGA MX",
-    "kickoff": "2026-10-25T01:00:00Z",
+    "kickoff": "2026-10-25T03:10:00Z",
     "venue": "",
-    "home": "Monterrey",
-    "away": "Guadalajara",
+    "home": "Pumas",
+    "away": "Tigres",
     "market": "Total",
     "selection": "Under 2.5 goals",
-    "odds": 2.16,
-    "openOdds": 2.16,
-    "baseProb": 45.8,
+    "odds": 2.08,
+    "openOdds": 2.04,
+    "baseProb": 47.6,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -1312,75 +1220,7 @@
       "line": 2.5
     },
     "locked": true,
-    "publishedOdds": 2.16,
+    "publishedOdds": 2.08,
     "live": true
-  },
-  {
-    "id": "efb2248ad964f84921b3e700125e404b",
-    "league": "NBA",
-    "kickoff": "2026-10-25T00:10:00Z",
-    "venue": "",
-    "home": "Dallas Mavericks",
-    "away": "San Antonio Spurs",
-    "market": "Spread",
-    "selection": "Dallas Mavericks +12.5",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 12.5
-    },
-    "locked": true,
-    "publishedOdds": 1.99,
-    "live": true
-  },
-  {
-    "id": "66849d2333774f4256873260f8e48c6c",
-    "league": "NBA",
-    "kickoff": "2026-10-25T00:40:00Z",
-    "venue": "",
-    "home": "Atlanta Hawks",
-    "away": "Houston Rockets",
-    "market": "Moneyline",
-    "selection": "Atlanta Hawks ML",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 51,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
-    "live": true
-  },
-  {
-    "id": "238f598685f7210fbfbbe3de39289264",
-    "league": "MLB",
-    "kickoff": "2026-10-25T00:00:00Z",
-    "venue": "",
-    "home": "Milwaukee Brewers",
-    "away": "Tampa Bay Rays",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.87,
-    "openOdds": 1.87,
-    "baseProb": 53.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.87,
-    "live": true,
-    "aiHomeProb": 61.2
   }
 ]

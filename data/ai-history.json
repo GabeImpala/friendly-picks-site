@@ -306,5 +306,16 @@
     "odds": 1.64,
     "prob": 60.7,
     "result": "W"
+  },
+  {
+    "id": "238f598685f7210fbfbbe3de39289264|ai",
+    "date": "2026-10-24",
+    "league": "MLB",
+    "home": "Milwaukee Brewers",
+    "away": "Tampa Bay Rays",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.87,
+    "prob": 61.2,
+    "result": "W"
   }
 ]

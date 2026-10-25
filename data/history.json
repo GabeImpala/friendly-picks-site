@@ -1155,6 +1155,17 @@
     "result": "W"
   },
   {
+    "id": "98511642551c0c399253afbb7571764a|total|under|2.5",
+    "date": "2026-10-24",
+    "league": "LIGA MX",
+    "home": "Monterrey",
+    "away": "Guadalajara",
+    "selection": "Under 2.5 goals",
+    "odds": 2.16,
+    "prob": 45.8,
+    "result": "W"
+  },
+  {
     "id": "0382a9faef0bb8df1bcc436536cffb05|h2h|away|",
     "date": "2026-10-24",
     "league": "EPL",
@@ -1196,6 +1207,50 @@
     "selection": "Toronto Maple Leafs +1.5",
     "odds": 1.75,
     "prob": 56.4,
+    "result": "W"
+  },
+  {
+    "id": "efb2248ad964f84921b3e700125e404b|spread|home|12.5",
+    "date": "2026-10-24",
+    "league": "NBA",
+    "home": "Dallas Mavericks",
+    "away": "San Antonio Spurs",
+    "selection": "Dallas Mavericks +12.5",
+    "odds": 1.99,
+    "prob": 49.4,
+    "result": "L"
+  },
+  {
+    "id": "66849d2333774f4256873260f8e48c6c|h2h|home|",
+    "date": "2026-10-24",
+    "league": "NBA",
+    "home": "Atlanta Hawks",
+    "away": "Houston Rockets",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.93,
+    "prob": 51,
+    "result": "L"
+  },
+  {
+    "id": "a71197130d9b661f5b29c812583fe652|total|under|222",
+    "date": "2026-10-24",
+    "league": "NBA",
+    "home": "Phoenix Suns",
+    "away": "Golden State Warriors",
+    "selection": "Under 222",
+    "odds": 1.98,
+    "prob": 49.5,
+    "result": "L"
+  },
+  {
+    "id": "238f598685f7210fbfbbe3de39289264|h2h|home|",
+    "date": "2026-10-24",
+    "league": "MLB",
+    "home": "Milwaukee Brewers",
+    "away": "Tampa Bay Rays",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.87,
+    "prob": 53.6,
     "result": "W"
   },
   {
