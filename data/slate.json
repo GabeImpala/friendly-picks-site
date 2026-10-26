@@ -1,32 +1,5 @@
 [
   {
-    "id": "176d474ed8b2bbf1eb4d7e9c56b4bf22",
-    "league": "NFL",
-    "kickoff": "2026-10-26T00:20:00Z",
-    "venue": "",
-    "home": "Seattle Seahawks",
-    "away": "Kansas City Chiefs",
-    "market": "Moneyline",
-    "selection": "Seattle Seahawks ML",
-    "odds": 1.71,
-    "openOdds": 1.7,
-    "baseProb": 57.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 52.1,
-      "windMph": 7,
-      "precip": "None",
-      "roof": "open"
-    },
-    "aiHomeProb": 73.9
-  },
-  {
     "id": "4853610e63c246f2027a6a248e642c9a",
     "league": "NFL",
     "kickoff": "2026-10-27T00:15:00Z",
@@ -54,87 +27,6 @@
     }
   },
   {
-    "id": "e6834225d7e218a59333dbbc01fe67ab",
-    "league": "NBA",
-    "kickoff": "2026-10-25T23:10:00Z",
-    "venue": "",
-    "home": "Oklahoma City Thunder",
-    "away": "Los Angeles Clippers",
-    "market": "Spread",
-    "selection": "Los Angeles Clippers +16.5",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 50,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 16.5
-    }
-  },
-  {
-    "id": "b9f6f078c66480af12ca8bcc44969097",
-    "league": "NBA",
-    "kickoff": "2026-10-25T23:10:00Z",
-    "venue": "",
-    "home": "Minnesota Timberwolves",
-    "away": "Toronto Raptors",
-    "market": "Moneyline",
-    "selection": "Minnesota Timberwolves ML",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50.9,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "252f3af49fb5271bb040e95e0119f207",
-    "league": "NBA",
-    "kickoff": "2026-10-25T23:40:00Z",
-    "venue": "",
-    "home": "Philadelphia 76ers",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 50.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "dcc4a1c7f0427d8e1b2ee7d3f1d48e8a",
-    "league": "NBA",
-    "kickoff": "2026-10-26T01:00:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "Memphis Grizzlies",
-    "market": "Moneyline",
-    "selection": "Memphis Grizzlies ML",
-    "odds": 1.68,
-    "openOdds": 1.68,
-    "baseProb": 58.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "82812d5c946d4e055002fcb42673a38b",
     "league": "MLB",
     "kickoff": "2026-10-27T00:10:00Z",
@@ -159,62 +51,6 @@
       "windMph": 0,
       "precip": "None",
       "roof": "dome"
-    }
-  },
-  {
-    "id": "0d85ff6a0c31ef7150fec757397d968d",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-26T01:00:00Z",
-    "venue": "",
-    "home": "Querétaro",
-    "away": "Cruz Azul",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.73,
-    "openOdds": 1.72,
-    "baseProb": 57.1,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 57.3,
-      "windMph": 9.4,
-      "precip": "Light rain",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.72
-  },
-  {
-    "id": "2358e145d7dbfa38cceb5d459382de73",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-26T01:05:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Pachuca",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.68,
-    "openOdds": 1.6,
-    "baseProb": 58.6,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 60.6,
-      "windMph": 8,
-      "precip": "Light rain",
-      "roof": "open"
     }
   },
   {
@@ -391,46 +227,6 @@
       "type": "total",
       "side": "under",
       "line": 2.5
-    }
-  },
-  {
-    "id": "cd9f65faa44f221a72638e49afb134fb",
-    "league": "NHL",
-    "kickoff": "2026-10-25T23:10:00Z",
-    "venue": "",
-    "home": "Winnipeg Jets",
-    "away": "Montréal Canadiens",
-    "market": "Moneyline",
-    "selection": "Winnipeg Jets ML",
-    "odds": 2.04,
-    "openOdds": 2,
-    "baseProb": 48,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "61198113cc96cb987aad067a15911db8",
-    "league": "NHL",
-    "kickoff": "2026-10-26T00:10:00Z",
-    "venue": "",
-    "home": "Nashville Predators",
-    "away": "Colorado Avalanche",
-    "market": "Moneyline",
-    "selection": "Nashville Predators ML",
-    "odds": 3.1,
-    "openOdds": 2.95,
-    "baseProb": 32.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
     }
   },
   {
@@ -722,17 +518,17 @@
     "live": true
   },
   {
-    "id": "9b9e417e9f0852376d7766dae13ad74c",
+    "id": "0d85ff6a0c31ef7150fec757397d968d",
     "league": "LIGA MX",
-    "kickoff": "2026-10-25T23:00:00Z",
+    "kickoff": "2026-10-26T01:00:00Z",
     "venue": "",
-    "home": "Atlas",
-    "away": "Puebla",
+    "home": "Querétaro",
+    "away": "Cruz Azul",
     "market": "Total",
     "selection": "Over 2.5 goals",
-    "odds": 1.87,
-    "openOdds": 1.84,
-    "baseProb": 53,
+    "odds": 1.72,
+    "openOdds": 1.72,
+    "baseProb": 57.2,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -741,44 +537,21 @@
       "line": 2.5
     },
     "locked": true,
-    "publishedOdds": 1.87,
+    "publishedOdds": 1.72,
     "live": true
   },
   {
-    "id": "9c1309e10d95a3f6eb6b6b9105c565eb",
-    "league": "NHL",
-    "kickoff": "2026-10-25T22:10:00Z",
-    "venue": "",
-    "home": "Dallas Stars",
-    "away": "New York Islanders",
-    "market": "Spread",
-    "selection": "New York Islanders +1.5",
-    "odds": 1.65,
-    "openOdds": 1.67,
-    "baseProb": 60,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.65,
-    "live": true
-  },
-  {
-    "id": "9c460fd677a660d1bc7cfea0aa1826c1",
+    "id": "dcc4a1c7f0427d8e1b2ee7d3f1d48e8a",
     "league": "NBA",
-    "kickoff": "2026-10-25T21:10:00Z",
+    "kickoff": "2026-10-26T01:00:00Z",
     "venue": "",
-    "home": "Utah Jazz",
-    "away": "Los Angeles Lakers",
+    "home": "Sacramento Kings",
+    "away": "Memphis Grizzlies",
     "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 1.44,
-    "openOdds": 1.44,
-    "baseProb": 68.2,
+    "selection": "Memphis Grizzlies ML",
+    "odds": 1.68,
+    "openOdds": 1.68,
+    "baseProb": 58.8,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -786,7 +559,30 @@
       "side": "away"
     },
     "locked": true,
-    "publishedOdds": 1.44,
+    "publishedOdds": 1.68,
     "live": true
+  },
+  {
+    "id": "176d474ed8b2bbf1eb4d7e9c56b4bf22",
+    "league": "NFL",
+    "kickoff": "2026-10-26T00:20:00Z",
+    "venue": "",
+    "home": "Seattle Seahawks",
+    "away": "Kansas City Chiefs",
+    "market": "Moneyline",
+    "selection": "Seattle Seahawks ML",
+    "odds": 1.71,
+    "openOdds": 1.7,
+    "baseProb": 57.5,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.71,
+    "live": true,
+    "aiHomeProb": 73.9
   }
 ]
