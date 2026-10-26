@@ -1186,5 +1186,161 @@
     "publishedAt": "2026-10-24T17:32:33.179Z",
     "result": "L",
     "settledAt": "2026-10-25T02:00:21.851Z"
+  },
+  {
+    "day": "2026-10-25",
+    "legs": [
+      {
+        "eventId": "c9b6c7048d8dc33dae618f67f462f67a",
+        "league": "SERIE A",
+        "kickoff": "2026-10-25T11:30:00Z",
+        "home": "Inter Milan",
+        "away": "Fiorentina",
+        "market": "Match result",
+        "selection": "Inter Milan to win",
+        "odds": 1.41,
+        "prob": 70.4,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "9c460fd677a660d1bc7cfea0aa1826c1",
+        "league": "NBA",
+        "kickoff": "2026-10-25T21:10:00Z",
+        "home": "Utah Jazz",
+        "away": "Los Angeles Lakers",
+        "market": "Moneyline",
+        "selection": "Los Angeles Lakers ML",
+        "odds": 1.44,
+        "prob": 68.2,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 123,
+        "awayScore": 132,
+        "result": "W"
+      },
+      {
+        "eventId": "be5dd120ca08b43d647b6caa8953500a",
+        "league": "NFL",
+        "kickoff": "2026-10-25T17:00:00Z",
+        "home": "New York Jets",
+        "away": "Miami Dolphins",
+        "market": "Moneyline",
+        "selection": "New York Jets ML",
+        "odds": 1.48,
+        "prob": 66.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 25,
+        "awayScore": 28,
+        "result": "L"
+      },
+      {
+        "eventId": "63af660d4d0d52f8ac7685172ef939c4",
+        "league": "SERIE A",
+        "kickoff": "2026-10-25T17:00:00Z",
+        "home": "Lecce",
+        "away": "Juventus",
+        "market": "Match result",
+        "selection": "Juventus to win",
+        "odds": 1.5,
+        "prob": 65.7,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 0,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "290ba8cd3f3a2e9252effca673bf5549",
+        "league": "EPL",
+        "kickoff": "2026-10-25T14:00:00Z",
+        "home": "Liverpool",
+        "away": "Brighton and Hove Albion",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.64,
+        "prob": 60.5,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "ee46435bae186edae24ac42d46c055d0",
+        "league": "LIGA MX",
+        "kickoff": "2026-10-26T03:00:00Z",
+        "home": "Tijuana",
+        "away": "Santos Laguna",
+        "market": "Both teams to score",
+        "selection": "Both teams to score: Yes",
+        "odds": 1.63,
+        "prob": 60.2,
+        "bet": {
+          "type": "btts",
+          "side": "yes"
+        },
+        "homeScore": 4,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "72089d103a5fe6a922c35e17efba6ffc",
+        "league": "LA LIGA",
+        "kickoff": "2026-10-25T20:00:00Z",
+        "home": "Barcelona",
+        "away": "Real Madrid",
+        "market": "Match result",
+        "selection": "Barcelona to win",
+        "odds": 1.64,
+        "prob": 60.1,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 1,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "9c1309e10d95a3f6eb6b6b9105c565eb",
+        "league": "NHL",
+        "kickoff": "2026-10-25T22:10:00Z",
+        "home": "Dallas Stars",
+        "away": "New York Islanders",
+        "market": "Spread",
+        "selection": "New York Islanders +1.5",
+        "odds": 1.65,
+        "prob": 60,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 6,
+        "awayScore": 3,
+        "result": "L"
+      }
+    ],
+    "odds": 32.60572218984959,
+    "hitChance": 2.75,
+    "publishedAt": "2026-10-25T17:46:49.071Z",
+    "result": "L",
+    "settledAt": "2026-10-26T09:56:00.903Z"
   }
 ]

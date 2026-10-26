@@ -469,27 +469,5 @@
     "locked": true,
     "publishedOdds": 1.86,
     "live": true
-  },
-  {
-    "id": "ee46435bae186edae24ac42d46c055d0",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-26T03:00:00Z",
-    "venue": "",
-    "home": "Tijuana",
-    "away": "Santos Laguna",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.63,
-    "openOdds": 1.63,
-    "baseProb": 60.2,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "locked": true,
-    "publishedOdds": 1.63,
-    "live": true
   }
 ]
