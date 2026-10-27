@@ -1,59 +1,5 @@
 [
   {
-    "id": "4853610e63c246f2027a6a248e642c9a",
-    "league": "NFL",
-    "kickoff": "2026-10-27T00:15:00Z",
-    "venue": "",
-    "home": "Philadelphia Eagles",
-    "away": "Dallas Cowboys",
-    "market": "Spread",
-    "selection": "Dallas Cowboys -4.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -4.5
-    },
-    "weather": {
-      "tempF": 56.9,
-      "windMph": 5,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "82812d5c946d4e055002fcb42673a38b",
-    "league": "MLB",
-    "kickoff": "2026-10-27T00:10:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
-    "market": "Total",
-    "selection": "Over 7",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 51.4,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 7
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
     "id": "c7445242bf16a8f37afef7863af45a78",
     "league": "SERIE A",
     "kickoff": "2026-10-27T17:30:00Z",
@@ -178,67 +124,6 @@
       "type": "total",
       "side": "under",
       "line": 2.5
-    }
-  },
-  {
-    "id": "daa5166685c4ca1a4f033d8bff91a6ba",
-    "league": "NHL",
-    "kickoff": "2026-10-26T23:10:00Z",
-    "venue": "",
-    "home": "New York Rangers",
-    "away": "Los Angeles Kings",
-    "market": "Moneyline",
-    "selection": "New York Rangers ML",
-    "odds": 1.8,
-    "openOdds": 1.8,
-    "baseProb": 55.4,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "20277c97a62bde35c5494acdb5912a68",
-    "league": "NHL",
-    "kickoff": "2026-10-27T00:40:00Z",
-    "venue": "",
-    "home": "Calgary Flames",
-    "away": "Toronto Maple Leafs",
-    "market": "Spread",
-    "selection": "Calgary Flames +1.5",
-    "odds": 1.6,
-    "openOdds": 1.6,
-    "baseProb": 61.3,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    }
-  },
-  {
-    "id": "5b70654c977b6cc9a110ad8c04c57cac",
-    "league": "NHL",
-    "kickoff": "2026-10-27T01:40:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Detroit Red Wings",
-    "market": "Moneyline",
-    "selection": "Detroit Red Wings ML",
-    "odds": 2.63,
-    "openOdds": 2.63,
-    "baseProb": 37.4,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
     }
   },
   {
@@ -445,6 +330,52 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
+    "live": true
+  },
+  {
+    "id": "20277c97a62bde35c5494acdb5912a68",
+    "league": "NHL",
+    "kickoff": "2026-10-27T00:40:00Z",
+    "venue": "",
+    "home": "Calgary Flames",
+    "away": "Toronto Maple Leafs",
+    "market": "Spread",
+    "selection": "Calgary Flames +1.5",
+    "odds": 1.6,
+    "openOdds": 1.6,
+    "baseProb": 61.3,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": 1.5
+    },
+    "locked": true,
+    "publishedOdds": 1.6,
+    "live": true
+  },
+  {
+    "id": "82812d5c946d4e055002fcb42673a38b",
+    "league": "MLB",
+    "kickoff": "2026-10-27T00:10:00Z",
+    "venue": "",
+    "home": "Tampa Bay Rays",
+    "away": "Milwaukee Brewers",
+    "market": "Total",
+    "selection": "Over 7",
+    "odds": 1.93,
+    "openOdds": 1.93,
+    "baseProb": 51.4,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 7
+    },
+    "locked": true,
+    "publishedOdds": 1.93,
     "live": true
   }
 ]
