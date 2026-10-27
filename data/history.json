@@ -1593,5 +1593,16 @@
     "odds": 1.93,
     "prob": 51.4,
     "result": "W"
+  },
+  {
+    "id": "c7445242bf16a8f37afef7863af45a78|total|over|2.5",
+    "date": "2026-10-27",
+    "league": "SERIE A",
+    "home": "Sassuolo",
+    "away": "Lazio",
+    "selection": "Over 2.5 goals",
+    "odds": 1.79,
+    "prob": 54.8,
+    "result": "W"
   }
 ]

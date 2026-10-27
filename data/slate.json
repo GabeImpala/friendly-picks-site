@@ -1,48 +1,168 @@
 [
   {
-    "id": "7eecf109ae6a5f87441a79b0e4111982",
-    "league": "SERIE A",
-    "kickoff": "2026-10-27T19:45:00Z",
+    "id": "9ad8cc650802c0c5c3c23a1f32c3e0f6",
+    "league": "NBA",
+    "kickoff": "2026-10-27T23:40:00Z",
     "venue": "",
-    "home": "AS Roma",
-    "away": "Cagliari",
-    "market": "Match result",
-    "selection": "AS Roma to win",
-    "odds": 1.45,
-    "openOdds": 1.4,
-    "baseProb": 68.1,
-    "baselineNote": "Consensus of 23 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "home": "Boston Celtics",
+    "away": "Brooklyn Nets",
+    "market": "Spread",
+    "selection": "Brooklyn Nets +12.5",
+    "odds": 1.95,
+    "openOdds": 1.95,
+    "baseProb": 49.9,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 12.5
+    }
+  },
+  {
+    "id": "bde272846214fd6cf197e14c278c12f2",
+    "league": "NBA",
+    "kickoff": "2026-10-28T00:10:00Z",
+    "venue": "",
+    "home": "New York Knicks",
+    "away": "Detroit Pistons",
+    "market": "Moneyline",
+    "selection": "Detroit Pistons ML",
+    "odds": 2.48,
+    "openOdds": 2.48,
+    "baseProb": 39.7,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.4
+      "side": "away"
+    }
   },
   {
-    "id": "7d989a0a7bae47eb957731e97c5bd9c1",
-    "league": "SERIE A",
-    "kickoff": "2026-10-27T19:45:00Z",
+    "id": "7a640609d2c74cbbfd05008d0875455b",
+    "league": "NBA",
+    "kickoff": "2026-10-28T00:10:00Z",
     "venue": "",
-    "home": "Torino",
-    "away": "Como",
+    "home": "San Antonio Spurs",
+    "away": "Sacramento Kings",
+    "market": "Spread",
+    "selection": "San Antonio Spurs -18.5",
+    "odds": 1.94,
+    "openOdds": 1.94,
+    "baseProb": 50.1,
+    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": -18.5
+    }
+  },
+  {
+    "id": "82afe4e028b0fbbd9f6cf92697bec6fc",
+    "league": "NBA",
+    "kickoff": "2026-10-28T03:10:00Z",
+    "venue": "",
+    "home": "Los Angeles Lakers",
+    "away": "Portland Trail Blazers",
+    "market": "Spread",
+    "selection": "Los Angeles Lakers -2",
+    "odds": 1.99,
+    "openOdds": 1.99,
+    "baseProb": 49.7,
+    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": -2
+    }
+  },
+  {
+    "id": "5997ee5c9fbdc53f9c86732b02f58158",
+    "league": "NBA",
+    "kickoff": "2026-10-28T23:10:00Z",
+    "venue": "",
+    "home": "Indiana Pacers",
+    "away": "Philadelphia 76ers",
+    "market": "Spread",
+    "selection": "Indiana Pacers +2.5",
+    "odds": 1.96,
+    "openOdds": 1.96,
+    "baseProb": 50.2,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "e03ea0f98bdd5fa277a34fbfe1a47efa",
+    "league": "MLB",
+    "kickoff": "2026-10-28T00:00:00Z",
+    "venue": "",
+    "home": "Tampa Bay Rays",
+    "away": "Milwaukee Brewers",
+    "market": "Moneyline",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.86,
+    "openOdds": 1.86,
+    "baseProb": 52.9,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [
+      {
+        "kind": "regression",
+        "label": "Selection is due for better results",
+        "detail": "Rays: 98 wins vs 90.2 expected from runs. Brewers: 103 vs 102.5. Rays has won more games than its run differential suggests.",
+        "points": 1.1
+      }
+    ],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    },
+    "aiHomeProb": 45.4
+  },
+  {
+    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-29T03:00:00Z",
+    "venue": "",
+    "home": "América",
+    "away": "Tijuana",
     "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.78,
-    "openOdds": 1.76,
-    "baseProb": 56.6,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "selection": "Over 3.5 goals",
+    "odds": 2.46,
+    "openOdds": 2.46,
+    "baseProb": 42.5,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "total",
       "side": "over",
-      "line": 2.5
+      "line": 3.5
     },
-    "locked": true,
-    "publishedOdds": 1.76
+    "weather": {
+      "tempF": 60.9,
+      "windMph": 2.6,
+      "precip": "Light rain",
+      "roof": "open"
+    }
   },
   {
     "id": "3d0b0fbec194258530882514714c74be",
@@ -528,171 +648,6 @@
     }
   },
   {
-    "id": "9ad8cc650802c0c5c3c23a1f32c3e0f6",
-    "league": "NBA",
-    "kickoff": "2026-10-27T23:40:00Z",
-    "venue": "",
-    "home": "Boston Celtics",
-    "away": "Brooklyn Nets",
-    "market": "Spread",
-    "selection": "Brooklyn Nets +12.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 49.9,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 12.5
-    }
-  },
-  {
-    "id": "bde272846214fd6cf197e14c278c12f2",
-    "league": "NBA",
-    "kickoff": "2026-10-28T00:10:00Z",
-    "venue": "",
-    "home": "New York Knicks",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 2.48,
-    "openOdds": 2.48,
-    "baseProb": 39.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "7a640609d2c74cbbfd05008d0875455b",
-    "league": "NBA",
-    "kickoff": "2026-10-28T00:10:00Z",
-    "venue": "",
-    "home": "San Antonio Spurs",
-    "away": "Sacramento Kings",
-    "market": "Spread",
-    "selection": "San Antonio Spurs -18.5",
-    "odds": 1.94,
-    "openOdds": 1.94,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -18.5
-    }
-  },
-  {
-    "id": "82afe4e028b0fbbd9f6cf92697bec6fc",
-    "league": "NBA",
-    "kickoff": "2026-10-28T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -2",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.7,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2
-    }
-  },
-  {
-    "id": "5997ee5c9fbdc53f9c86732b02f58158",
-    "league": "NBA",
-    "kickoff": "2026-10-28T23:10:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Philadelphia 76ers",
-    "market": "Spread",
-    "selection": "Indiana Pacers +2.5",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 50.2,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "e03ea0f98bdd5fa277a34fbfe1a47efa",
-    "league": "MLB",
-    "kickoff": "2026-10-28T00:00:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.86,
-    "openOdds": 1.86,
-    "baseProb": 52.9,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "regression",
-        "label": "Selection is due for better results",
-        "detail": "Rays: 98 wins vs 90.2 expected from runs. Brewers: 103 vs 102.5. Rays has won more games than its run differential suggests.",
-        "points": 1.1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "aiHomeProb": 45.4
-  },
-  {
-    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-29T03:00:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Tijuana",
-    "market": "Total",
-    "selection": "Over 3.5 goals",
-    "odds": 2.46,
-    "openOdds": 2.46,
-    "baseProb": 42.5,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 3.5
-    },
-    "weather": {
-      "tempF": 60.9,
-      "windMph": 2.6,
-      "precip": "Light rain",
-      "roof": "open"
-    }
-  },
-  {
     "id": "846e496fc232b2fc20214754836727d0",
     "league": "LA LIGA",
     "kickoff": "2026-10-17T16:30:00Z",
@@ -899,17 +854,39 @@
     "live": true
   },
   {
-    "id": "c7445242bf16a8f37afef7863af45a78",
+    "id": "7eecf109ae6a5f87441a79b0e4111982",
     "league": "SERIE A",
-    "kickoff": "2026-10-27T17:30:00Z",
+    "kickoff": "2026-10-27T19:45:00Z",
     "venue": "",
-    "home": "Sassuolo",
-    "away": "Lazio",
+    "home": "AS Roma",
+    "away": "Cagliari",
+    "market": "Match result",
+    "selection": "AS Roma to win",
+    "odds": 1.4,
+    "openOdds": 1.4,
+    "baseProb": 70.1,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.4,
+    "live": true
+  },
+  {
+    "id": "7d989a0a7bae47eb957731e97c5bd9c1",
+    "league": "SERIE A",
+    "kickoff": "2026-10-27T19:45:00Z",
+    "venue": "",
+    "home": "Torino",
+    "away": "Como",
     "market": "Total",
     "selection": "Over 2.5 goals",
-    "odds": 1.79,
-    "openOdds": 1.79,
-    "baseProb": 54.8,
+    "odds": 1.76,
+    "openOdds": 1.76,
+    "baseProb": 56.3,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -918,7 +895,7 @@
       "line": 2.5
     },
     "locked": true,
-    "publishedOdds": 1.79,
+    "publishedOdds": 1.76,
     "live": true
   }
 ]
