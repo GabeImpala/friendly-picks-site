@@ -1571,5 +1571,27 @@
     "odds": 1.8,
     "prob": 55.4,
     "result": "L"
+  },
+  {
+    "id": "20277c97a62bde35c5494acdb5912a68|spread|home|1.5",
+    "date": "2026-10-26",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Toronto Maple Leafs",
+    "selection": "Calgary Flames +1.5",
+    "odds": 1.6,
+    "prob": 61.3,
+    "result": "W"
+  },
+  {
+    "id": "82812d5c946d4e055002fcb42673a38b|total|over|7",
+    "date": "2026-10-26",
+    "league": "MLB",
+    "home": "Tampa Bay Rays",
+    "away": "Milwaukee Brewers",
+    "selection": "Over 7",
+    "odds": 1.93,
+    "prob": 51.4,
+    "result": "W"
   }
 ]

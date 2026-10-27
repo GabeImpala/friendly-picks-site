@@ -238,7 +238,7 @@
     "locked": true,
     "publishedOdds": 1.98,
     "live": true,
-    "aiHomeProb": 57.8
+    "aiHomeProb": 58.1
   },
   {
     "id": "a16dd30c67c32f12e0b4879034895cf9",
@@ -330,52 +330,6 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
-    "live": true
-  },
-  {
-    "id": "20277c97a62bde35c5494acdb5912a68",
-    "league": "NHL",
-    "kickoff": "2026-10-27T00:40:00Z",
-    "venue": "",
-    "home": "Calgary Flames",
-    "away": "Toronto Maple Leafs",
-    "market": "Spread",
-    "selection": "Calgary Flames +1.5",
-    "odds": 1.6,
-    "openOdds": 1.6,
-    "baseProb": 61.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.6,
-    "live": true
-  },
-  {
-    "id": "82812d5c946d4e055002fcb42673a38b",
-    "league": "MLB",
-    "kickoff": "2026-10-27T00:10:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
-    "market": "Total",
-    "selection": "Over 7",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 51.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 7
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
     "live": true
   }
 ]
