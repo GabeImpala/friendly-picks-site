@@ -1,5 +1,32 @@
 [
   {
+    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c",
+    "league": "NFL",
+    "kickoff": "2026-10-30T00:15:00Z",
+    "venue": "",
+    "home": "Green Bay Packers",
+    "away": "Carolina Panthers",
+    "market": "Total",
+    "selection": "Over 47.5",
+    "odds": 1.98,
+    "openOdds": 1.98,
+    "baseProb": 49.6,
+    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 47.5
+    },
+    "weather": {
+      "tempF": 47.3,
+      "windMph": 5.7,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
     "id": "cc7f8bc2a4554b89f2a35abad3a633ef",
     "league": "NBA",
     "kickoff": "2026-10-28T23:10:00Z",
@@ -246,6 +273,274 @@
       "type": "h2h",
       "side": "away"
     }
+  },
+  {
+    "id": "99d7f299f7f7feb7980daeeee5f238a9",
+    "league": "MLB",
+    "kickoff": "2026-10-29T00:00:00Z",
+    "venue": "",
+    "home": "Tampa Bay Rays",
+    "away": "Milwaukee Brewers",
+    "market": "Moneyline",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.7,
+    "openOdds": 1.7,
+    "baseProb": 57.5,
+    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [
+      {
+        "kind": "regression",
+        "label": "Selection is due for better results",
+        "detail": "Rays: 98 wins vs 90.2 expected from runs. Brewers: 103 vs 102.5. Rays has won more games than its run differential suggests.",
+        "points": 1.1
+      }
+    ],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    },
+    "aiHomeProb": 46.1
+  },
+  {
+    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-29T03:00:00Z",
+    "venue": "",
+    "home": "América",
+    "away": "Tijuana",
+    "market": "Match result",
+    "selection": "América to win",
+    "odds": 1.52,
+    "openOdds": 1.48,
+    "baseProb": 65.8,
+    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "weather": {
+      "tempF": 64.8,
+      "windMph": 3.8,
+      "precip": "Light rain",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "8d32272737b4c421aa6c721af4bbaf11",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-31T01:00:00Z",
+    "venue": "",
+    "home": "Atlético San Luis",
+    "away": "Atlas",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.2,
+    "openOdds": 2.2,
+    "baseProb": 45.4,
+    "baselineNote": "Consensus of 13 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    },
+    "weather": {
+      "tempF": 67.1,
+      "windMph": 2.4,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "5bbeb077e5f0305957083bfb1f466bb8",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-31T01:00:00Z",
+    "venue": "",
+    "home": "FC Juárez",
+    "away": "Querétaro",
+    "market": "Match result",
+    "selection": "Draw",
+    "odds": 3.65,
+    "openOdds": 3.65,
+    "baseProb": 26.6,
+    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "draw"
+    },
+    "weather": {
+      "tempF": 73.4,
+      "windMph": 6,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "6e0006f84b338bc549341db71eb48c61",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-31T03:00:00Z",
+    "venue": "",
+    "home": "Puebla",
+    "away": "Pumas",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.82,
+    "openOdds": 1.82,
+    "baseProb": 54,
+    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "weather": {
+      "tempF": 66.2,
+      "windMph": 1.6,
+      "precip": "None",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "667cf69986b200753742c90cb9c5126c",
+    "league": "SERIE A",
+    "kickoff": "2026-10-29T17:30:00Z",
+    "venue": "",
+    "home": "Frosinone",
+    "away": "Lecce",
+    "market": "Match result",
+    "selection": "Frosinone to win",
+    "odds": 1.72,
+    "openOdds": 1.78,
+    "baseProb": 57.3,
+    "baselineNote": "Consensus of 24 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.78
+  },
+  {
+    "id": "da159a6b84dbb548b4d7b94c722caac5",
+    "league": "SERIE A",
+    "kickoff": "2026-10-29T19:45:00Z",
+    "venue": "",
+    "home": "Fiorentina",
+    "away": "Atalanta BC",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.71,
+    "openOdds": 1.71,
+    "baseProb": 58,
+    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.71
+  },
+  {
+    "id": "04aa939b89001eedf55668e66c74836e",
+    "league": "SERIE A",
+    "kickoff": "2026-10-31T14:00:00Z",
+    "venue": "",
+    "home": "Bologna",
+    "away": "Monza",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.92,
+    "openOdds": 1.92,
+    "baseProb": 51.2,
+    "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "34cd26b96f78bd7aa3dbff3d1daca7a7",
+    "league": "SERIE A",
+    "kickoff": "2026-10-31T17:00:00Z",
+    "venue": "",
+    "home": "Udinese",
+    "away": "AS Roma",
+    "market": "Match result",
+    "selection": "AS Roma to win",
+    "odds": 1.63,
+    "openOdds": 1.63,
+    "baseProb": 60.6,
+    "baselineNote": "Consensus of 22 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    }
+  },
+  {
+    "id": "e82f25e981f2ebc731cfaf5716231af5",
+    "league": "SERIE A",
+    "kickoff": "2026-10-31T19:45:00Z",
+    "venue": "",
+    "home": "AC Milan",
+    "away": "Inter Milan",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.7,
+    "openOdds": 1.7,
+    "baseProb": 57.8,
+    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "e82f25e981f2ebc731cfaf5716231af5",
+    "league": "SERIE A",
+    "kickoff": "2026-10-31T19:45:00Z",
+    "venue": "",
+    "home": "AC Milan",
+    "away": "Inter Milan",
+    "market": "Match result",
+    "selection": "AC Milan to win",
+    "odds": 3.85,
+    "openOdds": 3.85,
+    "baseProb": 27.4,
+    "baselineNote": "Consensus of 22 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "role": "upset"
   },
   {
     "id": "46dec80debcc79de4c248a0edd4f8d74",
@@ -565,301 +860,6 @@
     }
   },
   {
-    "id": "99d7f299f7f7feb7980daeeee5f238a9",
-    "league": "MLB",
-    "kickoff": "2026-10-29T00:00:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 57.5,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "regression",
-        "label": "Selection is due for better results",
-        "detail": "Rays: 98 wins vs 90.2 expected from runs. Brewers: 103 vs 102.5. Rays has won more games than its run differential suggests.",
-        "points": 1.1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "aiHomeProb": 46.1
-  },
-  {
-    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-29T03:00:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Tijuana",
-    "market": "Match result",
-    "selection": "América to win",
-    "odds": 1.52,
-    "openOdds": 1.48,
-    "baseProb": 65.8,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 64.8,
-      "windMph": 3.8,
-      "precip": "Light rain",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "8d32272737b4c421aa6c721af4bbaf11",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-31T01:00:00Z",
-    "venue": "",
-    "home": "Atlético San Luis",
-    "away": "Atlas",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.2,
-    "openOdds": 2.2,
-    "baseProb": 45.4,
-    "baselineNote": "Consensus of 13 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 67.1,
-      "windMph": 2.4,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "5bbeb077e5f0305957083bfb1f466bb8",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-31T01:00:00Z",
-    "venue": "",
-    "home": "FC Juárez",
-    "away": "Querétaro",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 3.65,
-    "openOdds": 3.65,
-    "baseProb": 26.6,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
-    },
-    "weather": {
-      "tempF": 73.4,
-      "windMph": 6,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "6e0006f84b338bc549341db71eb48c61",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-31T03:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Pumas",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.82,
-    "openOdds": 1.82,
-    "baseProb": 54,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 66.2,
-      "windMph": 1.6,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "667cf69986b200753742c90cb9c5126c",
-    "league": "SERIE A",
-    "kickoff": "2026-10-29T17:30:00Z",
-    "venue": "",
-    "home": "Frosinone",
-    "away": "Lecce",
-    "market": "Match result",
-    "selection": "Frosinone to win",
-    "odds": 1.72,
-    "openOdds": 1.78,
-    "baseProb": 57.3,
-    "baselineNote": "Consensus of 24 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.78
-  },
-  {
-    "id": "da159a6b84dbb548b4d7b94c722caac5",
-    "league": "SERIE A",
-    "kickoff": "2026-10-29T19:45:00Z",
-    "venue": "",
-    "home": "Fiorentina",
-    "away": "Atalanta BC",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.71,
-    "openOdds": 1.71,
-    "baseProb": 58,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.71
-  },
-  {
-    "id": "04aa939b89001eedf55668e66c74836e",
-    "league": "SERIE A",
-    "kickoff": "2026-10-31T14:00:00Z",
-    "venue": "",
-    "home": "Bologna",
-    "away": "Monza",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.92,
-    "openOdds": 1.92,
-    "baseProb": 51.2,
-    "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "34cd26b96f78bd7aa3dbff3d1daca7a7",
-    "league": "SERIE A",
-    "kickoff": "2026-10-31T17:00:00Z",
-    "venue": "",
-    "home": "Udinese",
-    "away": "AS Roma",
-    "market": "Match result",
-    "selection": "AS Roma to win",
-    "odds": 1.63,
-    "openOdds": 1.63,
-    "baseProb": 60.6,
-    "baselineNote": "Consensus of 22 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "e82f25e981f2ebc731cfaf5716231af5",
-    "league": "SERIE A",
-    "kickoff": "2026-10-31T19:45:00Z",
-    "venue": "",
-    "home": "AC Milan",
-    "away": "Inter Milan",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 57.8,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "e82f25e981f2ebc731cfaf5716231af5",
-    "league": "SERIE A",
-    "kickoff": "2026-10-31T19:45:00Z",
-    "venue": "",
-    "home": "AC Milan",
-    "away": "Inter Milan",
-    "market": "Match result",
-    "selection": "AC Milan to win",
-    "odds": 3.85,
-    "openOdds": 3.85,
-    "baseProb": 27.4,
-    "baselineNote": "Consensus of 22 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "role": "upset"
-  },
-  {
-    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c",
-    "league": "NFL",
-    "kickoff": "2026-10-30T00:15:00Z",
-    "venue": "",
-    "home": "Green Bay Packers",
-    "away": "Carolina Panthers",
-    "market": "Total",
-    "selection": "Over 47.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.6,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 47.5
-    },
-    "weather": {
-      "tempF": 47.3,
-      "windMph": 5.7,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "846e496fc232b2fc20214754836727d0",
     "league": "LA LIGA",
     "kickoff": "2026-10-17T16:30:00Z",
@@ -1063,98 +1063,6 @@
     },
     "locked": true,
     "publishedOdds": 1.86,
-    "live": true
-  },
-  {
-    "id": "3d0b0fbec194258530882514714c74be",
-    "league": "SERIE A",
-    "kickoff": "2026-10-28T17:30:00Z",
-    "venue": "",
-    "home": "AC Milan",
-    "away": "Bologna",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.88,
-    "openOdds": 1.88,
-    "baseProb": 52.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.88,
-    "live": true
-  },
-  {
-    "id": "33320ad169692216a91dec030e7ef6a6",
-    "league": "SERIE A",
-    "kickoff": "2026-10-28T17:30:00Z",
-    "venue": "",
-    "home": "Venezia",
-    "away": "Inter Milan",
-    "market": "Total",
-    "selection": "Over 3.5 goals",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 51.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 3.5
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
-    "live": true
-  },
-  {
-    "id": "482c18a8081afdfa310324fa8f37e95a",
-    "league": "SERIE A",
-    "kickoff": "2026-10-28T17:30:00Z",
-    "venue": "",
-    "home": "Parma",
-    "away": "Udinese",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.77,
-    "openOdds": 1.77,
-    "baseProb": 56.1,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.77,
-    "live": true
-  },
-  {
-    "id": "482c18a8081afdfa310324fa8f37e95a",
-    "league": "SERIE A",
-    "kickoff": "2026-10-28T17:30:00Z",
-    "venue": "",
-    "home": "Parma",
-    "away": "Udinese",
-    "market": "Match result",
-    "selection": "Udinese to win",
-    "odds": 2.84,
-    "openOdds": 2.58,
-    "baseProb": 36.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 2.84,
     "live": true
   }
 ]
