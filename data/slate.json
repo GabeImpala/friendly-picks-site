@@ -1,26 +1,5 @@
 [
   {
-    "id": "82afe4e028b0fbbd9f6cf92697bec6fc",
-    "league": "NBA",
-    "kickoff": "2026-10-28T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -2",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.7,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2
-    }
-  },
-  {
     "id": "5997ee5c9fbdc53f9c86732b02f58158",
     "league": "NBA",
     "kickoff": "2026-10-28T23:10:00Z",
@@ -241,68 +220,6 @@
     }
   },
   {
-    "id": "5f16cb74336431221c132f05c0e31d04",
-    "league": "NHL",
-    "kickoff": "2026-10-28T02:10:00Z",
-    "venue": "",
-    "home": "Anaheim Ducks",
-    "away": "Vancouver Canucks",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.11,
-    "openOdds": 2.11,
-    "baseProb": 46.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
-    }
-  },
-  {
-    "id": "66690f3994b21af39301701a52df1d66",
-    "league": "NHL",
-    "kickoff": "2026-10-28T02:10:00Z",
-    "venue": "",
-    "home": "Vegas Golden Knights",
-    "away": "Ottawa Senators",
-    "market": "Moneyline",
-    "selection": "Ottawa Senators ML",
-    "odds": 2.42,
-    "openOdds": 2.42,
-    "baseProb": 41.2,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "288b3a1e5241bd3885295af9aab801ca",
-    "league": "NHL",
-    "kickoff": "2026-10-28T02:40:00Z",
-    "venue": "",
-    "home": "San Jose Sharks",
-    "away": "Buffalo Sabres",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.18,
-    "openOdds": 2.18,
-    "baseProb": 45.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
-    }
-  },
-  {
     "id": "46dec80debcc79de4c248a0edd4f8d74",
     "league": "NHL",
     "kickoff": "2026-10-28T23:40:00Z",
@@ -498,7 +415,7 @@
     "locked": true,
     "publishedOdds": 1.98,
     "live": true,
-    "aiHomeProb": 58.1
+    "aiHomeProb": 57.7
   },
   {
     "id": "a16dd30c67c32f12e0b4879034895cf9",
@@ -593,92 +510,26 @@
     "live": true
   },
   {
-    "id": "11d4cfe51153e45bb3a9fc6e5f23535a",
-    "league": "NHL",
-    "kickoff": "2026-10-28T00:08:00Z",
+    "id": "82afe4e028b0fbbd9f6cf92697bec6fc",
+    "league": "NBA",
+    "kickoff": "2026-10-28T03:10:00Z",
     "venue": "",
-    "home": "Dallas Stars",
-    "away": "New Jersey Devils",
-    "market": "Moneyline",
-    "selection": "New Jersey Devils ML",
-    "odds": 2.02,
-    "openOdds": 2.02,
-    "baseProb": 48.8,
+    "home": "Los Angeles Lakers",
+    "away": "Portland Trail Blazers",
+    "market": "Spread",
+    "selection": "Los Angeles Lakers -2",
+    "odds": 1.99,
+    "openOdds": 1.99,
+    "baseProb": 49.7,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "h2h",
-      "side": "away"
+      "type": "spread",
+      "side": "home",
+      "line": -2
     },
     "locked": true,
-    "publishedOdds": 2.02,
+    "publishedOdds": 1.99,
     "live": true
-  },
-  {
-    "id": "928c19ad83dc850d60051b756f7db2cd",
-    "league": "NHL",
-    "kickoff": "2026-10-28T00:10:00Z",
-    "venue": "",
-    "home": "St Louis Blues",
-    "away": "Montréal Canadiens",
-    "market": "Moneyline",
-    "selection": "Montréal Canadiens ML",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.93,
-    "live": true
-  },
-  {
-    "id": "74a990b939cd35873c9bb47d6e37e057",
-    "league": "NHL",
-    "kickoff": "2026-10-28T00:11:00Z",
-    "venue": "",
-    "home": "Chicago Blackhawks",
-    "away": "Los Angeles Kings",
-    "market": "Moneyline",
-    "selection": "Chicago Blackhawks ML",
-    "odds": 1.97,
-    "openOdds": 1.97,
-    "baseProb": 50.1,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.97,
-    "live": true
-  },
-  {
-    "id": "e03ea0f98bdd5fa277a34fbfe1a47efa",
-    "league": "MLB",
-    "kickoff": "2026-10-28T00:00:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
-    "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.86,
-    "openOdds": 1.86,
-    "baseProb": 54,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.86,
-    "live": true,
-    "aiHomeProb": 45.4
   }
 ]
