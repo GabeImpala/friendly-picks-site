@@ -508,28 +508,5 @@
     "locked": true,
     "publishedOdds": 1.86,
     "live": true
-  },
-  {
-    "id": "82afe4e028b0fbbd9f6cf92697bec6fc",
-    "league": "NBA",
-    "kickoff": "2026-10-28T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -2",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2
-    },
-    "locked": true,
-    "publishedOdds": 1.99,
-    "live": true
   }
 ]
