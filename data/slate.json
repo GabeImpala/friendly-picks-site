@@ -27,52 +27,6 @@
     }
   },
   {
-    "id": "6e8a41f3aeff105b0e10766515517d5e",
-    "league": "NBA",
-    "kickoff": "2026-10-29T02:40:00Z",
-    "venue": "",
-    "home": "Los Angeles Clippers",
-    "away": "Los Angeles Lakers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 1.6,
-    "openOdds": 1.6,
-    "baseProb": 61.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-29T03:00:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Tijuana",
-    "market": "Match result",
-    "selection": "América to win",
-    "odds": 1.52,
-    "openOdds": 1.48,
-    "baseProb": 65.8,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 64.8,
-      "windMph": 3.8,
-      "precip": "Light rain",
-      "roof": "open"
-    }
-  },
-  {
     "id": "8d32272737b4c421aa6c721af4bbaf11",
     "league": "LIGA MX",
     "kickoff": "2026-10-31T01:00:00Z",
@@ -279,27 +233,6 @@
       "side": "home"
     },
     "role": "upset"
-  },
-  {
-    "id": "f7510932dec00855b611e3685080819c",
-    "league": "NHL",
-    "kickoff": "2026-10-29T02:10:00Z",
-    "venue": "",
-    "home": "Seattle Kraken",
-    "away": "Toronto Maple Leafs",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.07,
-    "openOdds": 2,
-    "baseProb": 47.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
-    }
   },
   {
     "id": "05a8ed51399342594c33ae0faa0f9027",
@@ -643,7 +576,7 @@
     "locked": true,
     "publishedOdds": 1.98,
     "live": true,
-    "aiHomeProb": 57.7
+    "aiHomeProb": 58
   },
   {
     "id": "a16dd30c67c32f12e0b4879034895cf9",
@@ -738,86 +671,17 @@
     "live": true
   },
   {
-    "id": "46dec80debcc79de4c248a0edd4f8d74",
-    "league": "NHL",
-    "kickoff": "2026-10-28T23:40:00Z",
-    "venue": "",
-    "home": "Washington Capitals",
-    "away": "Philadelphia Flyers",
-    "market": "Spread",
-    "selection": "Washington Capitals -1.5",
-    "odds": 2.18,
-    "openOdds": 2.18,
-    "baseProb": 46.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -1.5
-    },
-    "locked": true,
-    "publishedOdds": 2.18,
-    "live": true
-  },
-  {
-    "id": "1358a7c35b103e3242da6a96468d61f9",
-    "league": "NHL",
-    "kickoff": "2026-10-29T00:40:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Calgary Flames",
-    "market": "Spread",
-    "selection": "Calgary Flames +1.5",
-    "odds": 1.81,
-    "openOdds": 1.81,
-    "baseProb": 54.2,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.81,
-    "live": true
-  },
-  {
-    "id": "e74d54621abaed183e569394f935c362",
+    "id": "6e8a41f3aeff105b0e10766515517d5e",
     "league": "NBA",
-    "kickoff": "2026-10-29T01:10:00Z",
+    "kickoff": "2026-10-29T02:40:00Z",
     "venue": "",
-    "home": "Utah Jazz",
-    "away": "San Antonio Spurs",
-    "market": "Spread",
-    "selection": "Utah Jazz +13.5",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 13.5
-    },
-    "locked": true,
-    "publishedOdds": 1.99,
-    "live": true
-  },
-  {
-    "id": "99d7f299f7f7feb7980daeeee5f238a9",
-    "league": "MLB",
-    "kickoff": "2026-10-29T00:00:00Z",
-    "venue": "",
-    "home": "Tampa Bay Rays",
-    "away": "Milwaukee Brewers",
+    "home": "Los Angeles Clippers",
+    "away": "Los Angeles Lakers",
     "market": "Moneyline",
-    "selection": "Milwaukee Brewers ML",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 58.6,
+    "selection": "Los Angeles Lakers ML",
+    "odds": 1.6,
+    "openOdds": 1.6,
+    "baseProb": 61.8,
     "factors": [],
     "injuries": [],
     "bet": {
@@ -825,8 +689,29 @@
       "side": "away"
     },
     "locked": true,
-    "publishedOdds": 1.7,
-    "live": true,
-    "aiHomeProb": 46.1
+    "publishedOdds": 1.6,
+    "live": true
+  },
+  {
+    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
+    "league": "LIGA MX",
+    "kickoff": "2026-10-29T03:00:00Z",
+    "venue": "",
+    "home": "América",
+    "away": "Tijuana",
+    "market": "Match result",
+    "selection": "América to win",
+    "odds": 1.52,
+    "openOdds": 1.48,
+    "baseProb": 65.8,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.52,
+    "live": true
   }
 ]

@@ -1727,6 +1727,28 @@
     "result": "P"
   },
   {
+    "id": "46dec80debcc79de4c248a0edd4f8d74|spread|home|-1.5",
+    "date": "2026-10-28",
+    "league": "NHL",
+    "home": "Washington Capitals",
+    "away": "Philadelphia Flyers",
+    "selection": "Washington Capitals -1.5",
+    "odds": 2.18,
+    "prob": 46.6,
+    "result": "W"
+  },
+  {
+    "id": "1358a7c35b103e3242da6a96468d61f9|spread|away|1.5",
+    "date": "2026-10-28",
+    "league": "NHL",
+    "home": "Edmonton Oilers",
+    "away": "Calgary Flames",
+    "selection": "Calgary Flames +1.5",
+    "odds": 1.81,
+    "prob": 54.2,
+    "result": "L"
+  },
+  {
     "id": "5997ee5c9fbdc53f9c86732b02f58158|spread|home|2.5",
     "date": "2026-10-28",
     "league": "NBA",
@@ -1736,5 +1758,38 @@
     "odds": 1.96,
     "prob": 50.2,
     "result": "L"
+  },
+  {
+    "id": "e74d54621abaed183e569394f935c362|spread|home|13.5",
+    "date": "2026-10-28",
+    "league": "NBA",
+    "home": "Utah Jazz",
+    "away": "San Antonio Spurs",
+    "selection": "Utah Jazz +13.5",
+    "odds": 1.99,
+    "prob": 49.8,
+    "result": "W"
+  },
+  {
+    "id": "f7510932dec00855b611e3685080819c|total|under|6.5",
+    "date": "2026-10-28",
+    "league": "NHL",
+    "home": "Seattle Kraken",
+    "away": "Toronto Maple Leafs",
+    "selection": "Under 6.5",
+    "odds": 2.07,
+    "prob": 47.4,
+    "result": "L"
+  },
+  {
+    "id": "99d7f299f7f7feb7980daeeee5f238a9|h2h|away|",
+    "date": "2026-10-28",
+    "league": "MLB",
+    "home": "Tampa Bay Rays",
+    "away": "Milwaukee Brewers",
+    "selection": "Milwaukee Brewers ML",
+    "odds": 1.7,
+    "prob": 58.6,
+    "result": "W"
   }
 ]
