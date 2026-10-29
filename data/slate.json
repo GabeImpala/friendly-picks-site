@@ -10,7 +10,7 @@
     "selection": "Columbus Blue Jackets +1.5",
     "odds": 1.83,
     "openOdds": 1.83,
-    "baseProb": 52.5,
+    "baseProb": 52.6,
     "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -251,7 +251,9 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.98
   },
   {
     "id": "a536736a6da269d2e10edbdb27a789bd",
@@ -272,7 +274,9 @@
       "type": "spread",
       "side": "home",
       "line": -1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 2.14
   },
   {
     "id": "026d37181dd4ace0df7565d9b208ce7e",
@@ -283,16 +287,18 @@
     "away": "Seattle Kraken",
     "market": "Moneyline",
     "selection": "Calgary Flames ML",
-    "odds": 2.05,
+    "odds": 2,
     "openOdds": 2.05,
-    "baseProb": 48.1,
+    "baseProb": 48.7,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 2.05
   },
   {
     "id": "b123d92eb8046e43fabf95a33a676634",
@@ -305,7 +311,7 @@
     "selection": "Cleveland Cavaliers ML",
     "odds": 2,
     "openOdds": 2,
-    "baseProb": 48.9,
+    "baseProb": 48.8,
     "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -346,14 +352,16 @@
     "odds": 1.98,
     "openOdds": 1.98,
     "baseProb": 49.8,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "total",
       "side": "under",
       "line": 232.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.98
   },
   {
     "id": "45ebc54751ef3e435192eaeb0470acfb",
@@ -373,7 +381,9 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 2.06
   },
   {
     "id": "036a93ca33d6261c21d4bfa6e0d02568",
@@ -383,17 +393,17 @@
     "home": "Boston Celtics",
     "away": "Chicago Bulls",
     "market": "Spread",
-    "selection": "Boston Celtics -15.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 49.9,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "selection": "Chicago Bulls +15.5",
+    "odds": 1.93,
+    "openOdds": 1.93,
+    "baseProb": 49.8,
+    "baselineNote": "Consensus of 3 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
-      "side": "home",
-      "line": -15.5
+      "side": "away",
+      "line": 15.5
     }
   },
   {
@@ -435,7 +445,9 @@
       "type": "spread",
       "side": "away",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.94
   },
   {
     "id": "a0f5d89a4fc51e52edd0e70d1e4cbaf2",
@@ -641,6 +653,8 @@
       "precip": "Rain",
       "roof": "open"
     },
+    "locked": true,
+    "publishedOdds": 1.75,
     "aiHomeProb": 47.3
   },
   {
@@ -702,7 +716,9 @@
       "windMph": 4.7,
       "precip": "Light rain",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.98
   },
   {
     "id": "ab5ab731ab655bd6308bc7a922275518",
@@ -783,7 +799,9 @@
       "windMph": 13.7,
       "precip": "Light rain",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.97
   },
   {
     "id": "98f1b121b793977434c046e76c707145",
@@ -830,7 +848,9 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.46
   },
   {
     "id": "005711684f3e51024ac40c1ee69978e9",
@@ -850,7 +870,9 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.65
   },
   {
     "id": "77383723574e3d39c7aba22eec6c4ce3",
@@ -871,7 +893,9 @@
       "type": "total",
       "side": "under",
       "line": 2.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.81
   },
   {
     "id": "8f0b7ef29a47f675429758e83a426d7e",
@@ -891,7 +915,9 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.4
   },
   {
     "id": "2db2b55e71574a19ff0557898d3e9933",
@@ -933,7 +959,9 @@
       "type": "total",
       "side": "over",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.62
   },
   {
     "id": "6c520ed959578ca3aebe351ee3765d53",
@@ -954,7 +982,9 @@
       "type": "total",
       "side": "under",
       "line": 4.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.73
   },
   {
     "id": "5262991e389930615bec34b642428c93",
@@ -996,6 +1026,8 @@
       "type": "h2h",
       "side": "away"
     },
+    "locked": true,
+    "publishedOdds": 3.35,
     "role": "upset"
   },
   {
@@ -1019,8 +1051,8 @@
       "line": 2.5
     },
     "weather": {
-      "tempF": 66.6,
-      "windMph": 2.7,
+      "tempF": 66.7,
+      "windMph": 2.8,
       "precip": "None",
       "roof": "open"
     },
@@ -1036,7 +1068,7 @@
     "away": "Querétaro",
     "market": "Total",
     "selection": "Over 2.5 goals",
-    "odds": 1.89,
+    "odds": 1.88,
     "openOdds": 1.75,
     "baseProb": 53.5,
     "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
@@ -1052,7 +1084,9 @@
       "windMph": 3.4,
       "precip": "None",
       "roof": "open"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.89
   },
   {
     "id": "6e0006f84b338bc549341db71eb48c61",
@@ -1076,7 +1110,7 @@
     },
     "weather": {
       "tempF": 65.8,
-      "windMph": 1.6,
+      "windMph": 2.2,
       "precip": "None",
       "roof": "open"
     },
@@ -1104,10 +1138,12 @@
     },
     "weather": {
       "tempF": 65.8,
-      "windMph": 1.6,
+      "windMph": 2.2,
       "precip": "None",
       "roof": "open"
     },
+    "locked": true,
+    "publishedOdds": 3.4,
     "role": "upset"
   },
   {
@@ -1130,8 +1166,8 @@
       "side": "home"
     },
     "weather": {
-      "tempF": 65.3,
-      "windMph": 9.3,
+      "tempF": 66.5,
+      "windMph": 10.2,
       "precip": "None",
       "roof": "open"
     }
@@ -1185,7 +1221,7 @@
     },
     "weather": {
       "tempF": 71.4,
-      "windMph": 3.8,
+      "windMph": 2.7,
       "precip": "None",
       "roof": "open"
     }
@@ -1210,8 +1246,8 @@
       "side": "draw"
     },
     "weather": {
-      "tempF": 66.9,
-      "windMph": 5.6,
+      "tempF": 66.1,
+      "windMph": 4.8,
       "precip": "None",
       "roof": "open"
     }
