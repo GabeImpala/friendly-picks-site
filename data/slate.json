@@ -669,49 +669,5 @@
     "locked": true,
     "publishedOdds": 1.86,
     "live": true
-  },
-  {
-    "id": "6e8a41f3aeff105b0e10766515517d5e",
-    "league": "NBA",
-    "kickoff": "2026-10-29T02:40:00Z",
-    "venue": "",
-    "home": "Los Angeles Clippers",
-    "away": "Los Angeles Lakers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 1.6,
-    "openOdds": 1.6,
-    "baseProb": 61.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.6,
-    "live": true
-  },
-  {
-    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-29T03:00:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Tijuana",
-    "market": "Match result",
-    "selection": "América to win",
-    "odds": 1.52,
-    "openOdds": 1.48,
-    "baseProb": 65.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.52,
-    "live": true
   }
 ]

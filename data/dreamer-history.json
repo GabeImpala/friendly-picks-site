@@ -1499,5 +1499,164 @@
     "publishedAt": "2026-10-27T19:34:54.678Z",
     "result": "L",
     "settledAt": "2026-10-28T10:26:41.876Z"
+  },
+  {
+    "day": "2026-10-28",
+    "legs": [
+      {
+        "eventId": "87bb2bc5a2dc7f60e8d1ce0f5bb66815",
+        "league": "LIGA MX",
+        "kickoff": "2026-10-29T03:00:00Z",
+        "home": "América",
+        "away": "Tijuana",
+        "market": "Match result",
+        "selection": "América to win",
+        "odds": 1.52,
+        "prob": 65.8,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "P"
+      },
+      {
+        "eventId": "6e8a41f3aeff105b0e10766515517d5e",
+        "league": "NBA",
+        "kickoff": "2026-10-29T02:40:00Z",
+        "home": "Los Angeles Clippers",
+        "away": "Los Angeles Lakers",
+        "market": "Moneyline",
+        "selection": "Los Angeles Lakers ML",
+        "odds": 1.6,
+        "prob": 61.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 87,
+        "awayScore": 103,
+        "result": "W"
+      },
+      {
+        "eventId": "99d7f299f7f7feb7980daeeee5f238a9",
+        "league": "MLB",
+        "kickoff": "2026-10-29T00:00:00Z",
+        "home": "Tampa Bay Rays",
+        "away": "Milwaukee Brewers",
+        "market": "Moneyline",
+        "selection": "Milwaukee Brewers ML",
+        "odds": 1.7,
+        "prob": 58.6,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "1358a7c35b103e3242da6a96468d61f9",
+        "league": "NHL",
+        "kickoff": "2026-10-29T00:40:00Z",
+        "home": "Edmonton Oilers",
+        "away": "Calgary Flames",
+        "market": "Spread",
+        "selection": "Calgary Flames +1.5",
+        "odds": 1.68,
+        "prob": 58.2,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "482c18a8081afdfa310324fa8f37e95a",
+        "league": "SERIE A",
+        "kickoff": "2026-10-28T17:30:00Z",
+        "home": "Parma",
+        "away": "Udinese",
+        "market": "Total",
+        "selection": "Under 2.5 goals",
+        "odds": 1.77,
+        "prob": 56.1,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 2.5
+        },
+        "homeScore": 0,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "3d0b0fbec194258530882514714c74be",
+        "league": "SERIE A",
+        "kickoff": "2026-10-28T17:30:00Z",
+        "home": "AC Milan",
+        "away": "Bologna",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.88,
+        "prob": 52.6,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 2,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "33320ad169692216a91dec030e7ef6a6",
+        "league": "SERIE A",
+        "kickoff": "2026-10-28T17:30:00Z",
+        "home": "Venezia",
+        "away": "Inter Milan",
+        "market": "Total",
+        "selection": "Over 3.5 goals",
+        "odds": 1.93,
+        "prob": 51.9,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 3.5
+        },
+        "homeScore": 0,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "5997ee5c9fbdc53f9c86732b02f58158",
+        "league": "NBA",
+        "kickoff": "2026-10-28T23:10:00Z",
+        "home": "Indiana Pacers",
+        "away": "Philadelphia 76ers",
+        "market": "Spread",
+        "selection": "Indiana Pacers +2.5",
+        "odds": 1.96,
+        "prob": 49.9,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 7.5
+        },
+        "homeScore": 109,
+        "awayScore": 114,
+        "result": "W"
+      }
+    ],
+    "odds": 87.43116588466175,
+    "hitChance": 1.06,
+    "publishedAt": "2026-10-28T19:47:13.796Z",
+    "result": "L",
+    "settledAt": "2026-10-29T10:46:12.752Z"
   }
 ]

@@ -1771,6 +1771,17 @@
     "result": "W"
   },
   {
+    "id": "6e8a41f3aeff105b0e10766515517d5e|h2h|away|",
+    "date": "2026-10-28",
+    "league": "NBA",
+    "home": "Los Angeles Clippers",
+    "away": "Los Angeles Lakers",
+    "selection": "Los Angeles Lakers ML",
+    "odds": 1.6,
+    "prob": 61.8,
+    "result": "W"
+  },
+  {
     "id": "f7510932dec00855b611e3685080819c|total|under|6.5",
     "date": "2026-10-28",
     "league": "NHL",
@@ -1791,5 +1802,16 @@
     "odds": 1.7,
     "prob": 58.6,
     "result": "W"
+  },
+  {
+    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815|h2h|home|",
+    "date": "2026-10-28",
+    "league": "LIGA MX",
+    "home": "América",
+    "away": "Tijuana",
+    "selection": "América to win",
+    "odds": 1.52,
+    "prob": 65.8,
+    "result": "P"
   }
 ]

@@ -14,5 +14,20 @@
     "offConsensus": true,
     "result": "W",
     "clv": 3.6
+  },
+  {
+    "id": "87bb2bc5a2dc7f60e8d1ce0f5bb66815|edge|h2h|home|",
+    "date": "2026-10-28",
+    "league": "LIGA MX",
+    "home": "América",
+    "away": "Tijuana",
+    "selection": "América to win",
+    "odds": 1.52,
+    "consProb": 67.6,
+    "edge": 2.8,
+    "ev": 0.027,
+    "stakePct": 0.01311322060634736,
+    "offConsensus": true,
+    "result": "P"
   }
 ]
