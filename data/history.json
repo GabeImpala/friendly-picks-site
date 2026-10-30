@@ -1846,5 +1846,60 @@
     "odds": 1.83,
     "prob": 54.1,
     "result": "W"
+  },
+  {
+    "id": "2f65119127127c0185cf3bdc236a00f2|spread|away|1.5",
+    "date": "2026-10-29",
+    "league": "NHL",
+    "home": "Dallas Stars",
+    "away": "Montréal Canadiens",
+    "selection": "Montréal Canadiens +1.5",
+    "odds": 1.61,
+    "prob": 60.9,
+    "result": "W"
+  },
+  {
+    "id": "5020318cfd7098bd38fae6c907029f0f|spread|away|1.5",
+    "date": "2026-10-29",
+    "league": "NHL",
+    "home": "Minnesota Wild",
+    "away": "New York Islanders",
+    "selection": "New York Islanders +1.5",
+    "odds": 1.68,
+    "prob": 58.9,
+    "result": "W"
+  },
+  {
+    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c|total|over|47.5",
+    "date": "2026-10-29",
+    "league": "NFL",
+    "home": "Green Bay Packers",
+    "away": "Carolina Panthers",
+    "selection": "Over 47.5",
+    "odds": 1.98,
+    "prob": 49.6,
+    "result": "L"
+  },
+  {
+    "id": "ba667ca1b0b042f0661cb9d9af56c165|total|under|232.5",
+    "date": "2026-10-29",
+    "league": "NBA",
+    "home": "Portland Trail Blazers",
+    "away": "Memphis Grizzlies",
+    "selection": "Under 232.5",
+    "odds": 1.98,
+    "prob": 49.8,
+    "result": "W"
+  },
+  {
+    "id": "c8abddd6d4a9c96f45dcdd287f392537|h2h|away|",
+    "date": "2026-10-29",
+    "league": "NHL",
+    "home": "Anaheim Ducks",
+    "away": "Buffalo Sabres",
+    "selection": "Buffalo Sabres ML",
+    "odds": 1.74,
+    "prob": 56.5,
+    "result": "W"
   }
 ]

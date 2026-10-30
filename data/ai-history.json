@@ -372,5 +372,16 @@
     "odds": 1.7,
     "prob": 53.9,
     "result": "W"
+  },
+  {
+    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c|ai",
+    "date": "2026-10-29",
+    "league": "NFL",
+    "home": "Green Bay Packers",
+    "away": "Carolina Panthers",
+    "selection": "Carolina Panthers ML",
+    "odds": 2.7,
+    "prob": 50.5,
+    "result": "L"
   }
 ]

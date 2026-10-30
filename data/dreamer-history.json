@@ -1889,5 +1889,165 @@
     "publishedAt": "2026-10-28T19:47:13.796Z",
     "result": "L",
     "settledAt": "2026-10-29T10:46:12.752Z"
+  },
+  {
+    "day": "2026-10-29",
+    "legs": [
+      {
+        "eventId": "f27b209b3ed34a6dfb27f1670ffa514f",
+        "league": "NHL",
+        "kickoff": "2026-10-29T23:10:00Z",
+        "home": "Tampa Bay Lightning",
+        "away": "Winnipeg Jets",
+        "market": "Moneyline",
+        "selection": "Tampa Bay Lightning ML",
+        "odds": 1.51,
+        "prob": 65.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 6,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "2f65119127127c0185cf3bdc236a00f2",
+        "league": "NHL",
+        "kickoff": "2026-10-30T00:10:00Z",
+        "home": "Dallas Stars",
+        "away": "Montréal Canadiens",
+        "market": "Spread",
+        "selection": "Montréal Canadiens +1.5",
+        "odds": 1.58,
+        "prob": 61.6,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "5020318cfd7098bd38fae6c907029f0f",
+        "league": "NHL",
+        "kickoff": "2026-10-30T00:10:00Z",
+        "home": "Minnesota Wild",
+        "away": "New York Islanders",
+        "market": "Spread",
+        "selection": "New York Islanders +1.5",
+        "odds": 1.65,
+        "prob": 58.7,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "da159a6b84dbb548b4d7b94c722caac5",
+        "league": "SERIE A",
+        "kickoff": "2026-10-29T19:45:00Z",
+        "home": "Fiorentina",
+        "away": "Atalanta BC",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.71,
+        "prob": 57.8,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 2,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "667cf69986b200753742c90cb9c5126c",
+        "league": "SERIE A",
+        "kickoff": "2026-10-29T17:30:00Z",
+        "home": "Frosinone",
+        "away": "Lecce",
+        "market": "Match result",
+        "selection": "Frosinone to win",
+        "odds": 1.78,
+        "prob": 56.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 5,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "05a8ed51399342594c33ae0faa0f9027",
+        "league": "NHL",
+        "kickoff": "2026-10-29T23:10:00Z",
+        "home": "Carolina Hurricanes",
+        "away": "Columbus Blue Jackets",
+        "market": "Spread",
+        "selection": "Columbus Blue Jackets +1.5",
+        "odds": 1.83,
+        "prob": 52.5,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "ab2865e9f2d4b012de8bc6fb6de11a7c",
+        "league": "NFL",
+        "kickoff": "2026-10-30T00:15:00Z",
+        "home": "Green Bay Packers",
+        "away": "Carolina Panthers",
+        "market": "Total",
+        "selection": "Over 47.5",
+        "odds": 1.98,
+        "prob": 50,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 47
+        },
+        "homeScore": 27,
+        "awayScore": 19,
+        "result": "L"
+      },
+      {
+        "eventId": "ba667ca1b0b042f0661cb9d9af56c165",
+        "league": "NBA",
+        "kickoff": "2026-10-30T02:10:00Z",
+        "home": "Portland Trail Blazers",
+        "away": "Memphis Grizzlies",
+        "market": "Total",
+        "selection": "Under 232.5",
+        "odds": 1.98,
+        "prob": 49.8,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 232.5
+        },
+        "homeScore": 103,
+        "awayScore": 124,
+        "result": "W"
+      }
+    ],
+    "odds": 85.96379135703032,
+    "hitChance": 1.01,
+    "publishedAt": "2026-10-29T19:46:39.668Z",
+    "result": "L",
+    "settledAt": "2026-10-30T05:00:23.334Z"
   }
 ]

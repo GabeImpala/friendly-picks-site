@@ -1,17 +1,5 @@
 [
   {
-    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c|ai",
-    "eventId": "ab2865e9f2d4b012de8bc6fb6de11a7c",
-    "league": "NFL",
-    "kickoff": "2026-10-30T00:15:00Z",
-    "home": "Green Bay Packers",
-    "away": "Carolina Panthers",
-    "selection": "Carolina Panthers ML",
-    "odds": 2.7,
-    "prob": 50.5,
-    "live": true
-  },
-  {
     "id": "921859689f5f8b3b8b1caf4248bdb1ec|ai",
     "eventId": "921859689f5f8b3b8b1caf4248bdb1ec",
     "league": "NFL",
