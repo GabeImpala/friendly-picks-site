@@ -1835,5 +1835,16 @@
     "odds": 1.71,
     "prob": 57.8,
     "result": "W"
+  },
+  {
+    "id": "05a8ed51399342594c33ae0faa0f9027|spread|away|1.5",
+    "date": "2026-10-29",
+    "league": "NHL",
+    "home": "Carolina Hurricanes",
+    "away": "Columbus Blue Jackets",
+    "selection": "Columbus Blue Jackets +1.5",
+    "odds": 1.83,
+    "prob": 54.1,
+    "result": "W"
   }
 ]
