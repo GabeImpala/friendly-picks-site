@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T01:19:52.615Z",
+  "updatedAt": "2026-10-30T01:30:51.277Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19195,
+  "creditsRemaining": 19169,
   "info": [
-    "This run could spend up to 548 credits (731 left this cycle).",
+    "This run could spend up to 537 credits (717 left this cycle).",
     "NFL: no games in the next 36 hours, no credits used.",
     "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
     "SERIE A: no games in the next 36 hours, no credits used.",
     "Golden Pick: nothing today was both likely enough and priced well enough, so none was published.",
-    "Used 14 credits this run."
+    "Used 12 credits this run."
   ]
 }
