@@ -1901,5 +1901,16 @@
     "odds": 1.74,
     "prob": 56.5,
     "result": "W"
+  },
+  {
+    "id": "00b03cb40c27ed23e2ecb18f062a5122|h2h|home|",
+    "date": "2026-10-30",
+    "league": "LA LIGA",
+    "home": "Villarreal",
+    "away": "Espanyol",
+    "selection": "Villarreal to win",
+    "odds": 1.46,
+    "prob": 67.4,
+    "result": "L"
   }
 ]

@@ -1481,28 +1481,6 @@
     }
   },
   {
-    "id": "5c712e15e1cd4b9283b4bf410fb334f4",
-    "league": "NHL",
-    "kickoff": "2026-10-30T22:10:00Z",
-    "venue": "",
-    "home": "Vegas Golden Knights",
-    "away": "New Jersey Devils",
-    "market": "Moneyline",
-    "selection": "New Jersey Devils ML",
-    "odds": 1.97,
-    "openOdds": 1.98,
-    "baseProb": 49.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.98
-  },
-  {
     "id": "a536736a6da269d2e10edbdb27a789bd",
     "league": "NHL",
     "kickoff": "2026-10-30T23:10:00Z",
@@ -1756,25 +1734,25 @@
     }
   },
   {
-    "id": "00b03cb40c27ed23e2ecb18f062a5122",
-    "league": "LA LIGA",
-    "kickoff": "2026-10-30T20:00:00Z",
+    "id": "5c712e15e1cd4b9283b4bf410fb334f4",
+    "league": "NHL",
+    "kickoff": "2026-10-30T22:10:00Z",
     "venue": "",
-    "home": "Villarreal",
-    "away": "Espanyol",
-    "market": "Match result",
-    "selection": "Villarreal to win",
-    "odds": 1.46,
-    "openOdds": 1.46,
-    "baseProb": 67.4,
+    "home": "Vegas Golden Knights",
+    "away": "New Jersey Devils",
+    "market": "Moneyline",
+    "selection": "New Jersey Devils ML",
+    "odds": 1.98,
+    "openOdds": 1.98,
+    "baseProb": 49.5,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
-      "side": "home"
+      "side": "away"
     },
     "locked": true,
-    "publishedOdds": 1.46,
+    "publishedOdds": 1.98,
     "live": true
   }
 ]
