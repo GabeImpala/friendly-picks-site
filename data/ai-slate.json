@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ab2865e9f2d4b012de8bc6fb6de11a7c|ai",
+    "eventId": "ab2865e9f2d4b012de8bc6fb6de11a7c",
+    "league": "NFL",
+    "kickoff": "2026-10-30T00:15:00Z",
+    "home": "Green Bay Packers",
+    "away": "Carolina Panthers",
+    "selection": "Carolina Panthers ML",
+    "odds": 2.7,
+    "prob": 50.5,
+    "live": true
+  },
+  {
+    "id": "921859689f5f8b3b8b1caf4248bdb1ec|ai",
+    "eventId": "921859689f5f8b3b8b1caf4248bdb1ec",
+    "league": "NFL",
+    "kickoff": "2026-11-01T18:00:00Z",
+    "home": "Tampa Bay Buccaneers",
+    "away": "Atlanta Falcons",
+    "selection": "Atlanta Falcons ML",
+    "odds": 2.25,
+    "prob": 52.7,
+    "live": false
+  },
+  {
+    "id": "9255ca8f32aea590d00aa57de79f6bb6|ai",
+    "eventId": "9255ca8f32aea590d00aa57de79f6bb6",
+    "league": "NFL",
+    "kickoff": "2026-11-01T18:00:00Z",
+    "home": "Dallas Cowboys",
+    "away": "Arizona Cardinals",
+    "selection": "Dallas Cowboys ML",
+    "odds": 1.33,
+    "prob": 71.5,
+    "live": false
+  }
+]
