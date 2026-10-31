@@ -2057,6 +2057,17 @@
     "result": "W"
   },
   {
+    "id": "e82f25e981f2ebc731cfaf5716231af5|h2h|home|",
+    "date": "2026-10-31",
+    "league": "SERIE A",
+    "home": "AC Milan",
+    "away": "Inter Milan",
+    "selection": "AC Milan to win",
+    "odds": 3.85,
+    "prob": 27.4,
+    "result": "W"
+  },
+  {
     "id": "005711684f3e51024ac40c1ee69978e9|h2h|away|",
     "date": "2026-10-31",
     "league": "LA LIGA",
@@ -2112,6 +2123,17 @@
     "result": "W"
   },
   {
+    "id": "640c52a86289f35698261b41987dd71e|h2h|away|",
+    "date": "2026-10-31",
+    "league": "EPL",
+    "home": "Aston Villa",
+    "away": "Fulham",
+    "selection": "Fulham to win",
+    "odds": 4.1,
+    "prob": 25.7,
+    "result": "L"
+  },
+  {
     "id": "77383723574e3d39c7aba22eec6c4ce3|h2h|home|",
     "date": "2026-10-31",
     "league": "LA LIGA",
@@ -2121,5 +2143,16 @@
     "odds": 2.6,
     "prob": 39.5,
     "result": "W"
+  },
+  {
+    "id": "5914f2527dc280fc35af01099f445bb9|h2h|away|",
+    "date": "2026-10-31",
+    "league": "NHL",
+    "home": "Nashville Predators",
+    "away": "Tampa Bay Lightning",
+    "selection": "Tampa Bay Lightning ML",
+    "odds": 1.64,
+    "prob": 61,
+    "result": "L"
   }
 ]
