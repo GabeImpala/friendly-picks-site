@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "6c520ed959578ca3aebe351ee3765d53|edge|total|under|4.5",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-01T15:15:00Z",
+    "home": "Real Racing Club de Santander",
+    "away": "Real Madrid",
+    "market": "Total",
+    "selection": "Under 4.5 goals",
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 4.5
+    },
+    "odds": 1.82,
+    "openOdds": 1.73,
+    "fairProb": 57.3,
+    "modelProb": 57.3,
+    "consProb": 56.3,
+    "edge": 2.3,
+    "ev": 0.024,
+    "stakePct": 0.007281289003560535,
+    "books": 8,
+    "devigMethod": "power",
+    "offConsensus": true,
+    "locked": true,
+    "publishedOdds": 1.82,
+    "live": false
+  }
+]
