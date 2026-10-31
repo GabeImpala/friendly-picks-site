@@ -2033,5 +2033,93 @@
     "odds": 1.61,
     "prob": 61.1,
     "result": "W"
+  },
+  {
+    "id": "04aa939b89001eedf55668e66c74836e|total|over|2.5",
+    "date": "2026-10-31",
+    "league": "SERIE A",
+    "home": "Bologna",
+    "away": "Monza",
+    "selection": "Over 2.5 goals",
+    "odds": 1.92,
+    "prob": 51.2,
+    "result": "W"
+  },
+  {
+    "id": "34cd26b96f78bd7aa3dbff3d1daca7a7|h2h|away|",
+    "date": "2026-10-31",
+    "league": "SERIE A",
+    "home": "Udinese",
+    "away": "AS Roma",
+    "selection": "AS Roma to win",
+    "odds": 1.63,
+    "prob": 60.6,
+    "result": "W"
+  },
+  {
+    "id": "005711684f3e51024ac40c1ee69978e9|h2h|away|",
+    "date": "2026-10-31",
+    "league": "LA LIGA",
+    "home": "Levante",
+    "away": "Atlético Madrid",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.65,
+    "prob": 60.6,
+    "result": "W"
+  },
+  {
+    "id": "77383723574e3d39c7aba22eec6c4ce3|total|under|2.5",
+    "date": "2026-10-31",
+    "league": "LA LIGA",
+    "home": "Rayo Vallecano",
+    "away": "Celta Vigo",
+    "selection": "Under 2.5 goals",
+    "odds": 1.81,
+    "prob": 55,
+    "result": "L"
+  },
+  {
+    "id": "8f0b7ef29a47f675429758e83a426d7e|h2h|home|",
+    "date": "2026-10-31",
+    "league": "LA LIGA",
+    "home": "Real Betis",
+    "away": "Málaga",
+    "selection": "Real Betis to win",
+    "odds": 1.4,
+    "prob": 70.4,
+    "result": "W"
+  },
+  {
+    "id": "7df53f9af95d5a4e13b504882078dab8|h2h|home|",
+    "date": "2026-10-31",
+    "league": "EPL",
+    "home": "Manchester City",
+    "away": "Brighton and Hove Albion",
+    "selection": "Manchester City to win",
+    "odds": 1.7,
+    "prob": 58.4,
+    "result": "L"
+  },
+  {
+    "id": "01b17432a283eb27af86ae45602eb6dd|h2h|home|",
+    "date": "2026-10-31",
+    "league": "EPL",
+    "home": "Tottenham Hotspur",
+    "away": "Crystal Palace",
+    "selection": "Tottenham Hotspur to win",
+    "odds": 1.6,
+    "prob": 61.6,
+    "result": "W"
+  },
+  {
+    "id": "77383723574e3d39c7aba22eec6c4ce3|h2h|home|",
+    "date": "2026-10-31",
+    "league": "LA LIGA",
+    "home": "Rayo Vallecano",
+    "away": "Celta Vigo",
+    "selection": "Rayo Vallecano to win",
+    "odds": 2.6,
+    "prob": 39.5,
+    "result": "W"
   }
 ]
