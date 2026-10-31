@@ -1903,6 +1903,17 @@
     "result": "W"
   },
   {
+    "id": "8d32272737b4c421aa6c721af4bbaf11|total|under|2.5",
+    "date": "2026-10-30",
+    "league": "LIGA MX",
+    "home": "Atlético San Luis",
+    "away": "Atlas",
+    "selection": "Under 2.5 goals",
+    "odds": 2.2,
+    "prob": 45.4,
+    "result": "W"
+  },
+  {
     "id": "5c712e15e1cd4b9283b4bf410fb334f4|h2h|away|",
     "date": "2026-10-30",
     "league": "NHL",
@@ -1925,6 +1936,17 @@
     "result": "W"
   },
   {
+    "id": "026d37181dd4ace0df7565d9b208ce7e|h2h|home|",
+    "date": "2026-10-30",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Seattle Kraken",
+    "selection": "Calgary Flames ML",
+    "odds": 2.05,
+    "prob": 48.1,
+    "result": "W"
+  },
+  {
     "id": "45ebc54751ef3e435192eaeb0470acfb|h2h|away|",
     "date": "2026-10-30",
     "league": "NBA",
@@ -1933,6 +1955,17 @@
     "selection": "Charlotte Hornets ML",
     "odds": 2.06,
     "prob": 49.9,
+    "result": "L"
+  },
+  {
+    "id": "96a166bbd49782dbd9a61c2fb9069787|spread|away|1.5",
+    "date": "2026-10-30",
+    "league": "NBA",
+    "home": "Philadelphia 76ers",
+    "away": "New York Knicks",
+    "selection": "New York Knicks +1.5",
+    "odds": 1.94,
+    "prob": 50.9,
     "result": "L"
   },
   {
@@ -1945,5 +1978,38 @@
     "odds": 1.46,
     "prob": 67.4,
     "result": "L"
+  },
+  {
+    "id": "5bbeb077e5f0305957083bfb1f466bb8|total|over|2.5",
+    "date": "2026-10-30",
+    "league": "LIGA MX",
+    "home": "FC Juárez",
+    "away": "Querétaro",
+    "selection": "Over 2.5 goals",
+    "odds": 1.89,
+    "prob": 53.5,
+    "result": "W"
+  },
+  {
+    "id": "c3a424e24d426af94a693e06a33e3037|h2h|home|",
+    "date": "2026-10-30",
+    "league": "NBA",
+    "home": "Miami Heat",
+    "away": "Indiana Pacers",
+    "selection": "Miami Heat ML",
+    "odds": 1.41,
+    "prob": 69.7,
+    "result": "W"
+  },
+  {
+    "id": "9ae108f7a23e86e8102237053dd9e58d|h2h|away|",
+    "date": "2026-10-30",
+    "league": "NBA",
+    "home": "Phoenix Suns",
+    "away": "Denver Nuggets",
+    "selection": "Denver Nuggets ML",
+    "odds": 1.61,
+    "prob": 61.1,
+    "result": "W"
   }
 ]
