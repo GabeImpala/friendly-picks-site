@@ -1362,51 +1362,5 @@
       "side": "home",
       "line": -1.5
     }
-  },
-  {
-    "id": "6e0006f84b338bc549341db71eb48c61",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-31T03:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Pumas",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.82,
-    "openOdds": 1.82,
-    "baseProb": 54,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.82,
-    "live": true
-  },
-  {
-    "id": "6e0006f84b338bc549341db71eb48c61",
-    "league": "LIGA MX",
-    "kickoff": "2026-10-31T03:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Pumas",
-    "market": "Match result",
-    "selection": "Puebla to win",
-    "odds": 3.4,
-    "openOdds": 2.92,
-    "baseProb": 30.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 3.4,
-    "live": true
   }
 ]

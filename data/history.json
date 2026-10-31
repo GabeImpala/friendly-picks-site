@@ -1914,6 +1914,17 @@
     "result": "W"
   },
   {
+    "id": "6e0006f84b338bc549341db71eb48c61|total|over|2.5",
+    "date": "2026-10-30",
+    "league": "LIGA MX",
+    "home": "Puebla",
+    "away": "Pumas",
+    "selection": "Over 2.5 goals",
+    "odds": 1.82,
+    "prob": 54,
+    "result": "W"
+  },
+  {
     "id": "5c712e15e1cd4b9283b4bf410fb334f4|h2h|away|",
     "date": "2026-10-30",
     "league": "NHL",
@@ -1989,6 +2000,17 @@
     "odds": 1.89,
     "prob": 53.5,
     "result": "W"
+  },
+  {
+    "id": "6e0006f84b338bc549341db71eb48c61|h2h|home|",
+    "date": "2026-10-30",
+    "league": "LIGA MX",
+    "home": "Puebla",
+    "away": "Pumas",
+    "selection": "Puebla to win",
+    "odds": 3.4,
+    "prob": 30.9,
+    "result": "L"
   },
   {
     "id": "c3a424e24d426af94a693e06a33e3037|h2h|home|",
