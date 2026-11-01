@@ -383,5 +383,16 @@
     "odds": 2.7,
     "prob": 50.5,
     "result": "L"
+  },
+  {
+    "id": "921859689f5f8b3b8b1caf4248bdb1ec|ai",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Tampa Bay Buccaneers",
+    "away": "Atlanta Falcons",
+    "selection": "Atlanta Falcons ML",
+    "odds": 2.25,
+    "prob": 52.7,
+    "result": "L"
   }
 ]

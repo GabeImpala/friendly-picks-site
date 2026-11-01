@@ -1,21 +1,5 @@
 [
   {
-    "id": "921859689f5f8b3b8b1caf4248bdb1ec|ai",
-    "eventId": "921859689f5f8b3b8b1caf4248bdb1ec",
-    "league": "NFL",
-    "kickoff": "2026-11-01T18:00:00Z",
-    "home": "Tampa Bay Buccaneers",
-    "away": "Atlanta Falcons",
-    "selection": "Atlanta Falcons ML",
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "odds": 2.25,
-    "prob": 52.7,
-    "live": true
-  },
-  {
     "id": "9255ca8f32aea590d00aa57de79f6bb6|ai",
     "eventId": "9255ca8f32aea590d00aa57de79f6bb6",
     "league": "NFL",

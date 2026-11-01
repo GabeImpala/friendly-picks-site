@@ -2244,6 +2244,17 @@
     "result": "L"
   },
   {
+    "id": "921859689f5f8b3b8b1caf4248bdb1ec|h2h|home|",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Tampa Bay Buccaneers",
+    "away": "Atlanta Falcons",
+    "selection": "Tampa Bay Buccaneers ML",
+    "odds": 1.75,
+    "prob": 56.1,
+    "result": "W"
+  },
+  {
     "id": "ddcc9a51a2d7368e055d1abefacdb74e|total|over|1.5",
     "date": "2026-11-01",
     "league": "LA LIGA",
@@ -2263,6 +2274,17 @@
     "selection": "Under 4.5 goals",
     "odds": 1.73,
     "prob": 57.5,
+    "result": "W"
+  },
+  {
+    "id": "5262991e389930615bec34b642428c93|h2h|away|",
+    "date": "2026-11-01",
+    "league": "LA LIGA",
+    "home": "Elche CF",
+    "away": "Valencia",
+    "selection": "Valencia to win",
+    "odds": 3.35,
+    "prob": 31.4,
     "result": "W"
   },
   {
@@ -2297,5 +2319,27 @@
     "odds": 1.89,
     "prob": 53.5,
     "result": "W"
+  },
+  {
+    "id": "875368ed11228a45263f84f54223e264|spread|away|1.5",
+    "date": "2026-11-01",
+    "league": "NHL",
+    "home": "Carolina Hurricanes",
+    "away": "Winnipeg Jets",
+    "selection": "Winnipeg Jets +1.5",
+    "odds": 1.98,
+    "prob": 50.6,
+    "result": "L"
+  },
+  {
+    "id": "940b9e69539033539039f9af694e2925|total|under|2.5",
+    "date": "2026-11-01",
+    "league": "SERIE A",
+    "home": "Lecce",
+    "away": "Genoa",
+    "selection": "Under 2.5 goals",
+    "odds": 1.64,
+    "prob": 60.4,
+    "result": "L"
   }
 ]
