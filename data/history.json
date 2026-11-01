@@ -2255,6 +2255,28 @@
     "result": "W"
   },
   {
+    "id": "6c520ed959578ca3aebe351ee3765d53|total|under|4.5",
+    "date": "2026-11-01",
+    "league": "LA LIGA",
+    "home": "Real Racing Club de Santander",
+    "away": "Real Madrid",
+    "selection": "Under 4.5 goals",
+    "odds": 1.73,
+    "prob": 57.5,
+    "result": "W"
+  },
+  {
+    "id": "6a3819cdbe2ba2fe5a3d8f9b4b459965|total|over|2.5",
+    "date": "2026-11-01",
+    "league": "EPL",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "selection": "Over 2.5 goals",
+    "odds": 1.98,
+    "prob": 51.1,
+    "result": "L"
+  },
+  {
     "id": "3f9f4bc9a19bf36dcb74be2f29610d55|total|over|2.5",
     "date": "2026-11-01",
     "league": "SERIE A",
