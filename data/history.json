@@ -2167,6 +2167,17 @@
     "result": "L"
   },
   {
+    "id": "394955492df212637701f4f21464f05f|spread|home|-1.5",
+    "date": "2026-10-31",
+    "league": "NHL",
+    "home": "Colorado Avalanche",
+    "away": "Calgary Flames",
+    "selection": "Colorado Avalanche -1.5",
+    "odds": 1.71,
+    "prob": 58.1,
+    "result": "W"
+  },
+  {
     "id": "83dce11e1a742d6d45830321ba1bf4f5|total|under|2.5",
     "date": "2026-10-31",
     "league": "LIGA MX",
@@ -2186,6 +2197,17 @@
     "selection": "Over 240.5",
     "odds": 1.98,
     "prob": 49.8,
+    "result": "L"
+  },
+  {
+    "id": "911653993953bb4fce4411817462b9a3|h2h|home|",
+    "date": "2026-10-31",
+    "league": "LIGA MX",
+    "home": "Monterrey",
+    "away": "Tijuana",
+    "selection": "Monterrey to win",
+    "odds": 1.64,
+    "prob": 59.9,
     "result": "L"
   },
   {

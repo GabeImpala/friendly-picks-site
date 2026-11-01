@@ -389,34 +389,6 @@
     "publishedOdds": 2.02
   },
   {
-    "id": "06a4fecd852e00ac7f0698d04ff777ca",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-01T03:10:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Toluca",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.48,
-    "openOdds": 1.48,
-    "baseProb": 66.3,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 64.4,
-      "windMph": 4.8,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.48
-  },
-  {
     "id": "9da2febfbbd6410c08d6329686f2f4b0",
     "league": "LIGA MX",
     "kickoff": "2026-11-01T23:00:00Z",
@@ -849,29 +821,6 @@
     "publishedOdds": 1.55
   },
   {
-    "id": "394955492df212637701f4f21464f05f",
-    "league": "NHL",
-    "kickoff": "2026-11-01T02:10:00Z",
-    "venue": "",
-    "home": "Colorado Avalanche",
-    "away": "Calgary Flames",
-    "market": "Spread",
-    "selection": "Colorado Avalanche -1.5",
-    "odds": 1.62,
-    "openOdds": 1.71,
-    "baseProb": 60.1,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.71
-  },
-  {
     "id": "875368ed11228a45263f84f54223e264",
     "league": "NHL",
     "kickoff": "2026-11-01T18:00:00Z",
@@ -983,25 +932,25 @@
     "publishedOdds": 1.41
   },
   {
-    "id": "911653993953bb4fce4411817462b9a3",
+    "id": "06a4fecd852e00ac7f0698d04ff777ca",
     "league": "LIGA MX",
-    "kickoff": "2026-11-01T01:05:00Z",
+    "kickoff": "2026-11-01T03:10:00Z",
     "venue": "",
-    "home": "Monterrey",
-    "away": "Tijuana",
-    "market": "Match result",
-    "selection": "Monterrey to win",
-    "odds": 1.64,
-    "openOdds": 1.57,
-    "baseProb": 59.9,
+    "home": "América",
+    "away": "Toluca",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.48,
+    "openOdds": 1.48,
+    "baseProb": 66.3,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "h2h",
-      "side": "home"
+      "type": "btts",
+      "side": "yes"
     },
     "locked": true,
-    "publishedOdds": 1.64,
+    "publishedOdds": 1.48,
     "live": true
   }
 ]
