@@ -7,6 +7,10 @@
     "home": "Tampa Bay Buccaneers",
     "away": "Atlanta Falcons",
     "selection": "Atlanta Falcons ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
     "odds": 2.25,
     "prob": 52.7,
     "live": false
@@ -19,6 +23,10 @@
     "home": "Dallas Cowboys",
     "away": "Arizona Cardinals",
     "selection": "Dallas Cowboys ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
     "odds": 1.33,
     "prob": 71.5,
     "live": false
@@ -31,6 +39,10 @@
     "home": "Seattle Seahawks",
     "away": "Chicago Bears",
     "selection": "Seattle Seahawks ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
     "odds": 1.6,
     "prob": 61.4,
     "live": false

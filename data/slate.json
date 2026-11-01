@@ -527,29 +527,6 @@
     }
   },
   {
-    "id": "6a3819cdbe2ba2fe5a3d8f9b4b459965",
-    "league": "EPL",
-    "kickoff": "2026-11-01T16:30:00Z",
-    "venue": "",
-    "home": "Liverpool",
-    "away": "Arsenal",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.83,
-    "openOdds": 1.98,
-    "baseProb": 54.1,
-    "baselineNote": "Consensus of 16 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.98
-  },
-  {
     "id": "0f552d9c6990c69474f50ff2fb54e9a3",
     "league": "EPL",
     "kickoff": "2026-11-02T20:00:00Z",
@@ -943,6 +920,29 @@
     },
     "locked": true,
     "publishedOdds": 1.73,
+    "live": true
+  },
+  {
+    "id": "6a3819cdbe2ba2fe5a3d8f9b4b459965",
+    "league": "EPL",
+    "kickoff": "2026-11-01T16:30:00Z",
+    "venue": "",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.98,
+    "openOdds": 1.98,
+    "baseProb": 51.1,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.98,
     "live": true
   }
 ]
