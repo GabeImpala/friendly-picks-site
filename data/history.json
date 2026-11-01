@@ -2255,6 +2255,28 @@
     "result": "W"
   },
   {
+    "id": "9c5d8f57e0ba0fbd9ef436c1f0898f99|total|under|46.5",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Cincinnati Bengals",
+    "away": "Tennessee Titans",
+    "selection": "Under 46.5",
+    "odds": 1.98,
+    "prob": 50.8,
+    "result": "L"
+  },
+  {
+    "id": "159dbf0253dd2038eda2212f84387f0c|spread|away|10",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Jacksonville Jaguars",
+    "away": "Indianapolis Colts",
+    "selection": "Indianapolis Colts +10",
+    "odds": 1.97,
+    "prob": 49.9,
+    "result": "L"
+  },
+  {
     "id": "ddcc9a51a2d7368e055d1abefacdb74e|total|over|1.5",
     "date": "2026-11-01",
     "league": "LA LIGA",
@@ -2285,6 +2307,17 @@
     "selection": "Valencia to win",
     "odds": 3.35,
     "prob": 31.4,
+    "result": "W"
+  },
+  {
+    "id": "9255ca8f32aea590d00aa57de79f6bb6|h2h|away|",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Dallas Cowboys",
+    "away": "Arizona Cardinals",
+    "selection": "Arizona Cardinals ML",
+    "odds": 3.95,
+    "prob": 26.7,
     "result": "W"
   },
   {
@@ -2321,6 +2354,28 @@
     "result": "W"
   },
   {
+    "id": "aeadf1388a1075328536501576b3d550|total|under|2.5",
+    "date": "2026-11-01",
+    "league": "SERIE A",
+    "home": "Juventus",
+    "away": "Napoli",
+    "selection": "Under 2.5 goals",
+    "odds": 1.9,
+    "prob": 52.3,
+    "result": "W"
+  },
+  {
+    "id": "aeadf1388a1075328536501576b3d550|h2h|home|",
+    "date": "2026-11-01",
+    "league": "SERIE A",
+    "home": "Juventus",
+    "away": "Napoli",
+    "selection": "Juventus to win",
+    "odds": 2.44,
+    "prob": 42,
+    "result": "W"
+  },
+  {
     "id": "875368ed11228a45263f84f54223e264|spread|away|1.5",
     "date": "2026-11-01",
     "league": "NHL",
@@ -2332,6 +2387,17 @@
     "result": "L"
   },
   {
+    "id": "3757bcd765c7da1538cdf2785e784038|h2h|home|",
+    "date": "2026-11-01",
+    "league": "LA LIGA",
+    "home": "Athletic Bilbao",
+    "away": "Real Sociedad",
+    "selection": "Athletic Bilbao to win",
+    "odds": 2.07,
+    "prob": 48.1,
+    "result": "W"
+  },
+  {
     "id": "940b9e69539033539039f9af694e2925|total|under|2.5",
     "date": "2026-11-01",
     "league": "SERIE A",
@@ -2341,5 +2407,16 @@
     "odds": 1.64,
     "prob": 60.4,
     "result": "L"
+  },
+  {
+    "id": "e8559eaac12af915cfe6597644620c13|spread|away|-7.5",
+    "date": "2026-11-01",
+    "league": "NBA",
+    "home": "Orlando Magic",
+    "away": "Boston Celtics",
+    "selection": "Boston Celtics -7.5",
+    "odds": 1.95,
+    "prob": 50.6,
+    "result": "W"
   }
 ]

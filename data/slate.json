@@ -1,93 +1,5 @@
 [
   {
-    "id": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
-    "league": "NFL",
-    "kickoff": "2026-11-01T21:05:00Z",
-    "venue": "",
-    "home": "Los Angeles Rams",
-    "away": "Los Angeles Chargers",
-    "market": "Spread",
-    "selection": "Los Angeles Chargers +6.5",
-    "odds": 2.01,
-    "openOdds": 1.98,
-    "baseProb": 49.4,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 6.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "f2a036d5edf483a277880014861e78ad",
-    "league": "NFL",
-    "kickoff": "2026-11-01T21:25:00Z",
-    "venue": "",
-    "home": "Denver Broncos",
-    "away": "Kansas City Chiefs",
-    "market": "Moneyline",
-    "selection": "Kansas City Chiefs ML",
-    "odds": 1.98,
-    "openOdds": 1.85,
-    "baseProb": 50.7,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 67.9,
-      "windMph": 7,
-      "precip": "None",
-      "roof": "open"
-    },
-    "aiHomeProb": 70.6
-  },
-  {
-    "id": "05405af79752f5e742cdf50b61f6745e",
-    "league": "NFL",
-    "kickoff": "2026-11-01T21:25:00Z",
-    "venue": "",
-    "home": "Miami Dolphins",
-    "away": "New England Patriots",
-    "market": "Total",
-    "selection": "Under 41",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "weather",
-        "label": "Rain at kickoff",
-        "detail": "Wet conditions tend to lower scoring slightly.",
-        "points": 1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 41
-    },
-    "weather": {
-      "tempF": 78,
-      "windMph": 5,
-      "precip": "Rain",
-      "roof": "open"
-    }
-  },
-  {
     "id": "b9c60db63b1a19ad319f24b33c0defe8",
     "league": "NFL",
     "kickoff": "2026-11-02T01:20:00Z",
@@ -144,27 +56,6 @@
     "publishedOdds": 2.02
   },
   {
-    "id": "fc3e945a5be88d3f933456bc512c956d",
-    "league": "NBA",
-    "kickoff": "2026-11-01T22:10:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Brooklyn Nets",
-    "market": "Spread",
-    "selection": "Indiana Pacers -3.5",
-    "odds": 1.94,
-    "openOdds": 1.91,
-    "baseProb": 50.6,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -3.5
-    }
-  },
-  {
     "id": "094b083ace229ca31ff360a80e35a1a8",
     "league": "NBA",
     "kickoff": "2026-11-02T01:40:00Z",
@@ -207,35 +98,6 @@
       "side": "home",
       "line": -3
     }
-  },
-  {
-    "id": "9da2febfbbd6410c08d6329686f2f4b0",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-01T23:00:00Z",
-    "venue": "",
-    "home": "Santos Laguna",
-    "away": "Necaxa",
-    "market": "Total",
-    "selection": "Under 3.5 goals",
-    "odds": 1.7,
-    "openOdds": 1.74,
-    "baseProb": 57.1,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 3.5
-    },
-    "weather": {
-      "tempF": 87.4,
-      "windMph": 5.4,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.77
   },
   {
     "id": "7acb9394a170f98e39b71cf33cf8d28d",
@@ -400,50 +262,6 @@
     "publishedOdds": 1.55
   },
   {
-    "id": "4b59901ec085a0f20022fc14ffa1ba6c",
-    "league": "NHL",
-    "kickoff": "2026-11-01T21:10:00Z",
-    "venue": "",
-    "home": "Philadelphia Flyers",
-    "away": "Utah Mammoth",
-    "market": "Spread",
-    "selection": "Philadelphia Flyers +1.5",
-    "odds": 1.62,
-    "openOdds": 1.59,
-    "baseProb": 60.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.59
-  },
-  {
-    "id": "d8dd95fa4fc001a1ea9f6629a8c8ffee",
-    "league": "NHL",
-    "kickoff": "2026-11-01T23:10:00Z",
-    "venue": "",
-    "home": "New York Rangers",
-    "away": "Edmonton Oilers",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.01,
-    "openOdds": 1.96,
-    "baseProb": 48.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
-    }
-  },
-  {
     "id": "a5203c5f9248aa3653feba547eabd4b8",
     "league": "NHL",
     "kickoff": "2026-11-02T01:10:00Z",
@@ -549,164 +367,95 @@
     }
   },
   {
-    "id": "9c5d8f57e0ba0fbd9ef436c1f0898f99",
-    "league": "NFL",
-    "kickoff": "2026-11-01T18:00:00Z",
+    "id": "9da2febfbbd6410c08d6329686f2f4b0",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-01T23:00:00Z",
     "venue": "",
-    "home": "Cincinnati Bengals",
-    "away": "Tennessee Titans",
+    "home": "Santos Laguna",
+    "away": "Necaxa",
     "market": "Total",
-    "selection": "Under 46.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 50.8,
+    "selection": "Under 3.5 goals",
+    "odds": 1.77,
+    "openOdds": 1.74,
+    "baseProb": 55.4,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "total",
       "side": "under",
-      "line": 46.5
+      "line": 3.5
     },
     "locked": true,
-    "publishedOdds": 1.98,
+    "publishedOdds": 1.77,
     "live": true
   },
   {
-    "id": "159dbf0253dd2038eda2212f84387f0c",
-    "league": "NFL",
-    "kickoff": "2026-11-01T18:00:00Z",
+    "id": "4b59901ec085a0f20022fc14ffa1ba6c",
+    "league": "NHL",
+    "kickoff": "2026-11-01T21:00:00Z",
     "venue": "",
-    "home": "Jacksonville Jaguars",
-    "away": "Indianapolis Colts",
+    "home": "Philadelphia Flyers",
+    "away": "Utah Mammoth",
     "market": "Spread",
-    "selection": "Indianapolis Colts +10",
-    "odds": 1.97,
-    "openOdds": 1.97,
-    "baseProb": 49.9,
+    "selection": "Philadelphia Flyers +1.5",
+    "odds": 1.59,
+    "openOdds": 1.59,
+    "baseProb": 61.8,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
-      "side": "away",
-      "line": 10
+      "side": "home",
+      "line": 1.5
     },
     "locked": true,
-    "publishedOdds": 1.97,
+    "publishedOdds": 1.59,
     "live": true
   },
   {
-    "id": "9255ca8f32aea590d00aa57de79f6bb6",
-    "league": "NFL",
-    "kickoff": "2026-11-01T18:00:00Z",
-    "venue": "",
-    "home": "Dallas Cowboys",
-    "away": "Arizona Cardinals",
-    "market": "Moneyline",
-    "selection": "Arizona Cardinals ML",
-    "odds": 3.95,
-    "openOdds": 3.7,
-    "baseProb": 26.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 3.95,
-    "live": true,
-    "aiHomeProb": 71.5
-  },
-  {
-    "id": "aeadf1388a1075328536501576b3d550",
-    "league": "SERIE A",
-    "kickoff": "2026-11-01T19:45:00Z",
-    "venue": "",
-    "home": "Juventus",
-    "away": "Napoli",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.9,
-    "openOdds": 1.9,
-    "baseProb": 52.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.9,
-    "live": true
-  },
-  {
-    "id": "aeadf1388a1075328536501576b3d550",
-    "league": "SERIE A",
-    "kickoff": "2026-11-01T19:45:00Z",
-    "venue": "",
-    "home": "Juventus",
-    "away": "Napoli",
-    "market": "Match result",
-    "selection": "Juventus to win",
-    "odds": 2.44,
-    "openOdds": 2.38,
-    "baseProb": 42,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 2.44,
-    "live": true
-  },
-  {
-    "id": "3757bcd765c7da1538cdf2785e784038",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-01T20:00:00Z",
-    "venue": "",
-    "home": "Athletic Bilbao",
-    "away": "Real Sociedad",
-    "market": "Match result",
-    "selection": "Athletic Bilbao to win",
-    "odds": 2.07,
-    "openOdds": 2.26,
-    "baseProb": 48.1,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 2.07,
-    "live": true
-  },
-  {
-    "id": "e8559eaac12af915cfe6597644620c13",
+    "id": "fc3e945a5be88d3f933456bc512c956d",
     "league": "NBA",
-    "kickoff": "2026-11-01T20:40:00Z",
+    "kickoff": "2026-11-01T22:10:00Z",
     "venue": "",
-    "home": "Orlando Magic",
-    "away": "Boston Celtics",
+    "home": "Indiana Pacers",
+    "away": "Brooklyn Nets",
     "market": "Spread",
-    "selection": "Boston Celtics -7.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
+    "selection": "Indiana Pacers -3.5",
+    "odds": 1.94,
+    "openOdds": 1.91,
     "baseProb": 50.6,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
-      "side": "away",
-      "line": -7.5
+      "side": "home",
+      "line": -3.5
     },
     "locked": true,
-    "publishedOdds": 1.95,
+    "publishedOdds": 1.94,
+    "live": true
+  },
+  {
+    "id": "d8dd95fa4fc001a1ea9f6629a8c8ffee",
+    "league": "NHL",
+    "kickoff": "2026-11-01T23:10:00Z",
+    "venue": "",
+    "home": "New York Rangers",
+    "away": "Edmonton Oilers",
+    "market": "Total",
+    "selection": "Under 6.5",
+    "odds": 2.01,
+    "openOdds": 1.96,
+    "baseProb": 48.8,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 6.5
+    },
+    "locked": true,
+    "publishedOdds": 2.01,
     "live": true
   }
 ]

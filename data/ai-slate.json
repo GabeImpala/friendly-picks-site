@@ -1,21 +1,5 @@
 [
   {
-    "id": "9255ca8f32aea590d00aa57de79f6bb6|ai",
-    "eventId": "9255ca8f32aea590d00aa57de79f6bb6",
-    "league": "NFL",
-    "kickoff": "2026-11-01T18:00:00Z",
-    "home": "Dallas Cowboys",
-    "away": "Arizona Cardinals",
-    "selection": "Dallas Cowboys ML",
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "odds": 1.33,
-    "prob": 71.5,
-    "live": true
-  },
-  {
     "id": "7d664fbcd39350e559d83c0068ba7169|ai",
     "eventId": "7d664fbcd39350e559d83c0068ba7169",
     "league": "NFL",
