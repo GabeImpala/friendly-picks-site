@@ -930,27 +930,5 @@
     },
     "locked": true,
     "publishedOdds": 1.41
-  },
-  {
-    "id": "06a4fecd852e00ac7f0698d04ff777ca",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-01T03:10:00Z",
-    "venue": "",
-    "home": "América",
-    "away": "Toluca",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.48,
-    "openOdds": 1.48,
-    "baseProb": 66.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "locked": true,
-    "publishedOdds": 1.48,
-    "live": true
   }
 ]
