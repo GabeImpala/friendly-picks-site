@@ -1,32 +1,5 @@
 [
   {
-    "id": "b9c60db63b1a19ad319f24b33c0defe8",
-    "league": "NFL",
-    "kickoff": "2026-11-02T01:20:00Z",
-    "venue": "",
-    "home": "Washington Commanders",
-    "away": "Philadelphia Eagles",
-    "market": "Spread",
-    "selection": "Washington Commanders -6",
-    "odds": 1.96,
-    "openOdds": 1.93,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -6
-    },
-    "weather": {
-      "tempF": 50.7,
-      "windMph": 3.5,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "7d664fbcd39350e559d83c0068ba7169",
     "league": "NFL",
     "kickoff": "2026-11-03T01:20:00Z",
@@ -54,78 +27,6 @@
     },
     "locked": true,
     "publishedOdds": 2.02
-  },
-  {
-    "id": "094b083ace229ca31ff360a80e35a1a8",
-    "league": "NBA",
-    "kickoff": "2026-11-02T01:40:00Z",
-    "venue": "",
-    "home": "Golden State Warriors",
-    "away": "Los Angeles Clippers",
-    "market": "Spread",
-    "selection": "Golden State Warriors -2.5",
-    "odds": 1.98,
-    "openOdds": 1.99,
-    "baseProb": 49,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.99
-  },
-  {
-    "id": "31fc89cbf3846e545e8e41a543a71d24",
-    "league": "NBA",
-    "kickoff": "2026-11-02T02:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Toronto Raptors",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -3",
-    "odds": 1.97,
-    "openOdds": 1.96,
-    "baseProb": 49.7,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -3
-    }
-  },
-  {
-    "id": "7acb9394a170f98e39b71cf33cf8d28d",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-02T01:10:00Z",
-    "venue": "",
-    "home": "Cruz Azul",
-    "away": "León",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 58.2,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 69.1,
-      "windMph": 5.3,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.7
   },
   {
     "id": "0f552d9c6990c69474f50ff2fb54e9a3",
@@ -262,29 +163,6 @@
     "publishedOdds": 1.55
   },
   {
-    "id": "a5203c5f9248aa3653feba547eabd4b8",
-    "league": "NHL",
-    "kickoff": "2026-11-02T01:10:00Z",
-    "venue": "",
-    "home": "Anaheim Ducks",
-    "away": "Ottawa Senators",
-    "market": "Spread",
-    "selection": "Ottawa Senators +1.5",
-    "odds": 1.41,
-    "openOdds": 3.1,
-    "baseProb": 32.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.41
-  },
-  {
     "id": "01847028adef1eda81745cd36f240fc5",
     "league": "NHL",
     "kickoff": "2026-11-03T00:10:00Z",
@@ -367,72 +245,94 @@
     }
   },
   {
-    "id": "9da2febfbbd6410c08d6329686f2f4b0",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-01T23:00:00Z",
+    "id": "a5203c5f9248aa3653feba547eabd4b8",
+    "league": "NHL",
+    "kickoff": "2026-11-02T01:00:00Z",
     "venue": "",
-    "home": "Santos Laguna",
-    "away": "Necaxa",
-    "market": "Total",
-    "selection": "Under 3.5 goals",
-    "odds": 1.77,
-    "openOdds": 1.74,
-    "baseProb": 55.4,
+    "home": "Anaheim Ducks",
+    "away": "Ottawa Senators",
+    "market": "Spread",
+    "selection": "Ottawa Senators +1.5",
+    "odds": 1.41,
+    "openOdds": 1.41,
+    "baseProb": 69.6,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 3.5
+      "type": "spread",
+      "side": "away",
+      "line": 1.5
     },
     "locked": true,
-    "publishedOdds": 1.77,
+    "publishedOdds": 1.41,
     "live": true
   },
   {
-    "id": "fc3e945a5be88d3f933456bc512c956d",
+    "id": "094b083ace229ca31ff360a80e35a1a8",
     "league": "NBA",
-    "kickoff": "2026-11-01T22:10:00Z",
+    "kickoff": "2026-11-02T01:40:00Z",
     "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Brooklyn Nets",
+    "home": "Golden State Warriors",
+    "away": "Los Angeles Clippers",
     "market": "Spread",
-    "selection": "Indiana Pacers -3.5",
-    "odds": 1.94,
-    "openOdds": 1.91,
-    "baseProb": 50.6,
+    "selection": "Golden State Warriors -2.5",
+    "odds": 1.99,
+    "openOdds": 1.99,
+    "baseProb": 49.3,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
       "side": "home",
-      "line": -3.5
+      "line": -2.5
     },
     "locked": true,
-    "publishedOdds": 1.94,
+    "publishedOdds": 1.99,
     "live": true
   },
   {
-    "id": "d8dd95fa4fc001a1ea9f6629a8c8ffee",
-    "league": "NHL",
-    "kickoff": "2026-11-01T23:10:00Z",
+    "id": "7acb9394a170f98e39b71cf33cf8d28d",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-02T01:10:00Z",
     "venue": "",
-    "home": "New York Rangers",
-    "away": "Edmonton Oilers",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.01,
-    "openOdds": 1.96,
-    "baseProb": 48.8,
+    "home": "Cruz Azul",
+    "away": "León",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.7,
+    "openOdds": 1.7,
+    "baseProb": 58.2,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
+      "type": "btts",
+      "side": "yes"
     },
     "locked": true,
-    "publishedOdds": 2.01,
+    "publishedOdds": 1.7,
+    "live": true
+  },
+  {
+    "id": "b9c60db63b1a19ad319f24b33c0defe8",
+    "league": "NFL",
+    "kickoff": "2026-11-02T01:20:00Z",
+    "venue": "",
+    "home": "Washington Commanders",
+    "away": "Philadelphia Eagles",
+    "market": "Spread",
+    "selection": "Washington Commanders -6",
+    "odds": 1.96,
+    "openOdds": 1.93,
+    "baseProb": 50.1,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": -6
+    },
+    "locked": true,
+    "publishedOdds": 1.96,
     "live": true
   }
 ]

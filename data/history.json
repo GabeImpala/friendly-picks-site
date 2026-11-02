@@ -2332,6 +2332,17 @@
     "result": "L"
   },
   {
+    "id": "9da2febfbbd6410c08d6329686f2f4b0|total|under|3.5",
+    "date": "2026-11-01",
+    "league": "LIGA MX",
+    "home": "Santos Laguna",
+    "away": "Necaxa",
+    "selection": "Under 3.5 goals",
+    "odds": 1.77,
+    "prob": 55.4,
+    "result": "W"
+  },
+  {
     "id": "3f9f4bc9a19bf36dcb74be2f29610d55|total|over|2.5",
     "date": "2026-11-01",
     "league": "SERIE A",
@@ -2428,6 +2439,28 @@
     "selection": "Boston Celtics -7.5",
     "odds": 1.95,
     "prob": 50.6,
+    "result": "W"
+  },
+  {
+    "id": "fc3e945a5be88d3f933456bc512c956d|spread|home|-3.5",
+    "date": "2026-11-01",
+    "league": "NBA",
+    "home": "Indiana Pacers",
+    "away": "Brooklyn Nets",
+    "selection": "Indiana Pacers -3.5",
+    "odds": 1.94,
+    "prob": 50.6,
+    "result": "L"
+  },
+  {
+    "id": "d8dd95fa4fc001a1ea9f6629a8c8ffee|total|under|6.5",
+    "date": "2026-11-01",
+    "league": "NHL",
+    "home": "New York Rangers",
+    "away": "Edmonton Oilers",
+    "selection": "Under 6.5",
+    "odds": 2.01,
+    "prob": 48.8,
     "result": "W"
   }
 ]
