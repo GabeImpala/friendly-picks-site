@@ -390,29 +390,6 @@
     "live": true
   },
   {
-    "id": "4b59901ec085a0f20022fc14ffa1ba6c",
-    "league": "NHL",
-    "kickoff": "2026-11-01T21:00:00Z",
-    "venue": "",
-    "home": "Philadelphia Flyers",
-    "away": "Utah Mammoth",
-    "market": "Spread",
-    "selection": "Philadelphia Flyers +1.5",
-    "odds": 1.59,
-    "openOdds": 1.59,
-    "baseProb": 61.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.59,
-    "live": true
-  },
-  {
     "id": "fc3e945a5be88d3f933456bc512c956d",
     "league": "NBA",
     "kickoff": "2026-11-01T22:10:00Z",

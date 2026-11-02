@@ -12,5 +12,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "4b59901ec085a0f20022fc14ffa1ba6c|golden|spread|home|1.5",
+    "date": "2026-11-01",
+    "league": "NHL",
+    "home": "Philadelphia Flyers",
+    "away": "Utah Mammoth",
+    "selection": "Philadelphia Flyers +1.5",
+    "odds": 1.62,
+    "prob": 61.7,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

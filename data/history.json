@@ -2387,6 +2387,17 @@
     "result": "L"
   },
   {
+    "id": "4b59901ec085a0f20022fc14ffa1ba6c|spread|home|1.5",
+    "date": "2026-11-01",
+    "league": "NHL",
+    "home": "Philadelphia Flyers",
+    "away": "Utah Mammoth",
+    "selection": "Philadelphia Flyers +1.5",
+    "odds": 1.59,
+    "prob": 61.8,
+    "result": "W"
+  },
+  {
     "id": "3757bcd765c7da1538cdf2785e784038|h2h|home|",
     "date": "2026-11-01",
     "league": "LA LIGA",
