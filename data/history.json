@@ -2409,6 +2409,39 @@
     "result": "W"
   },
   {
+    "id": "a5203c5f9248aa3653feba547eabd4b8|spread|away|1.5",
+    "date": "2026-11-01",
+    "league": "NHL",
+    "home": "Anaheim Ducks",
+    "away": "Ottawa Senators",
+    "selection": "Ottawa Senators +1.5",
+    "odds": 1.41,
+    "prob": 69.6,
+    "result": "L"
+  },
+  {
+    "id": "094b083ace229ca31ff360a80e35a1a8|spread|home|-2.5",
+    "date": "2026-11-01",
+    "league": "NBA",
+    "home": "Golden State Warriors",
+    "away": "Los Angeles Clippers",
+    "selection": "Golden State Warriors -2.5",
+    "odds": 1.99,
+    "prob": 49.3,
+    "result": "W"
+  },
+  {
+    "id": "7acb9394a170f98e39b71cf33cf8d28d|btts|yes|",
+    "date": "2026-11-01",
+    "league": "LIGA MX",
+    "home": "Cruz Azul",
+    "away": "León",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.7,
+    "prob": 58.2,
+    "result": "W"
+  },
+  {
     "id": "3757bcd765c7da1538cdf2785e784038|h2h|home|",
     "date": "2026-11-01",
     "league": "LA LIGA",
@@ -2461,6 +2494,17 @@
     "selection": "Under 6.5",
     "odds": 2.01,
     "prob": 48.8,
+    "result": "W"
+  },
+  {
+    "id": "b9c60db63b1a19ad319f24b33c0defe8|spread|home|-6",
+    "date": "2026-11-01",
+    "league": "NFL",
+    "home": "Washington Commanders",
+    "away": "Philadelphia Eagles",
+    "selection": "Washington Commanders -6",
+    "odds": 1.96,
+    "prob": 50.1,
     "result": "W"
   }
 ]
