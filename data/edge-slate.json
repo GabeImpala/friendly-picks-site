@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": "6277e639c064e641265fcb98a0e200b9|edge|total|over|3.5",
+    "eventId": "6277e639c064e641265fcb98a0e200b9",
+    "league": "CHAMPIONS LEAGUE",
+    "kickoff": "2026-11-04T20:00:00Z",
+    "home": "Viking FK",
+    "away": "Sabah FK",
+    "market": "Total",
+    "selection": "Over 3.5 goals",
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 3.5
+    },
+    "odds": 2.21,
+    "openOdds": 2.21,
+    "fairProb": 48.8,
+    "modelProb": 48.8,
+    "consProb": 47.8,
+    "edge": 3.6,
+    "ev": 0.057,
+    "stakePct": 0.011848005752897173,
+    "books": 13,
+    "devigMethod": "power",
+    "offConsensus": true,
+    "locked": true,
+    "publishedOdds": 2.21,
+    "live": false
+  },
+  {
+    "id": "a5910ae3b314876faea7f5c03b8aeaad|edge|h2h|away|",
+    "eventId": "a5910ae3b314876faea7f5c03b8aeaad",
+    "league": "CHAMPIONS LEAGUE",
+    "kickoff": "2026-11-04T20:00:00Z",
+    "home": "Slavia Praha",
+    "away": "Arsenal",
+    "market": "Match result",
+    "selection": "Arsenal to win",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.32,
+    "openOdds": 1.32,
+    "fairProb": 78.4,
+    "modelProb": 78.4,
+    "consProb": 77.4,
+    "edge": 2.7,
+    "ev": 0.022,
+    "stakePct": 0.015,
+    "books": 22,
+    "devigMethod": "power",
+    "offConsensus": true,
+    "locked": true,
+    "publishedOdds": 1.32,
+    "live": false
+  }
+]

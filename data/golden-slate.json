@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "a341241606cb5b1b59e425d00be64883|golden|h2h|away|",
+    "day": "2026-11-03",
+    "league": "CHAMPIONS LEAGUE",
+    "kickoff": "2026-11-03T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Paris Saint Germain",
+    "market": "Match result",
+    "selection": "Paris Saint Germain to win",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.78,
+    "prob": 56.1,
+    "ev": -0.001,
+    "edge": -0.1,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
