@@ -313,28 +313,5 @@
       "type": "h2h",
       "side": "home"
     }
-  },
-  {
-    "id": "8fe6b339f282707173f0bcff36f112e8",
-    "league": "NHL",
-    "kickoff": "2026-11-04T02:10:00Z",
-    "venue": "",
-    "home": "Vancouver Canucks",
-    "away": "Anaheim Ducks",
-    "market": "Spread",
-    "selection": "Vancouver Canucks +1.5",
-    "odds": 1.57,
-    "openOdds": 1.57,
-    "baseProb": 62.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.57,
-    "live": true
   }
 ]

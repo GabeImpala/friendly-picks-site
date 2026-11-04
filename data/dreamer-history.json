@@ -2678,5 +2678,164 @@
     "publishedAt": "2026-11-02T23:12:13.052Z",
     "result": "L",
     "settledAt": "2026-11-03T06:00:24.373Z"
+  },
+  {
+    "day": "2026-11-03",
+    "legs": [
+      {
+        "eventId": "adf608a0e9be02eb1d8b0a6f464a12b1",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-03T20:00:00Z",
+        "home": "LASK",
+        "away": "ŠK Slovan Bratislava",
+        "market": "Match result",
+        "selection": "LASK to win",
+        "odds": 1.39,
+        "prob": 70.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 4,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "b21dae70cc11cc09837d7f99f1933197",
+        "league": "NHL",
+        "kickoff": "2026-11-04T00:10:00Z",
+        "home": "New York Rangers",
+        "away": "St Louis Blues",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.4,
+        "prob": 68.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "ec0cd2ebb977023698a5f16ca4de0e6c",
+        "league": "NHL",
+        "kickoff": "2026-11-04T00:10:00Z",
+        "home": "Toronto Maple Leafs",
+        "away": "Utah Mammoth",
+        "market": "Spread",
+        "selection": "Toronto Maple Leafs +1.5",
+        "odds": 1.49,
+        "prob": 65.3,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "8fe6b339f282707173f0bcff36f112e8",
+        "league": "NHL",
+        "kickoff": "2026-11-04T02:10:00Z",
+        "home": "Vancouver Canucks",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Vancouver Canucks +1.5",
+        "odds": 1.55,
+        "prob": 62.3,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "bc0b6614c9714816038d5a0ff8963144",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-03T20:00:00Z",
+        "home": "Manchester United",
+        "away": "AS Roma",
+        "market": "Total",
+        "selection": "Under 3.5 goals",
+        "odds": 1.71,
+        "prob": 57.8,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 3.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "1a5a84045050d0d7baf1301909d3b465",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-03T20:00:00Z",
+        "home": "Bodø/Glimt",
+        "away": "Lille",
+        "market": "Match result",
+        "selection": "Bodø/Glimt to win",
+        "odds": 1.73,
+        "prob": 57,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 0,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "a341241606cb5b1b59e425d00be64883",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-03T20:00:00Z",
+        "home": "Villarreal",
+        "away": "Paris Saint Germain",
+        "market": "Match result",
+        "selection": "Paris Saint Germain to win",
+        "odds": 1.78,
+        "prob": 56.1,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 0,
+        "awayScore": 6,
+        "result": "W"
+      },
+      {
+        "eventId": "55e0f74a61f7d72defa7ea0c83532ea5",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-03T17:45:00Z",
+        "home": "Shakhtar Donetsk",
+        "away": "Sporting Lisbon",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.75,
+        "prob": 56.1,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 0,
+        "awayScore": 1,
+        "result": "L"
+      }
+    ],
+    "odds": 41.41532435799149,
+    "hitChance": 2.05,
+    "publishedAt": "2026-11-03T15:15:20.262Z",
+    "result": "L",
+    "settledAt": "2026-11-04T06:00:25.272Z"
   }
 ]

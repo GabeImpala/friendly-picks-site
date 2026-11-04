@@ -2662,6 +2662,17 @@
     "result": "W"
   },
   {
+    "id": "8fe6b339f282707173f0bcff36f112e8|spread|home|1.5",
+    "date": "2026-11-03",
+    "league": "NHL",
+    "home": "Vancouver Canucks",
+    "away": "Anaheim Ducks",
+    "selection": "Vancouver Canucks +1.5",
+    "odds": 1.57,
+    "prob": 62.7,
+    "result": "W"
+  },
+  {
     "id": "1a5a84045050d0d7baf1301909d3b465|h2h|away|",
     "date": "2026-11-03",
     "league": "CHAMPIONS LEAGUE",
