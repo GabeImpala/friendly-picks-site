@@ -619,50 +619,5 @@
       "type": "h2h",
       "side": "away"
     }
-  },
-  {
-    "id": "df7d2d81b9e2f3f11c6aeddaee6b7085",
-    "league": "CHAMPIONS LEAGUE",
-    "kickoff": "2026-11-04T20:00:00Z",
-    "venue": "",
-    "home": "RB Leipzig",
-    "away": "Manchester City",
-    "market": "Match result",
-    "selection": "Manchester City to win",
-    "odds": 1.62,
-    "openOdds": 1.62,
-    "baseProb": 61.2,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.62,
-    "live": true
-  },
-  {
-    "id": "ba82ee37f64a66a30d85f8b90082ec2f",
-    "league": "CHAMPIONS LEAGUE",
-    "kickoff": "2026-11-04T20:00:00Z",
-    "venue": "",
-    "home": "Porto",
-    "away": "Napoli",
-    "market": "Match result",
-    "selection": "Napoli to win",
-    "odds": 4,
-    "openOdds": 4,
-    "baseProb": 26.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "role": "upset",
-    "locked": true,
-    "publishedOdds": 4,
-    "live": true
   }
 ]

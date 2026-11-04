@@ -2715,5 +2715,27 @@
     "odds": 1.61,
     "prob": 61.7,
     "result": "L"
+  },
+  {
+    "id": "df7d2d81b9e2f3f11c6aeddaee6b7085|h2h|away|",
+    "date": "2026-11-04",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "RB Leipzig",
+    "away": "Manchester City",
+    "selection": "Manchester City to win",
+    "odds": 1.62,
+    "prob": 61.2,
+    "result": "W"
+  },
+  {
+    "id": "ba82ee37f64a66a30d85f8b90082ec2f|h2h|away|",
+    "date": "2026-11-04",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "Porto",
+    "away": "Napoli",
+    "selection": "Napoli to win",
+    "odds": 4,
+    "prob": 26.3,
+    "result": "L"
   }
 ]
