@@ -2638,5 +2638,38 @@
     "odds": 1.6,
     "prob": 61.7,
     "result": "W"
+  },
+  {
+    "id": "1a5a84045050d0d7baf1301909d3b465|h2h|away|",
+    "date": "2026-11-03",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "Bodø/Glimt",
+    "away": "Lille",
+    "selection": "Lille to win",
+    "odds": 4.3,
+    "prob": 24.3,
+    "result": "L"
+  },
+  {
+    "id": "adf608a0e9be02eb1d8b0a6f464a12b1|h2h|home|",
+    "date": "2026-11-03",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "LASK",
+    "away": "ŠK Slovan Bratislava",
+    "selection": "LASK to win",
+    "odds": 1.45,
+    "prob": 68,
+    "result": "W"
+  },
+  {
+    "id": "a341241606cb5b1b59e425d00be64883|h2h|away|",
+    "date": "2026-11-03",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "Villarreal",
+    "away": "Paris Saint Germain",
+    "selection": "Paris Saint Germain to win",
+    "odds": 1.67,
+    "prob": 59.4,
+    "result": "W"
   }
 ]

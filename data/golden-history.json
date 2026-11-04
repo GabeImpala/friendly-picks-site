@@ -40,5 +40,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "a341241606cb5b1b59e425d00be64883|golden|h2h|away|",
+    "date": "2026-11-03",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "Villarreal",
+    "away": "Paris Saint Germain",
+    "selection": "Paris Saint Germain to win",
+    "odds": 1.78,
+    "prob": 56.1,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]
