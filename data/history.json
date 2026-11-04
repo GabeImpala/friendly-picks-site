@@ -2640,6 +2640,28 @@
     "result": "W"
   },
   {
+    "id": "b21dae70cc11cc09837d7f99f1933197|spread|away|1.5",
+    "date": "2026-11-03",
+    "league": "NHL",
+    "home": "New York Rangers",
+    "away": "St Louis Blues",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.44,
+    "prob": 68.6,
+    "result": "L"
+  },
+  {
+    "id": "ec0cd2ebb977023698a5f16ca4de0e6c|spread|home|1.5",
+    "date": "2026-11-03",
+    "league": "NHL",
+    "home": "Toronto Maple Leafs",
+    "away": "Utah Mammoth",
+    "selection": "Toronto Maple Leafs +1.5",
+    "odds": 1.5,
+    "prob": 65.6,
+    "result": "W"
+  },
+  {
     "id": "1a5a84045050d0d7baf1301909d3b465|h2h|away|",
     "date": "2026-11-03",
     "league": "CHAMPIONS LEAGUE",
