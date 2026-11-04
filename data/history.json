@@ -2704,5 +2704,16 @@
     "odds": 1.67,
     "prob": 59.4,
     "result": "W"
+  },
+  {
+    "id": "e901dbcdd6e2255fb24d84032b9d437a|h2h|away|",
+    "date": "2026-11-04",
+    "league": "CHAMPIONS LEAGUE",
+    "home": "Fenerbahce",
+    "away": "Liverpool",
+    "selection": "Liverpool to win",
+    "odds": 1.61,
+    "prob": 61.7,
+    "result": "L"
   }
 ]
