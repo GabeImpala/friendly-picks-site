@@ -27,26 +27,6 @@
     }
   },
   {
-    "id": "91df86557819598ca270ba35410cfcfa",
-    "league": "NBA",
-    "kickoff": "2026-11-05T00:00:00Z",
-    "venue": "",
-    "home": "Detroit Pistons",
-    "away": "Philadelphia 76ers",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 1.76,
-    "openOdds": 1.84,
-    "baseProb": 56.1,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "05200821a78e4f6db8131cff1652550f",
     "league": "NBA",
     "kickoff": "2026-11-05T00:10:00Z",
