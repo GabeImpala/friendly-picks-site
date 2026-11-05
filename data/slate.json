@@ -7,17 +7,17 @@
     "home": "Pittsburgh Penguins",
     "away": "Boston Bruins",
     "market": "Spread",
-    "selection": "Pittsburgh Penguins -1.5",
-    "odds": 3.25,
-    "openOdds": 3.25,
-    "baseProb": 30.7,
+    "selection": "Pittsburgh Penguins +1.5",
+    "odds": 1.4,
+    "openOdds": 1.4,
+    "baseProb": 70.1,
     "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
       "side": "home",
-      "line": -1.5
+      "line": 1.5
     }
   },
   {
