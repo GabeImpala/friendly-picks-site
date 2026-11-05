@@ -1,13 +1,14 @@
 {
-  "updatedAt": "2026-11-05T11:59:56.306Z",
+  "updatedAt": "2026-11-05T15:15:19.399Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
-  "fullRunAt": "2026-11-05T04:44:59.569Z",
+  "fullRunAt": "2026-11-05T15:15:19.399Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19600,
+  "creditsRemaining": 19583,
   "info": [
-    "This run could spend up to 91 credits (1579 left this cycle).",
-    "Settle-only run: skipped fetching new odds.",
-    "Used 4 credits this run."
+    "This run could spend up to 90 credits (1575 left this cycle).",
+    "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
+    "Golden Pick: none today. 3 candidate bets today: 0 paid under 1.4, 1 under 55% chance, 2 overpriced. Closest: Winnipeg Jets ML (Winnipeg Jets) at 1.49, 66% chance, EV -2.3%.",
+    "Used 17 credits this run."
   ]
 }
