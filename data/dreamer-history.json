@@ -2837,5 +2837,161 @@
     "publishedAt": "2026-11-03T15:15:20.262Z",
     "result": "L",
     "settledAt": "2026-11-04T06:00:25.272Z"
+  },
+  {
+    "day": "2026-11-04",
+    "legs": [
+      {
+        "eventId": "b2557f74f4d7675ed3b76a4a064e0bc9",
+        "league": "NBA",
+        "kickoff": "2026-11-05T01:30:00Z",
+        "home": "Houston Rockets",
+        "away": "Minnesota Timberwolves",
+        "market": "Moneyline",
+        "selection": "Houston Rockets ML",
+        "odds": 1.4,
+        "prob": 70.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 107,
+        "awayScore": 117,
+        "result": "L"
+      },
+      {
+        "eventId": "6277e639c064e641265fcb98a0e200b9",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-04T20:00:00Z",
+        "home": "Viking FK",
+        "away": "Sabah FK",
+        "market": "Match result",
+        "selection": "Viking FK to win",
+        "odds": 1.4,
+        "prob": 70.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 4,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "0b5966b7b96eb844618eea8f215a0c71",
+        "league": "NBA",
+        "kickoff": "2026-11-05T01:10:00Z",
+        "home": "New Orleans Pelicans",
+        "away": "Utah Jazz",
+        "market": "Moneyline",
+        "selection": "New Orleans Pelicans ML",
+        "odds": 1.47,
+        "prob": 66.8,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 120,
+        "awayScore": 113,
+        "result": "W"
+      },
+      {
+        "eventId": "e901dbcdd6e2255fb24d84032b9d437a",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-04T17:45:00Z",
+        "home": "Fenerbahce",
+        "away": "Liverpool",
+        "market": "Match result",
+        "selection": "Liverpool to win",
+        "odds": 1.52,
+        "prob": 64.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "df7d2d81b9e2f3f11c6aeddaee6b7085",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-04T20:00:00Z",
+        "home": "RB Leipzig",
+        "away": "Manchester City",
+        "market": "Match result",
+        "selection": "Manchester City to win",
+        "odds": 1.56,
+        "prob": 62.9,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 2,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "a3c2f39dce2dbf9e8cb78acce24cd379",
+        "league": "NHL",
+        "kickoff": "2026-11-05T03:10:00Z",
+        "home": "Los Angeles Kings",
+        "away": "San Jose Sharks",
+        "market": "Spread",
+        "selection": "San Jose Sharks +1.5",
+        "odds": 1.59,
+        "prob": 61.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 7,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "013cecbf40f5b4530342632a80f35b00",
+        "league": "CHAMPIONS LEAGUE",
+        "kickoff": "2026-11-04T20:00:00Z",
+        "home": "RC Lens",
+        "away": "Como",
+        "market": "Total",
+        "selection": "Under 3.5 goals",
+        "odds": 1.65,
+        "prob": 60.9,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 3.5
+        },
+        "homeScore": 1,
+        "awayScore": 9,
+        "result": "L"
+      },
+      {
+        "eventId": "38fdb396939e8aabebd93cb509618927",
+        "league": "NBA",
+        "kickoff": "2026-11-05T01:00:00Z",
+        "home": "Oklahoma City Thunder",
+        "away": "Cleveland Cavaliers",
+        "market": "Moneyline",
+        "selection": "Oklahoma City Thunder ML",
+        "odds": 1.68,
+        "prob": 59.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 124,
+        "awayScore": 116,
+        "result": "W"
+      }
+    ],
+    "odds": 30.111468958771198,
+    "hitChance": 3.03,
+    "publishedAt": "2026-11-04T16:11:31.937Z",
+    "result": "L",
+    "settledAt": "2026-11-05T06:00:22.304Z"
   }
 ]

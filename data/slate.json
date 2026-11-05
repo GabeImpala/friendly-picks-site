@@ -260,28 +260,5 @@
       "side": "away",
       "line": 1.5
     }
-  },
-  {
-    "id": "a3c2f39dce2dbf9e8cb78acce24cd379",
-    "league": "NHL",
-    "kickoff": "2026-11-05T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Kings",
-    "away": "San Jose Sharks",
-    "market": "Spread",
-    "selection": "San Jose Sharks +1.5",
-    "odds": 1.59,
-    "openOdds": 1.59,
-    "baseProb": 61.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.59,
-    "live": true
   }
 ]
