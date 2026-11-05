@@ -54,5 +54,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "b2557f74f4d7675ed3b76a4a064e0bc9|golden|h2h|home|",
+    "date": "2026-11-04",
+    "league": "NBA",
+    "home": "Houston Rockets",
+    "away": "Minnesota Timberwolves",
+    "selection": "Houston Rockets ML",
+    "odds": 1.4,
+    "prob": 70.6,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]

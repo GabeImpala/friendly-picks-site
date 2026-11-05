@@ -2737,5 +2737,38 @@
     "odds": 4,
     "prob": 26.3,
     "result": "L"
+  },
+  {
+    "id": "0b5966b7b96eb844618eea8f215a0c71|h2h|home|",
+    "date": "2026-11-04",
+    "league": "NBA",
+    "home": "New Orleans Pelicans",
+    "away": "Utah Jazz",
+    "selection": "New Orleans Pelicans ML",
+    "odds": 1.47,
+    "prob": 66.8,
+    "result": "W"
+  },
+  {
+    "id": "b2557f74f4d7675ed3b76a4a064e0bc9|h2h|home|",
+    "date": "2026-11-04",
+    "league": "NBA",
+    "home": "Houston Rockets",
+    "away": "Minnesota Timberwolves",
+    "selection": "Houston Rockets ML",
+    "odds": 1.4,
+    "prob": 70.6,
+    "result": "L"
+  },
+  {
+    "id": "bc22bdc8d7cca6b3695672a8ebf84456|spread|away|1.5",
+    "date": "2026-11-04",
+    "league": "NHL",
+    "home": "Florida Panthers",
+    "away": "Chicago Blackhawks",
+    "selection": "Chicago Blackhawks +1.5",
+    "odds": 1.91,
+    "prob": 52.3,
+    "result": "L"
   }
 ]

@@ -1,5 +1,34 @@
 [
   {
+    "id": "c75744790b7acf6260c78ba5e739c0e5",
+    "league": "NFL",
+    "kickoff": "2026-11-06T01:15:00Z",
+    "venue": "",
+    "home": "Baltimore Ravens",
+    "away": "Jacksonville Jaguars",
+    "market": "Spread",
+    "selection": "Jacksonville Jaguars -10",
+    "odds": 1.99,
+    "openOdds": 2,
+    "baseProb": 49.6,
+    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": -10
+    },
+    "weather": {
+      "tempF": 68.2,
+      "windMph": 0.9,
+      "precip": "None",
+      "roof": "open"
+    },
+    "locked": true,
+    "publishedOdds": 2
+  },
+  {
     "id": "9e57c39752bfbc587ce341650fcd5a19",
     "league": "NHL",
     "kickoff": "2026-11-06T00:10:00Z",
@@ -231,102 +260,6 @@
       "side": "away",
       "line": 1.5
     }
-  },
-  {
-    "id": "c75744790b7acf6260c78ba5e739c0e5",
-    "league": "NFL",
-    "kickoff": "2026-11-06T01:15:00Z",
-    "venue": "",
-    "home": "Baltimore Ravens",
-    "away": "Jacksonville Jaguars",
-    "market": "Spread",
-    "selection": "Jacksonville Jaguars -10",
-    "odds": 1.99,
-    "openOdds": 2,
-    "baseProb": 49.6,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -10
-    },
-    "weather": {
-      "tempF": 68.2,
-      "windMph": 0.9,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 2
-  },
-  {
-    "id": "0b5966b7b96eb844618eea8f215a0c71",
-    "league": "NBA",
-    "kickoff": "2026-11-05T01:10:00Z",
-    "venue": "",
-    "home": "New Orleans Pelicans",
-    "away": "Utah Jazz",
-    "market": "Moneyline",
-    "selection": "New Orleans Pelicans ML",
-    "odds": 1.47,
-    "openOdds": 1.47,
-    "baseProb": 66.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.47,
-    "live": true
-  },
-  {
-    "id": "b2557f74f4d7675ed3b76a4a064e0bc9",
-    "league": "NBA",
-    "kickoff": "2026-11-05T01:30:00Z",
-    "venue": "",
-    "home": "Houston Rockets",
-    "away": "Minnesota Timberwolves",
-    "market": "Moneyline",
-    "selection": "Houston Rockets ML",
-    "odds": 1.4,
-    "openOdds": 1.29,
-    "baseProb": 70.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.4,
-    "live": true
-  },
-  {
-    "id": "bc22bdc8d7cca6b3695672a8ebf84456",
-    "league": "NHL",
-    "kickoff": "2026-11-05T00:40:00Z",
-    "venue": "",
-    "home": "Florida Panthers",
-    "away": "Chicago Blackhawks",
-    "market": "Spread",
-    "selection": "Chicago Blackhawks +1.5",
-    "odds": 1.91,
-    "openOdds": 1.91,
-    "baseProb": 52.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.91,
-    "live": true
   },
   {
     "id": "a3c2f39dce2dbf9e8cb78acce24cd379",
