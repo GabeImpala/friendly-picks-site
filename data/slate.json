@@ -27,26 +27,6 @@
     }
   },
   {
-    "id": "ac38449dd3dfbe1c9b48164b6a41aa83",
-    "league": "NBA",
-    "kickoff": "2026-11-06T03:10:00Z",
-    "venue": "",
-    "home": "Golden State Warriors",
-    "away": "Miami Heat",
-    "market": "Moneyline",
-    "selection": "Miami Heat ML",
-    "odds": 3.35,
-    "openOdds": 3.35,
-    "baseProb": 29.2,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "aa1aedf26c4af7a878d368957721b84e",
     "league": "LIGA MX",
     "kickoff": "2026-11-07T01:00:00Z",
@@ -719,50 +699,5 @@
       "side": "over",
       "line": 2.5
     }
-  },
-  {
-    "id": "c672f144ecbb937d3b15b483847129d2",
-    "league": "NHL",
-    "kickoff": "2026-11-06T01:10:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Anaheim Ducks",
-    "market": "Moneyline",
-    "selection": "Edmonton Oilers ML",
-    "odds": 1.57,
-    "openOdds": 1.57,
-    "baseProb": 62.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.57,
-    "live": true
-  },
-  {
-    "id": "c75744790b7acf6260c78ba5e739c0e5",
-    "league": "NFL",
-    "kickoff": "2026-11-06T01:15:00Z",
-    "venue": "",
-    "home": "Baltimore Ravens",
-    "away": "Jacksonville Jaguars",
-    "market": "Spread",
-    "selection": "Jacksonville Jaguars -10",
-    "odds": 2,
-    "openOdds": 2,
-    "baseProb": 49.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -10
-    },
-    "locked": true,
-    "publishedOdds": 2,
-    "live": true
   }
 ]

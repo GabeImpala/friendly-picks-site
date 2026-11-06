@@ -2993,5 +2993,146 @@
     "publishedAt": "2026-11-04T16:11:31.937Z",
     "result": "L",
     "settledAt": "2026-11-05T06:00:22.304Z"
+  },
+  {
+    "day": "2026-11-05",
+    "legs": [
+      {
+        "eventId": "5d5b6a0f376a8d9bd4f5e46891e6c6d8",
+        "league": "NHL",
+        "kickoff": "2026-11-06T00:10:00Z",
+        "home": "Winnipeg Jets",
+        "away": "Vancouver Canucks",
+        "market": "Moneyline",
+        "selection": "Winnipeg Jets ML",
+        "odds": 1.49,
+        "prob": 65.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 6,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "c672f144ecbb937d3b15b483847129d2",
+        "league": "NHL",
+        "kickoff": "2026-11-06T01:10:00Z",
+        "home": "Edmonton Oilers",
+        "away": "Anaheim Ducks",
+        "market": "Moneyline",
+        "selection": "Edmonton Oilers ML",
+        "odds": 1.57,
+        "prob": 62.1,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 4,
+        "awayScore": 5,
+        "result": "L"
+      },
+      {
+        "eventId": "18dd8ea86db020028f8d1c130b99d616",
+        "league": "NHL",
+        "kickoff": "2026-11-06T00:10:00Z",
+        "home": "New York Islanders",
+        "away": "Carolina Hurricanes",
+        "market": "Spread",
+        "selection": "New York Islanders +1.5",
+        "odds": 1.62,
+        "prob": 61.1,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 5,
+        "result": "L"
+      },
+      {
+        "eventId": "fc2cccfb47dffb4677b85d247c768ae9",
+        "league": "NHL",
+        "kickoff": "2026-11-06T00:10:00Z",
+        "home": "Tampa Bay Lightning",
+        "away": "Chicago Blackhawks",
+        "market": "Spread",
+        "selection": "Tampa Bay Lightning -1.5",
+        "odds": 1.68,
+        "prob": 58.9,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": -1.5
+        },
+        "homeScore": 4,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "eefdb55d84dd6a95ef53b76d3935f3c9",
+        "league": "NHL",
+        "kickoff": "2026-11-06T00:10:00Z",
+        "home": "New Jersey Devils",
+        "away": "St Louis Blues",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.68,
+        "prob": 58.5,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "446de9651d2d2948326d970e9f858a33",
+        "league": "NHL",
+        "kickoff": "2026-11-06T02:40:00Z",
+        "home": "Colorado Avalanche",
+        "away": "Nashville Predators",
+        "market": "Spread",
+        "selection": "Nashville Predators +1.5",
+        "odds": 1.77,
+        "prob": 56,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "c75744790b7acf6260c78ba5e739c0e5",
+        "league": "NFL",
+        "kickoff": "2026-11-06T01:15:00Z",
+        "home": "Baltimore Ravens",
+        "away": "Jacksonville Jaguars",
+        "market": "Spread",
+        "selection": "Jacksonville Jaguars -10",
+        "odds": 1.93,
+        "prob": 49.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": -10
+        },
+        "homeScore": 10,
+        "awayScore": 33,
+        "result": "W"
+      }
+    ],
+    "odds": 36.538446130986244,
+    "hitChance": 2.4,
+    "publishedAt": "2026-11-05T15:15:19.399Z",
+    "result": "L",
+    "settledAt": "2026-11-06T06:00:24.109Z"
   }
 ]
