@@ -2781,5 +2781,16 @@
     "odds": 1.59,
     "prob": 61.9,
     "result": "L"
+  },
+  {
+    "id": "5d5b6a0f376a8d9bd4f5e46891e6c6d8|h2h|home|",
+    "date": "2026-11-05",
+    "league": "NHL",
+    "home": "Winnipeg Jets",
+    "away": "Vancouver Canucks",
+    "selection": "Winnipeg Jets ML",
+    "odds": 1.5,
+    "prob": 65.6,
+    "result": "W"
   }
 ]
