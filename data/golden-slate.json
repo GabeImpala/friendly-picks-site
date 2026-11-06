@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "bc490c79c4f47b8a1eaa70a3e1907349|golden|spread|away|1.5",
+    "day": "2026-11-06",
+    "league": "NHL",
+    "kickoff": "2026-11-07T01:10:00Z",
+    "home": "Calgary Flames",
+    "away": "Anaheim Ducks",
+    "market": "Spread",
+    "selection": "Anaheim Ducks +1.5",
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 1.5
+    },
+    "odds": 1.48,
+    "prob": 67,
+    "ev": -0.008,
+    "edge": -0.6,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
