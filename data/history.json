@@ -2891,5 +2891,49 @@
     "odds": 1.66,
     "prob": 59.2,
     "result": "L"
+  },
+  {
+    "id": "813cc4970b2dcab8457490a332fb5a6c|total|under|2.5",
+    "date": "2026-11-07",
+    "league": "SERIE A",
+    "home": "Parma",
+    "away": "Bologna",
+    "selection": "Under 2.5 goals",
+    "odds": 1.79,
+    "prob": 55.2,
+    "result": "L"
+  },
+  {
+    "id": "842fcc5b9feb8c63054a661ad1fc8926|total|under|3.5",
+    "date": "2026-11-07",
+    "league": "EPL",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "selection": "Under 3.5 goals",
+    "odds": 1.68,
+    "prob": 58.4,
+    "result": "W"
+  },
+  {
+    "id": "59c5f635cfe11613c07e9a5520ced5c1|total|over|2.5",
+    "date": "2026-11-07",
+    "league": "EPL",
+    "home": "Nottingham Forest",
+    "away": "Manchester City",
+    "selection": "Over 2.5 goals",
+    "odds": 1.71,
+    "prob": 58.2,
+    "result": "W"
+  },
+  {
+    "id": "de935794b7d93f3607ac9ad54d18f4c7|total|over|2.5",
+    "date": "2026-11-07",
+    "league": "LA LIGA",
+    "home": "Málaga",
+    "away": "Real Racing Club de Santander",
+    "selection": "Over 2.5 goals",
+    "odds": 1.73,
+    "prob": 57.6,
+    "result": "W"
   }
 ]
