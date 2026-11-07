@@ -2838,6 +2838,17 @@
     "result": "W"
   },
   {
+    "id": "aa1aedf26c4af7a878d368957721b84e|total|over|2.5",
+    "date": "2026-11-06",
+    "league": "LIGA MX",
+    "home": "Atlético San Luis",
+    "away": "FC Juárez",
+    "selection": "Over 2.5 goals",
+    "odds": 1.76,
+    "prob": 55.8,
+    "result": "L"
+  },
+  {
     "id": "8094c7dc6557caf1cc19194bf69477bb|spread|away|1.5",
     "date": "2026-11-06",
     "league": "NHL",
@@ -2847,6 +2858,17 @@
     "odds": 1.62,
     "prob": 60.6,
     "result": "L"
+  },
+  {
+    "id": "bc490c79c4f47b8a1eaa70a3e1907349|spread|away|1.5",
+    "date": "2026-11-06",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Anaheim Ducks",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.48,
+    "prob": 67,
+    "result": "W"
   },
   {
     "id": "90e0f4548382be5b3aa1f9391728a520|btts|yes|",

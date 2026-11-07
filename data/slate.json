@@ -27,47 +27,6 @@
     }
   },
   {
-    "id": "83d77fe350d56a036fd7a3404e78249a",
-    "league": "NBA",
-    "kickoff": "2026-11-07T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 1.71,
-    "openOdds": 1.71,
-    "baseProb": 57.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "d24eb5492983d6e28be3b96df396fa12",
-    "league": "NBA",
-    "kickoff": "2026-11-07T03:10:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "San Antonio Spurs",
-    "market": "Total",
-    "selection": "Over 229.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.3,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 229.5
-    }
-  },
-  {
     "id": "28607ad26e44b8c72a8033ca39e6babe",
     "league": "LIGA MX",
     "kickoff": "2026-11-07T23:00:00Z",
@@ -800,49 +759,25 @@
     }
   },
   {
-    "id": "aa1aedf26c4af7a878d368957721b84e",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-07T01:00:00Z",
+    "id": "83d77fe350d56a036fd7a3404e78249a",
+    "league": "NBA",
+    "kickoff": "2026-11-07T03:10:00Z",
     "venue": "",
-    "home": "Atlético San Luis",
-    "away": "FC Juárez",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.76,
-    "openOdds": 1.76,
-    "baseProb": 55.8,
+    "home": "Los Angeles Lakers",
+    "away": "Portland Trail Blazers",
+    "market": "Moneyline",
+    "selection": "Los Angeles Lakers ML",
+    "odds": 1.71,
+    "openOdds": 1.71,
+    "baseProb": 57.5,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
+      "type": "h2h",
+      "side": "home"
     },
     "locked": true,
-    "publishedOdds": 1.76,
-    "live": true
-  },
-  {
-    "id": "bc490c79c4f47b8a1eaa70a3e1907349",
-    "league": "NHL",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "Calgary Flames",
-    "away": "Anaheim Ducks",
-    "market": "Spread",
-    "selection": "Anaheim Ducks +1.5",
-    "odds": 1.48,
-    "openOdds": 1.48,
-    "baseProb": 67,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.48,
+    "publishedOdds": 1.71,
     "live": true
   }
 ]

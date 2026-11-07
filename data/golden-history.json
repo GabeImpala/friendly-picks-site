@@ -68,5 +68,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "bc490c79c4f47b8a1eaa70a3e1907349|golden|spread|away|1.5",
+    "date": "2026-11-06",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Anaheim Ducks",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.48,
+    "prob": 67,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]
