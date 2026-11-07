@@ -2814,5 +2814,27 @@
     "odds": 2,
     "prob": 49.8,
     "result": "W"
+  },
+  {
+    "id": "586bec023ee8ac2f0645d963bd2c9d25|total|over|2.5",
+    "date": "2026-11-06",
+    "league": "EPL",
+    "home": "Everton",
+    "away": "Coventry City",
+    "selection": "Over 2.5 goals",
+    "odds": 1.81,
+    "prob": 55.2,
+    "result": "W"
+  },
+  {
+    "id": "9dd0014685fd62d9b2890d7c33a8c9ab|total|under|2.5",
+    "date": "2026-11-06",
+    "league": "LA LIGA",
+    "home": "Sevilla",
+    "away": "Alavés",
+    "selection": "Under 2.5 goals",
+    "odds": 1.73,
+    "prob": 57.2,
+    "result": "W"
   }
 ]

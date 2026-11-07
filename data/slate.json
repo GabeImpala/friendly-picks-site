@@ -1076,51 +1076,5 @@
       "type": "h2h",
       "side": "away"
     }
-  },
-  {
-    "id": "586bec023ee8ac2f0645d963bd2c9d25",
-    "league": "EPL",
-    "kickoff": "2026-11-06T20:00:00Z",
-    "venue": "",
-    "home": "Everton",
-    "away": "Coventry City",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.81,
-    "openOdds": 1.81,
-    "baseProb": 55.2,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.81,
-    "live": true
-  },
-  {
-    "id": "9dd0014685fd62d9b2890d7c33a8c9ab",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-06T20:00:00Z",
-    "venue": "",
-    "home": "Sevilla",
-    "away": "Alavés",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 1.73,
-    "openOdds": 1.73,
-    "baseProb": 57.2,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.73,
-    "live": true
   }
 ]
