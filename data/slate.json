@@ -757,27 +757,5 @@
       "type": "h2h",
       "side": "home"
     }
-  },
-  {
-    "id": "83d77fe350d56a036fd7a3404e78249a",
-    "league": "NBA",
-    "kickoff": "2026-11-07T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Portland Trail Blazers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 1.71,
-    "openOdds": 1.71,
-    "baseProb": 57.5,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.71,
-    "live": true
   }
 ]

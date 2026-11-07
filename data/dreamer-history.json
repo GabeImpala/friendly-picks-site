@@ -3134,5 +3134,146 @@
     "publishedAt": "2026-11-05T15:15:19.399Z",
     "result": "L",
     "settledAt": "2026-11-06T06:00:24.109Z"
+  },
+  {
+    "day": "2026-11-06",
+    "legs": [
+      {
+        "eventId": "bc490c79c4f47b8a1eaa70a3e1907349",
+        "league": "NHL",
+        "kickoff": "2026-11-07T01:10:00Z",
+        "home": "Calgary Flames",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.48,
+        "prob": 67,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "8094c7dc6557caf1cc19194bf69477bb",
+        "league": "NHL",
+        "kickoff": "2026-11-07T00:10:00Z",
+        "home": "Buffalo Sabres",
+        "away": "Columbus Blue Jackets",
+        "market": "Spread",
+        "selection": "Columbus Blue Jackets +1.5",
+        "odds": 1.62,
+        "prob": 60.6,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 2,
+        "result": "L"
+      },
+      {
+        "eventId": "90e0f4548382be5b3aa1f9391728a520",
+        "league": "LIGA MX",
+        "kickoff": "2026-11-07T01:00:00Z",
+        "home": "Necaxa",
+        "away": "Tijuana",
+        "market": "Both teams to score",
+        "selection": "Both teams to score: Yes",
+        "odds": 1.66,
+        "prob": 59.2,
+        "bet": {
+          "type": "btts",
+          "side": "yes"
+        },
+        "homeScore": 1,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "83d77fe350d56a036fd7a3404e78249a",
+        "league": "NBA",
+        "kickoff": "2026-11-07T03:10:00Z",
+        "home": "Los Angeles Lakers",
+        "away": "Portland Trail Blazers",
+        "market": "Moneyline",
+        "selection": "Los Angeles Lakers ML",
+        "odds": 1.71,
+        "prob": 57.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 124,
+        "awayScore": 118,
+        "result": "W"
+      },
+      {
+        "eventId": "9dd0014685fd62d9b2890d7c33a8c9ab",
+        "league": "LA LIGA",
+        "kickoff": "2026-11-06T20:00:00Z",
+        "home": "Sevilla",
+        "away": "Alavés",
+        "market": "Total",
+        "selection": "Under 2.5 goals",
+        "odds": 1.75,
+        "prob": 56.7,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 2.5
+        },
+        "homeScore": 0,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "aa1aedf26c4af7a878d368957721b84e",
+        "league": "LIGA MX",
+        "kickoff": "2026-11-07T01:00:00Z",
+        "home": "Atlético San Luis",
+        "away": "FC Juárez",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.73,
+        "prob": 56,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 0,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "586bec023ee8ac2f0645d963bd2c9d25",
+        "league": "EPL",
+        "kickoff": "2026-11-06T20:00:00Z",
+        "home": "Everton",
+        "away": "Coventry City",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.84,
+        "prob": 53.9,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 3,
+        "awayScore": 1,
+        "result": "W"
+      }
+    ],
+    "odds": 37.912541891615994,
+    "hitChance": 2.37,
+    "publishedAt": "2026-11-06T15:15:20.728Z",
+    "result": "L",
+    "settledAt": "2026-11-07T10:56:38.302Z"
   }
 ]

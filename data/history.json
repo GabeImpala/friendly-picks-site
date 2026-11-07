@@ -2849,6 +2849,17 @@
     "result": "L"
   },
   {
+    "id": "83d77fe350d56a036fd7a3404e78249a|h2h|home|",
+    "date": "2026-11-06",
+    "league": "NBA",
+    "home": "Los Angeles Lakers",
+    "away": "Portland Trail Blazers",
+    "selection": "Los Angeles Lakers ML",
+    "odds": 1.71,
+    "prob": 57.5,
+    "result": "W"
+  },
+  {
     "id": "8094c7dc6557caf1cc19194bf69477bb|spread|away|1.5",
     "date": "2026-11-06",
     "league": "NHL",
