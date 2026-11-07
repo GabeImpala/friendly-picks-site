@@ -27,147 +27,6 @@
     }
   },
   {
-    "id": "9246c91f746732472c13e94bd8e7be85",
-    "league": "NBA",
-    "kickoff": "2026-11-07T00:10:00Z",
-    "venue": "",
-    "home": "Atlanta Hawks",
-    "away": "Washington Wizards",
-    "market": "Moneyline",
-    "selection": "Washington Wizards ML",
-    "odds": 3.5,
-    "openOdds": 3.5,
-    "baseProb": 28.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "49daf3d42e20ce4bc70f8a68cf70ce4c",
-    "league": "NBA",
-    "kickoff": "2026-11-07T00:10:00Z",
-    "venue": "",
-    "home": "Charlotte Hornets",
-    "away": "Boston Celtics",
-    "market": "Moneyline",
-    "selection": "Charlotte Hornets ML",
-    "odds": 3.7,
-    "openOdds": 3.7,
-    "baseProb": 26.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "85869b2fdc16ef10d3e2582bf05ead95",
-    "league": "NBA",
-    "kickoff": "2026-11-07T00:40:00Z",
-    "venue": "",
-    "home": "Cleveland Cavaliers",
-    "away": "Philadelphia 76ers",
-    "market": "Spread",
-    "selection": "Philadelphia 76ers -2.5",
-    "odds": 1.97,
-    "openOdds": 1.97,
-    "baseProb": 49.9,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -2.5
-    }
-  },
-  {
-    "id": "62a92e31b546d31ba57caf792815bf65",
-    "league": "NBA",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "Dallas Mavericks",
-    "away": "Utah Jazz",
-    "market": "Moneyline",
-    "selection": "Utah Jazz ML",
-    "odds": 3.35,
-    "openOdds": 3.35,
-    "baseProb": 29.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "86684f64a8ec8385537a36c3b3768935",
-    "league": "NBA",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "Memphis Grizzlies",
-    "away": "Oklahoma City Thunder",
-    "market": "Moneyline",
-    "selection": "Memphis Grizzlies ML",
-    "odds": 2.5,
-    "openOdds": 2.5,
-    "baseProb": 39.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "1c60a090180de530cfe273a5d6a381e6",
-    "league": "NBA",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "Milwaukee Bucks",
-    "away": "Toronto Raptors",
-    "market": "Moneyline",
-    "selection": "Milwaukee Bucks ML",
-    "odds": 3.11,
-    "openOdds": 3.11,
-    "baseProb": 31.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "5e4708fadda49a3c06fd7ac50414020e",
-    "league": "NBA",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "New Orleans Pelicans",
-    "away": "Minnesota Timberwolves",
-    "market": "Moneyline",
-    "selection": "New Orleans Pelicans ML",
-    "odds": 2.52,
-    "openOdds": 2.52,
-    "baseProb": 39.2,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "83d77fe350d56a036fd7a3404e78249a",
     "league": "NBA",
     "kickoff": "2026-11-07T03:10:00Z",
@@ -206,81 +65,6 @@
       "type": "total",
       "side": "over",
       "line": 229.5
-    }
-  },
-  {
-    "id": "aa1aedf26c4af7a878d368957721b84e",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-07T01:00:00Z",
-    "venue": "",
-    "home": "Atlético San Luis",
-    "away": "FC Juárez",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.73,
-    "openOdds": 1.76,
-    "baseProb": 56,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 62.2,
-      "windMph": 7.2,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.76
-  },
-  {
-    "id": "90e0f4548382be5b3aa1f9391728a520",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-07T01:00:00Z",
-    "venue": "",
-    "home": "Necaxa",
-    "away": "Tijuana",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.66,
-    "openOdds": 1.66,
-    "baseProb": 59.2,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 71.4,
-      "windMph": 4.1,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "cfd69045a3b7fa67d80438040ca62e28",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-07T03:00:00Z",
-    "venue": "",
-    "home": "Atlante FC",
-    "away": "Santos Laguna",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 3.9,
-    "openOdds": 3.85,
-    "baseProb": 25.5,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
     }
   },
   {
@@ -1016,25 +800,27 @@
     }
   },
   {
-    "id": "8094c7dc6557caf1cc19194bf69477bb",
-    "league": "NHL",
-    "kickoff": "2026-11-07T00:10:00Z",
+    "id": "aa1aedf26c4af7a878d368957721b84e",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-07T01:00:00Z",
     "venue": "",
-    "home": "Buffalo Sabres",
-    "away": "Columbus Blue Jackets",
-    "market": "Spread",
-    "selection": "Columbus Blue Jackets +1.5",
-    "odds": 1.62,
-    "openOdds": 1.62,
-    "baseProb": 60.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "home": "Atlético San Luis",
+    "away": "FC Juárez",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.76,
+    "openOdds": 1.76,
+    "baseProb": 55.8,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    }
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    "locked": true,
+    "publishedOdds": 1.76,
+    "live": true
   },
   {
     "id": "bc490c79c4f47b8a1eaa70a3e1907349",
@@ -1048,33 +834,15 @@
     "odds": 1.48,
     "openOdds": 1.48,
     "baseProb": 67,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
       "side": "away",
       "line": 1.5
-    }
-  },
-  {
-    "id": "94142b31815d8bfcef178b16cadfe92f",
-    "league": "NHL",
-    "kickoff": "2026-11-07T01:10:00Z",
-    "venue": "",
-    "home": "Minnesota Wild",
-    "away": "San Jose Sharks",
-    "market": "Moneyline",
-    "selection": "San Jose Sharks ML",
-    "odds": 3.3,
-    "openOdds": 3.3,
-    "baseProb": 30.5,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.48,
+    "live": true
   }
 ]

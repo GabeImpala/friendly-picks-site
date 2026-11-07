@@ -2836,5 +2836,27 @@
     "odds": 1.73,
     "prob": 57.2,
     "result": "W"
+  },
+  {
+    "id": "8094c7dc6557caf1cc19194bf69477bb|spread|away|1.5",
+    "date": "2026-11-06",
+    "league": "NHL",
+    "home": "Buffalo Sabres",
+    "away": "Columbus Blue Jackets",
+    "selection": "Columbus Blue Jackets +1.5",
+    "odds": 1.62,
+    "prob": 60.6,
+    "result": "L"
+  },
+  {
+    "id": "90e0f4548382be5b3aa1f9391728a520|btts|yes|",
+    "date": "2026-11-06",
+    "league": "LIGA MX",
+    "home": "Necaxa",
+    "away": "Tijuana",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.66,
+    "prob": 59.2,
+    "result": "L"
   }
 ]
