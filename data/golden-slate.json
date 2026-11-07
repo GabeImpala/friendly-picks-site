@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "af8d920f175d73f12933c64ae296573f|golden|h2h|away|",
+    "day": "2026-11-07",
+    "league": "NBA",
+    "kickoff": "2026-11-08T02:10:00Z",
+    "home": "Phoenix Suns",
+    "away": "Houston Rockets",
+    "market": "Moneyline",
+    "selection": "Houston Rockets ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.43,
+    "prob": 70.3,
+    "ev": 0.005,
+    "edge": 0.4,
+    "stakePct": 0.0031,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
