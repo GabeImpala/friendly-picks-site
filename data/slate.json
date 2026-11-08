@@ -378,26 +378,6 @@
     "aiHomeProb": 52.3
   },
   {
-    "id": "e76682ca6c25a37b0a53cec226b91aab",
-    "league": "NBA",
-    "kickoff": "2026-11-07T22:10:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Denver Nuggets",
-    "market": "Moneyline",
-    "selection": "Indiana Pacers ML",
-    "odds": 3.5,
-    "openOdds": 3.5,
-    "baseProb": 28.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "ee45341df802cfb42dd48f1ad60c8b81",
     "league": "NBA",
     "kickoff": "2026-11-08T00:40:00Z",
@@ -516,32 +496,6 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
-  },
-  {
-    "id": "28607ad26e44b8c72a8033ca39e6babe",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-07T23:00:00Z",
-    "venue": "",
-    "home": "Atlas",
-    "away": "Pachuca",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 3.8,
-    "openOdds": 3.66,
-    "baseProb": 26.7,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
-    },
-    "weather": {
-      "tempF": 81.3,
-      "windMph": 4.6,
-      "precip": "None",
-      "roof": "open"
     }
   },
   {
@@ -1017,27 +971,6 @@
     }
   },
   {
-    "id": "79334eedea6908f995f13dd5a8f11d20",
-    "league": "NHL",
-    "kickoff": "2026-11-07T22:10:00Z",
-    "venue": "",
-    "home": "Seattle Kraken",
-    "away": "New York Rangers",
-    "market": "Spread",
-    "selection": "Seattle Kraken +1.5",
-    "odds": 1.48,
-    "openOdds": 1.48,
-    "baseProb": 67,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    }
-  },
-  {
     "id": "b7da08b293b1ae703c71b26ad69eb52b",
     "league": "NHL",
     "kickoff": "2026-11-08T00:10:00Z",
@@ -1222,5 +1155,28 @@
       "type": "h2h",
       "side": "away"
     }
+  },
+  {
+    "id": "79334eedea6908f995f13dd5a8f11d20",
+    "league": "NHL",
+    "kickoff": "2026-11-07T22:10:00Z",
+    "venue": "",
+    "home": "Seattle Kraken",
+    "away": "New York Rangers",
+    "market": "Spread",
+    "selection": "Seattle Kraken +1.5",
+    "odds": 1.48,
+    "openOdds": 1.48,
+    "baseProb": 67,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": 1.5
+    },
+    "locked": true,
+    "publishedOdds": 1.48,
+    "live": true
   }
 ]
