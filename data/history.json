@@ -2935,5 +2935,16 @@
     "odds": 1.73,
     "prob": 57.6,
     "result": "W"
+  },
+  {
+    "id": "79334eedea6908f995f13dd5a8f11d20|spread|home|1.5",
+    "date": "2026-11-07",
+    "league": "NHL",
+    "home": "Seattle Kraken",
+    "away": "New York Rangers",
+    "selection": "Seattle Kraken +1.5",
+    "odds": 1.48,
+    "prob": 67,
+    "result": "W"
   }
 ]
