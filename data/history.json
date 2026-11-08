@@ -2946,5 +2946,60 @@
     "odds": 1.48,
     "prob": 67,
     "result": "W"
+  },
+  {
+    "id": "ee45341df802cfb42dd48f1ad60c8b81|h2h|home|",
+    "date": "2026-11-07",
+    "league": "NBA",
+    "home": "Atlanta Hawks",
+    "away": "Brooklyn Nets",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.41,
+    "prob": 69.8,
+    "result": "W"
+  },
+  {
+    "id": "af8d920f175d73f12933c64ae296573f|h2h|away|",
+    "date": "2026-11-07",
+    "league": "NBA",
+    "home": "Phoenix Suns",
+    "away": "Houston Rockets",
+    "selection": "Houston Rockets ML",
+    "odds": 1.43,
+    "prob": 70.3,
+    "result": "L"
+  },
+  {
+    "id": "45fe0042959aa9830b0090f13dd73164|btts|yes|",
+    "date": "2026-11-07",
+    "league": "LIGA MX",
+    "home": "Toluca",
+    "away": "Monterrey",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.56,
+    "prob": 63,
+    "result": "L"
+  },
+  {
+    "id": "855f868ca1fa329da3e3374347d4911e|btts|yes|",
+    "date": "2026-11-07",
+    "league": "LIGA MX",
+    "home": "Pumas",
+    "away": "América",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.62,
+    "prob": 60.7,
+    "result": "W"
+  },
+  {
+    "id": "2ccc92070bd6f92703efc538ba500d21|spread|away|1.5",
+    "date": "2026-11-07",
+    "league": "NHL",
+    "home": "Colorado Avalanche",
+    "away": "Detroit Red Wings",
+    "selection": "Detroit Red Wings +1.5",
+    "odds": 1.8,
+    "prob": 55.3,
+    "result": "L"
   }
 ]

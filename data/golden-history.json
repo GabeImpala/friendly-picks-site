@@ -82,5 +82,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "af8d920f175d73f12933c64ae296573f|golden|h2h|away|",
+    "date": "2026-11-07",
+    "league": "NBA",
+    "home": "Phoenix Suns",
+    "away": "Houston Rockets",
+    "selection": "Houston Rockets ML",
+    "odds": 1.43,
+    "prob": 70.3,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]
