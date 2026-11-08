@@ -3001,5 +3001,82 @@
     "odds": 1.8,
     "prob": 55.3,
     "result": "L"
+  },
+  {
+    "id": "5ea6b7050b00fcc1832f7938794dd755|total|over|2.5",
+    "date": "2026-11-08",
+    "league": "SERIE A",
+    "home": "Monza",
+    "away": "Atalanta BC",
+    "selection": "Over 2.5 goals",
+    "odds": 1.63,
+    "prob": 60.6,
+    "result": "L"
+  },
+  {
+    "id": "79ed3df594d7b352ef027128b1ba5d0a|total|over|2.5",
+    "date": "2026-11-08",
+    "league": "EPL",
+    "home": "Ipswich Town",
+    "away": "Bournemouth",
+    "selection": "Over 2.5 goals",
+    "odds": 1.77,
+    "prob": 56.2,
+    "result": "W"
+  },
+  {
+    "id": "0cfbab01e152f81e34f9014e02c7eb79|h2h|away|",
+    "date": "2026-11-08",
+    "league": "EPL",
+    "home": "Crystal Palace",
+    "away": "Liverpool",
+    "selection": "Liverpool to win",
+    "odds": 1.66,
+    "prob": 59.7,
+    "result": "W"
+  },
+  {
+    "id": "c35673eb1e889309d6985c091a43a3f5|total|over|2.5",
+    "date": "2026-11-08",
+    "league": "LA LIGA",
+    "home": "Elche CF",
+    "away": "Real Betis",
+    "selection": "Over 2.5 goals",
+    "odds": 1.73,
+    "prob": 57.2,
+    "result": "L"
+  },
+  {
+    "id": "339a6465fa5153fd8f31e487cf557cf0|total|over|2.5",
+    "date": "2026-11-08",
+    "league": "LA LIGA",
+    "home": "Real Sociedad",
+    "away": "Rayo Vallecano",
+    "selection": "Over 2.5 goals",
+    "odds": 1.65,
+    "prob": 60.3,
+    "result": "L"
+  },
+  {
+    "id": "657fd1ac35832f65fcc6feba93970e10|total|under|3.5",
+    "date": "2026-11-08",
+    "league": "SERIE A",
+    "home": "Inter Milan",
+    "away": "Como",
+    "selection": "Under 3.5 goals",
+    "odds": 1.73,
+    "prob": 57.1,
+    "result": "W"
+  },
+  {
+    "id": "657fd1ac35832f65fcc6feba93970e10|h2h|away|",
+    "date": "2026-11-08",
+    "league": "SERIE A",
+    "home": "Inter Milan",
+    "away": "Como",
+    "selection": "Como to win",
+    "odds": 3.95,
+    "prob": 26.4,
+    "result": "L"
   }
 ]

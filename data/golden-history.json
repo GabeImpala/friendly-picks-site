@@ -96,5 +96,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "657fd1ac35832f65fcc6feba93970e10|golden|total|under|3.5",
+    "date": "2026-11-08",
+    "league": "SERIE A",
+    "home": "Inter Milan",
+    "away": "Como",
+    "selection": "Under 3.5 goals",
+    "odds": 1.69,
+    "prob": 59.1,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]
