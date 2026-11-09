@@ -1,113 +1,5 @@
 [
   {
-    "id": "39aeac43cea7b12558b91cdab1255a10",
-    "league": "NFL",
-    "kickoff": "2026-11-08T21:05:00Z",
-    "venue": "",
-    "home": "Los Angeles Chargers",
-    "away": "Houston Texans",
-    "market": "Spread",
-    "selection": "Houston Texans -5.5",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.9,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -5.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "240e23b02b1e3fef655d04a286b5a623",
-    "league": "NFL",
-    "kickoff": "2026-11-08T21:25:00Z",
-    "venue": "",
-    "home": "Seattle Seahawks",
-    "away": "Arizona Cardinals",
-    "market": "Moneyline",
-    "selection": "Arizona Cardinals ML",
-    "odds": 4.5,
-    "openOdds": 4.6,
-    "baseProb": 22.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 56,
-      "windMph": 10.7,
-      "precip": "None",
-      "roof": "open"
-    },
-    "aiHomeProb": 81.2
-  },
-  {
-    "id": "2922c573ec3df8466c4a34975e446898",
-    "league": "NFL",
-    "kickoff": "2026-11-08T21:25:00Z",
-    "venue": "",
-    "home": "New England Patriots",
-    "away": "Green Bay Packers",
-    "market": "Spread",
-    "selection": "Green Bay Packers +3",
-    "odds": 2.05,
-    "openOdds": 2.02,
-    "baseProb": 48.4,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 3
-    },
-    "weather": {
-      "tempF": 48.9,
-      "windMph": 8.4,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "ac9d38a18d5c92814233a31aa9a48d78",
-    "league": "NFL",
-    "kickoff": "2026-11-08T21:25:00Z",
-    "venue": "",
-    "home": "San Francisco 49ers",
-    "away": "Las Vegas Raiders",
-    "market": "Spread",
-    "selection": "Las Vegas Raiders +9.5",
-    "odds": 1.97,
-    "openOdds": 1.94,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 9.5
-    },
-    "weather": {
-      "tempF": 67.7,
-      "windMph": 4.5,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "9760d8f19f84bfee300a74ceb656c95d",
     "league": "NFL",
     "kickoff": "2026-11-09T01:20:00Z",
@@ -159,26 +51,6 @@
       "windMph": 0,
       "precip": "None",
       "roof": "dome"
-    }
-  },
-  {
-    "id": "182e2b5349fa0ff4ad3c0e8359c1a9a0",
-    "league": "NBA",
-    "kickoff": "2026-11-08T23:10:00Z",
-    "venue": "",
-    "home": "Detroit Pistons",
-    "away": "Los Angeles Lakers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Lakers ML",
-    "odds": 2.6,
-    "openOdds": 2.6,
-    "baseProb": 37.9,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
     }
   },
   {
@@ -285,33 +157,6 @@
     }
   },
   {
-    "id": "14aec7933e69c140965b1ae959076e70",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-09T00:00:00Z",
-    "venue": "",
-    "home": "Querétaro",
-    "away": "Puebla",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.78,
-    "openOdds": 1.69,
-    "baseProb": 55.6,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 70.9,
-      "windMph": 10,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "7cd6004c4921a258af79f297abcfc9e9",
     "league": "LIGA MX",
     "kickoff": "2026-11-09T02:10:00Z",
@@ -335,27 +180,6 @@
       "windMph": 4.3,
       "precip": "None",
       "roof": "open"
-    }
-  },
-  {
-    "id": "975144d492cf89a8637be0fc0fdee85e",
-    "league": "NHL",
-    "kickoff": "2026-11-08T23:10:00Z",
-    "venue": "",
-    "home": "Winnipeg Jets",
-    "away": "Tampa Bay Lightning",
-    "market": "Spread",
-    "selection": "Tampa Bay Lightning -1.5",
-    "odds": 2.75,
-    "openOdds": 2.75,
-    "baseProb": 35.8,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
     }
   },
   {
@@ -421,26 +245,26 @@
     }
   },
   {
-    "id": "89de07377e0aa8ffaa2ae6a7dc0855cc",
-    "league": "NFL",
-    "kickoff": "2026-11-08T18:00:00Z",
+    "id": "14aec7933e69c140965b1ae959076e70",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-09T00:00:00Z",
     "venue": "",
-    "home": "Washington Commanders",
-    "away": "Los Angeles Rams",
-    "market": "Moneyline",
-    "selection": "Los Angeles Rams ML",
-    "odds": 1.48,
-    "openOdds": 1.48,
-    "baseProb": 66.3,
+    "home": "Querétaro",
+    "away": "Puebla",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.78,
+    "openOdds": 1.69,
+    "baseProb": 55.6,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "h2h",
-      "side": "away"
+      "type": "total",
+      "side": "over",
+      "line": 2.5
     },
     "locked": true,
-    "publishedOdds": 1.48,
-    "live": true,
-    "aiHomeProb": 41.7
+    "publishedOdds": 1.78,
+    "live": true
   }
 ]
