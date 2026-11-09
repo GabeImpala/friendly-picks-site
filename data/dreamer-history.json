@@ -3431,5 +3431,164 @@
     "publishedAt": "2026-11-07T15:15:19.935Z",
     "result": "L",
     "settledAt": "2026-11-08T06:00:19.852Z"
+  },
+  {
+    "day": "2026-11-08",
+    "legs": [
+      {
+        "eventId": "26c46faca681cd1f742dee05c5d7730b",
+        "league": "NHL",
+        "kickoff": "2026-11-09T00:10:00Z",
+        "home": "Calgary Flames",
+        "away": "Philadelphia Flyers",
+        "market": "Spread",
+        "selection": "Calgary Flames +1.5",
+        "odds": 1.41,
+        "prob": 69.6,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "89de07377e0aa8ffaa2ae6a7dc0855cc",
+        "league": "NFL",
+        "kickoff": "2026-11-08T18:00:00Z",
+        "home": "Washington Commanders",
+        "away": "Los Angeles Rams",
+        "market": "Moneyline",
+        "selection": "Los Angeles Rams ML",
+        "odds": 1.45,
+        "prob": 67,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 13,
+        "awayScore": 20,
+        "result": "W"
+      },
+      {
+        "eventId": "5abfa3c29e722130d055164350facd72",
+        "league": "NHL",
+        "kickoff": "2026-11-09T00:10:00Z",
+        "home": "Toronto Maple Leafs",
+        "away": "New Jersey Devils",
+        "market": "Spread",
+        "selection": "Toronto Maple Leafs +1.5",
+        "odds": 1.56,
+        "prob": 63,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 0,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "e571bab6736f9338130a78a4f75c3231",
+        "league": "NFL",
+        "kickoff": "2026-11-08T18:00:00Z",
+        "home": "New Orleans Saints",
+        "away": "Cleveland Browns",
+        "market": "Moneyline",
+        "selection": "New Orleans Saints ML",
+        "odds": 1.59,
+        "prob": 61.8,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 23,
+        "awayScore": 22,
+        "result": "W"
+      },
+      {
+        "eventId": "5ea6b7050b00fcc1832f7938794dd755",
+        "league": "SERIE A",
+        "kickoff": "2026-11-08T14:00:00Z",
+        "home": "Monza",
+        "away": "Atalanta BC",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.63,
+        "prob": 60.6,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 0,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "339a6465fa5153fd8f31e487cf557cf0",
+        "league": "LA LIGA",
+        "kickoff": "2026-11-08T15:15:00Z",
+        "home": "Real Sociedad",
+        "away": "Rayo Vallecano",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.65,
+        "prob": 60.3,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 1,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "0cfbab01e152f81e34f9014e02c7eb79",
+        "league": "EPL",
+        "kickoff": "2026-11-08T14:00:00Z",
+        "home": "Crystal Palace",
+        "away": "Liverpool",
+        "market": "Match result",
+        "selection": "Liverpool to win",
+        "odds": 1.66,
+        "prob": 59.7,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "657fd1ac35832f65fcc6feba93970e10",
+        "league": "SERIE A",
+        "kickoff": "2026-11-08T17:00:00Z",
+        "home": "Inter Milan",
+        "away": "Como",
+        "market": "Total",
+        "selection": "Under 3.5 goals",
+        "odds": 1.69,
+        "prob": 59.1,
+        "bet": {
+          "type": "total",
+          "side": "under",
+          "line": 3.5
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "W"
+      }
+    ],
+    "odds": 38.26266177722274,
+    "hitChance": 2.34,
+    "publishedAt": "2026-11-08T15:15:19.652Z",
+    "result": "L",
+    "settledAt": "2026-11-09T03:00:24.760Z"
   }
 ]

@@ -3089,5 +3089,38 @@
     "odds": 1.48,
     "prob": 66.3,
     "result": "W"
+  },
+  {
+    "id": "14aec7933e69c140965b1ae959076e70|total|over|2.5",
+    "date": "2026-11-08",
+    "league": "LIGA MX",
+    "home": "Querétaro",
+    "away": "Puebla",
+    "selection": "Over 2.5 goals",
+    "odds": 1.78,
+    "prob": 55.6,
+    "result": "L"
+  },
+  {
+    "id": "26c46faca681cd1f742dee05c5d7730b|spread|home|1.5",
+    "date": "2026-11-08",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Philadelphia Flyers",
+    "selection": "Calgary Flames +1.5",
+    "odds": 1.41,
+    "prob": 69.6,
+    "result": "W"
+  },
+  {
+    "id": "5abfa3c29e722130d055164350facd72|spread|home|1.5",
+    "date": "2026-11-08",
+    "league": "NHL",
+    "home": "Toronto Maple Leafs",
+    "away": "New Jersey Devils",
+    "selection": "Toronto Maple Leafs +1.5",
+    "odds": 1.56,
+    "prob": 63,
+    "result": "L"
   }
 ]
