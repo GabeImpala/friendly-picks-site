@@ -1,5 +1,32 @@
 [
   {
+    "id": "17ad7eff2f7875e20a8109abe40470e3",
+    "league": "NFL",
+    "kickoff": "2026-11-10T01:15:00Z",
+    "venue": "",
+    "home": "Minnesota Vikings",
+    "away": "Buffalo Bills",
+    "market": "Spread",
+    "selection": "Buffalo Bills -3.5",
+    "odds": 2.02,
+    "openOdds": 2.02,
+    "baseProb": 48.8,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": -3.5
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
     "id": "07361a8381206817e27bd2697fad7479",
     "league": "NBA",
     "kickoff": "2026-11-10T00:10:00Z",
@@ -391,33 +418,6 @@
       "type": "spread",
       "side": "home",
       "line": -1.5
-    }
-  },
-  {
-    "id": "17ad7eff2f7875e20a8109abe40470e3",
-    "league": "NFL",
-    "kickoff": "2026-11-10T01:15:00Z",
-    "venue": "",
-    "home": "Minnesota Vikings",
-    "away": "Buffalo Bills",
-    "market": "Spread",
-    "selection": "Buffalo Bills -3.5",
-    "odds": 2.02,
-    "openOdds": 2.02,
-    "baseProb": 48.8,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -3.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
     }
   }
 ]
