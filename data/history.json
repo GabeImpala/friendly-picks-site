@@ -3122,5 +3122,16 @@
     "odds": 1.56,
     "prob": 63,
     "result": "L"
+  },
+  {
+    "id": "9866fa22adc8509d487522ef4cf0fc24|h2h|home|",
+    "date": "2026-11-09",
+    "league": "NBA",
+    "home": "Dallas Mavericks",
+    "away": "Indiana Pacers",
+    "selection": "Dallas Mavericks ML",
+    "odds": 1.68,
+    "prob": 58.6,
+    "result": "W"
   }
 ]

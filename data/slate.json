@@ -1,25 +1,5 @@
 [
   {
-    "id": "3619e1cf4b0a325c3e0ba5b1fb7f3d91",
-    "league": "NBA",
-    "kickoff": "2026-11-10T03:10:00Z",
-    "venue": "",
-    "home": "Golden State Warriors",
-    "away": "New Orleans Pelicans",
-    "market": "Moneyline",
-    "selection": "Golden State Warriors ML",
-    "odds": 1.25,
-    "openOdds": 1.27,
-    "baseProb": 78.4,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "cfa503c66cd505776a910921875ef7dd",
     "league": "NBA",
     "kickoff": "2026-11-11T01:10:00Z",
@@ -37,27 +17,6 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
-  },
-  {
-    "id": "4b345990c8a04ff88ce31d233a406011",
-    "league": "NHL",
-    "kickoff": "2026-11-10T03:10:00Z",
-    "venue": "",
-    "home": "San Jose Sharks",
-    "away": "New York Islanders",
-    "market": "Spread",
-    "selection": "New York Islanders -1.5",
-    "odds": 2.8,
-    "openOdds": 2.8,
-    "baseProb": 35.3,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -1.5
     }
   },
   {
@@ -206,27 +165,5 @@
       "side": "home",
       "line": -1.5
     }
-  },
-  {
-    "id": "9866fa22adc8509d487522ef4cf0fc24",
-    "league": "NBA",
-    "kickoff": "2026-11-10T01:10:00Z",
-    "venue": "",
-    "home": "Dallas Mavericks",
-    "away": "Indiana Pacers",
-    "market": "Moneyline",
-    "selection": "Dallas Mavericks ML",
-    "odds": 1.68,
-    "openOdds": 1.68,
-    "baseProb": 58.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.68,
-    "live": true
   }
 ]
