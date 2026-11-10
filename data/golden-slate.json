@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "9600ca13a787cb4772bf21e6e61bdf07|golden|spread|away|1.5",
+    "day": "2026-11-10",
+    "league": "NHL",
+    "kickoff": "2026-11-11T01:10:00Z",
+    "home": "St Louis Blues",
+    "away": "Detroit Red Wings",
+    "market": "Spread",
+    "selection": "Detroit Red Wings +1.5",
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 1.5
+    },
+    "odds": 1.52,
+    "prob": 64.8,
+    "ev": -0.015,
+    "edge": -1,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
