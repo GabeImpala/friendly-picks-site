@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "37f4c00ff7ec01d5aa7c33dd1ac84bbc|golden|h2h|away|",
+    "day": "2026-11-11",
+    "league": "NBA",
+    "kickoff": "2026-11-12T00:10:00Z",
+    "home": "Toronto Raptors",
+    "away": "Boston Celtics",
+    "market": "Moneyline",
+    "selection": "Boston Celtics ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.44,
+    "prob": 68.2,
+    "ev": -0.018,
+    "edge": -1.2,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
