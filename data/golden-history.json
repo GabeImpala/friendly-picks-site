@@ -124,5 +124,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "9600ca13a787cb4772bf21e6e61bdf07|golden|spread|away|1.5",
+    "date": "2026-11-10",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Detroit Red Wings",
+    "selection": "Detroit Red Wings +1.5",
+    "odds": 1.52,
+    "prob": 64.8,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

@@ -3133,5 +3133,38 @@
     "odds": 1.68,
     "prob": 58.6,
     "result": "W"
+  },
+  {
+    "id": "d85899eb0ddff2e6e18a63b0c83bc7b8|spread|home|1.5",
+    "date": "2026-11-10",
+    "league": "NHL",
+    "home": "Columbus Blue Jackets",
+    "away": "Florida Panthers",
+    "selection": "Columbus Blue Jackets +1.5",
+    "odds": 1.43,
+    "prob": 68.9,
+    "result": "L"
+  },
+  {
+    "id": "9600ca13a787cb4772bf21e6e61bdf07|spread|away|1.5",
+    "date": "2026-11-10",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Detroit Red Wings",
+    "selection": "Detroit Red Wings +1.5",
+    "odds": 1.53,
+    "prob": 64.7,
+    "result": "W"
+  },
+  {
+    "id": "8178ff2ec61f604b61dfe6d7b8d71103|h2h|home|",
+    "date": "2026-11-10",
+    "league": "NBA",
+    "home": "Phoenix Suns",
+    "away": "Los Angeles Clippers",
+    "selection": "Phoenix Suns ML",
+    "odds": 1.66,
+    "prob": 59.9,
+    "result": "W"
   }
 ]
