@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "d4f288eeb0132970825be17748f2b4f0|edge|h2h|home|",
+    "eventId": "d4f288eeb0132970825be17748f2b4f0",
+    "league": "NBA",
+    "kickoff": "2026-11-12T03:10:00Z",
+    "home": "Portland Trail Blazers",
+    "away": "Oklahoma City Thunder",
+    "market": "Moneyline",
+    "selection": "Portland Trail Blazers ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.95,
+    "openOdds": 2.02,
+    "fairProb": 54.5,
+    "modelProb": 54.5,
+    "consProb": 53.5,
+    "edge": 3.2,
+    "ev": 0.044,
+    "stakePct": 0.011462786804237473,
+    "books": 11,
+    "devigMethod": "power",
+    "offConsensus": true,
+    "locked": true,
+    "publishedOdds": 1.95,
+    "live": false
+  }
+]
