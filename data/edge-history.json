@@ -76,5 +76,20 @@
     "offConsensus": true,
     "result": "W",
     "clv": 6
+  },
+  {
+    "id": "d4f288eeb0132970825be17748f2b4f0|edge|h2h|home|",
+    "date": "2026-11-11",
+    "league": "NBA",
+    "home": "Portland Trail Blazers",
+    "away": "Oklahoma City Thunder",
+    "selection": "Portland Trail Blazers ML",
+    "odds": 1.95,
+    "consProb": 53.5,
+    "edge": 3.2,
+    "ev": 0.044,
+    "stakePct": 0.011462786804237473,
+    "offConsensus": true,
+    "result": "W"
   }
 ]

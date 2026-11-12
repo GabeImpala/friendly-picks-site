@@ -3590,5 +3590,106 @@
     "publishedAt": "2026-11-08T15:15:19.652Z",
     "result": "L",
     "settledAt": "2026-11-09T03:00:24.760Z"
+  },
+  {
+    "day": "2026-11-11",
+    "legs": [
+      {
+        "eventId": "37f4c00ff7ec01d5aa7c33dd1ac84bbc",
+        "league": "NBA",
+        "kickoff": "2026-11-12T00:10:00Z",
+        "home": "Toronto Raptors",
+        "away": "Boston Celtics",
+        "market": "Moneyline",
+        "selection": "Boston Celtics ML",
+        "odds": 1.49,
+        "prob": 66.1,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 93,
+        "awayScore": 98,
+        "result": "W"
+      },
+      {
+        "eventId": "21792501482fecfaacd3a4a24776c9e6",
+        "league": "NBA",
+        "kickoff": "2026-11-12T01:10:00Z",
+        "home": "Memphis Grizzlies",
+        "away": "Denver Nuggets",
+        "market": "Moneyline",
+        "selection": "Denver Nuggets ML",
+        "odds": 1.62,
+        "prob": 60.5,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 118,
+        "awayScore": 123,
+        "result": "W"
+      },
+      {
+        "eventId": "78267bbb84304764c453515236c3ccce",
+        "league": "NHL",
+        "kickoff": "2026-11-12T02:10:00Z",
+        "home": "Edmonton Oilers",
+        "away": "Philadelphia Flyers",
+        "market": "Spread",
+        "selection": "Philadelphia Flyers +1.5",
+        "odds": 1.67,
+        "prob": 58.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "e9545a3084389f5f3429e19fea891124",
+        "league": "NBA",
+        "kickoff": "2026-11-12T00:10:00Z",
+        "home": "Indiana Pacers",
+        "away": "Washington Wizards",
+        "market": "Moneyline",
+        "selection": "Indiana Pacers ML",
+        "odds": 1.71,
+        "prob": 57.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 114,
+        "awayScore": 101,
+        "result": "W"
+      },
+      {
+        "eventId": "43a0ad5ba8bff6cdca19964348b53eff",
+        "league": "NHL",
+        "kickoff": "2026-11-12T03:10:00Z",
+        "home": "Anaheim Ducks",
+        "away": "Nashville Predators",
+        "market": "Moneyline",
+        "selection": "Anaheim Ducks ML",
+        "odds": 1.73,
+        "prob": 56.2,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 4,
+        "result": "L"
+      }
+    ],
+    "odds": 11.9250433818,
+    "hitChance": 7.64,
+    "publishedAt": "2026-11-11T21:30:34.149Z",
+    "result": "L",
+    "settledAt": "2026-11-12T06:00:25.135Z"
   }
 ]

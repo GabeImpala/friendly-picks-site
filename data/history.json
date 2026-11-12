@@ -3177,5 +3177,38 @@
     "odds": 1.44,
     "prob": 68.2,
     "result": "W"
+  },
+  {
+    "id": "78267bbb84304764c453515236c3ccce|spread|away|1.5",
+    "date": "2026-11-11",
+    "league": "NHL",
+    "home": "Edmonton Oilers",
+    "away": "Philadelphia Flyers",
+    "selection": "Philadelphia Flyers +1.5",
+    "odds": 1.74,
+    "prob": 56.4,
+    "result": "W"
+  },
+  {
+    "id": "43a0ad5ba8bff6cdca19964348b53eff|h2h|home|",
+    "date": "2026-11-11",
+    "league": "NHL",
+    "home": "Anaheim Ducks",
+    "away": "Nashville Predators",
+    "selection": "Anaheim Ducks ML",
+    "odds": 1.75,
+    "prob": 56.1,
+    "result": "L"
+  },
+  {
+    "id": "21792501482fecfaacd3a4a24776c9e6|h2h|away|",
+    "date": "2026-11-11",
+    "league": "NBA",
+    "home": "Memphis Grizzlies",
+    "away": "Denver Nuggets",
+    "selection": "Denver Nuggets ML",
+    "odds": 1.62,
+    "prob": 60.5,
+    "result": "W"
   }
 ]
