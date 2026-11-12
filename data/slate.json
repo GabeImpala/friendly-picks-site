@@ -1,5 +1,39 @@
 [
   {
+    "id": "74d39e19225caf211ad2c8eb4110179f",
+    "league": "NFL",
+    "kickoff": "2026-11-13T01:15:00Z",
+    "venue": "",
+    "home": "New York Giants",
+    "away": "Washington Commanders",
+    "market": "Total",
+    "selection": "Under 41",
+    "odds": 1.93,
+    "openOdds": 1.93,
+    "baseProb": 50,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [
+      {
+        "kind": "weather",
+        "label": "Light rain at kickoff",
+        "detail": "Wet conditions tend to lower scoring slightly.",
+        "points": 1
+      }
+    ],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 41
+    },
+    "weather": {
+      "tempF": 49.6,
+      "windMph": 12.3,
+      "precip": "Light rain",
+      "roof": "open"
+    }
+  },
+  {
     "id": "37f4c00ff7ec01d5aa7c33dd1ac84bbc",
     "league": "NBA",
     "kickoff": "2026-11-12T00:10:00Z",
@@ -561,40 +595,6 @@
       "type": "spread",
       "side": "home",
       "line": -1.5
-    }
-  },
-  {
-    "id": "74d39e19225caf211ad2c8eb4110179f",
-    "league": "NFL",
-    "kickoff": "2026-11-13T01:15:00Z",
-    "venue": "",
-    "home": "New York Giants",
-    "away": "Washington Commanders",
-    "market": "Total",
-    "selection": "Under 41",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "weather",
-        "label": "Light rain at kickoff",
-        "detail": "Wet conditions tend to lower scoring slightly.",
-        "points": 1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 41
-    },
-    "weather": {
-      "tempF": 49.6,
-      "windMph": 12.3,
-      "precip": "Light rain",
-      "roof": "open"
     }
   }
 ]
