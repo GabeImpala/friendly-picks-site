@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "e5aa20e1364dd639f042af1c2281bbe2|ai",
+    "eventId": "e5aa20e1364dd639f042af1c2281bbe2",
+    "league": "NFL",
+    "kickoff": "2026-11-15T18:00:00Z",
+    "home": "New Orleans Saints",
+    "away": "Carolina Panthers",
+    "selection": "New Orleans Saints ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.77,
+    "prob": 60.4,
+    "live": false
+  }
+]
