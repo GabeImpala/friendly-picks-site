@@ -297,27 +297,6 @@
     "aiHomeProb": 32.5
   },
   {
-    "id": "2df93287814e2ffcbf1186e138b4a3d8",
-    "league": "NHL",
-    "kickoff": "2026-11-13T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Kings",
-    "away": "New York Islanders",
-    "market": "Spread",
-    "selection": "Los Angeles Kings -1.5",
-    "odds": 3.1,
-    "openOdds": 3.15,
-    "baseProb": 31.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -1.5
-    }
-  },
-  {
     "id": "069bea369487ef0cd3017c9ceea68817",
     "league": "NHL",
     "kickoff": "2026-11-14T02:10:00Z",
@@ -358,28 +337,5 @@
       "side": "away",
       "line": 1.5
     }
-  },
-  {
-    "id": "a25eef409ec7d9f7e872d37603bb0243",
-    "league": "NHL",
-    "kickoff": "2026-11-13T01:09:00Z",
-    "venue": "",
-    "home": "Chicago Blackhawks",
-    "away": "Buffalo Sabres",
-    "market": "Spread",
-    "selection": "Chicago Blackhawks +1.5",
-    "odds": 1.57,
-    "openOdds": 1.53,
-    "baseProb": 62.5,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.57,
-    "live": true
   }
 ]

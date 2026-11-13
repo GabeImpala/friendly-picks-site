@@ -3232,5 +3232,16 @@
     "odds": 1.43,
     "prob": 68.8,
     "result": "W"
+  },
+  {
+    "id": "a25eef409ec7d9f7e872d37603bb0243|spread|home|1.5",
+    "date": "2026-11-12",
+    "league": "NHL",
+    "home": "Chicago Blackhawks",
+    "away": "Buffalo Sabres",
+    "selection": "Chicago Blackhawks +1.5",
+    "odds": 1.57,
+    "prob": 62.5,
+    "result": "W"
   }
 ]

@@ -3691,5 +3691,108 @@
     "publishedAt": "2026-11-11T21:30:34.149Z",
     "result": "L",
     "settledAt": "2026-11-12T06:00:25.135Z"
+  },
+  {
+    "day": "2026-11-12",
+    "legs": [
+      {
+        "eventId": "5a2820b80e20b69258bd5eb25c18eb78",
+        "league": "NHL",
+        "kickoff": "2026-11-12T17:00:00Z",
+        "home": "Seattle Kraken",
+        "away": "Carolina Hurricanes",
+        "market": "Moneyline",
+        "selection": "Carolina Hurricanes ML",
+        "odds": 1.34,
+        "prob": 72.3,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "206230c7db215749b099353074bb5c13",
+        "league": "NHL",
+        "kickoff": "2026-11-13T00:08:00Z",
+        "home": "Ottawa Senators",
+        "away": "Colorado Avalanche",
+        "market": "Spread",
+        "selection": "Ottawa Senators +1.5",
+        "odds": 1.43,
+        "prob": 68.7,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "a25eef409ec7d9f7e872d37603bb0243",
+        "league": "NHL",
+        "kickoff": "2026-11-13T01:09:00Z",
+        "home": "Chicago Blackhawks",
+        "away": "Buffalo Sabres",
+        "market": "Spread",
+        "selection": "Chicago Blackhawks +1.5",
+        "odds": 1.57,
+        "prob": 62.5,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "f269492a367221a7a50738844eda8469",
+        "league": "NHL",
+        "kickoff": "2026-11-13T00:40:00Z",
+        "home": "Florida Panthers",
+        "away": "Detroit Red Wings",
+        "market": "Spread",
+        "selection": "Detroit Red Wings +1.5",
+        "odds": 1.61,
+        "prob": 61.4,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "fe4c6dbd3b40768336356b2a02966544",
+        "league": "NHL",
+        "kickoff": "2026-11-13T00:10:00Z",
+        "home": "Toronto Maple Leafs",
+        "away": "Minnesota Wild",
+        "market": "Moneyline",
+        "selection": "Minnesota Wild ML",
+        "odds": 1.63,
+        "prob": 60.6,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 2,
+        "awayScore": 5,
+        "result": "W"
+      }
+    ],
+    "odds": 7.895033346200001,
+    "hitChance": 11.55,
+    "publishedAt": "2026-11-12T15:15:19.188Z",
+    "result": "W",
+    "settledAt": "2026-11-13T06:00:22.070Z"
   }
 ]
