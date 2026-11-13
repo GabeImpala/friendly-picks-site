@@ -152,5 +152,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "206230c7db215749b099353074bb5c13|golden|spread|home|1.5",
+    "date": "2026-11-12",
+    "league": "NHL",
+    "home": "Ottawa Senators",
+    "away": "Colorado Avalanche",
+    "selection": "Ottawa Senators +1.5",
+    "odds": 1.43,
+    "prob": 68.7,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]
