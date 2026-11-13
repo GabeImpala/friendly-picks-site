@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-13T06:00:22.070Z",
+  "updatedAt": "2026-11-13T11:58:56.263Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "fullRunAt": "2026-11-12T21:33:17.085Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19206,
+  "creditsRemaining": 19202,
   "info": [
-    "This run could spend up to 98 credits (1185 left this cycle).",
+    "This run could spend up to 98 credits (1181 left this cycle).",
     "Settle-only run: skipped fetching new odds.",
     "Used 4 credits this run."
   ]
