@@ -1,25 +1,16 @@
 {
-  "updatedAt": "2026-11-14T14:03:47.707Z",
+  "updatedAt": "2026-11-14T19:31:23.137Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
-  "fullRunAt": "2026-11-14T14:03:47.707Z",
+  "fullRunAt": "2026-11-14T19:31:23.137Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19156,
+  "creditsRemaining": 19145,
   "info": [
-    "This run could spend up to 100 credits (1143 left this cycle).",
+    "This run could spend up to 99 credits (1131 left this cycle).",
     "EPL: no games in the next 36 hours, no credits used.",
     "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
     "LA LIGA: no games in the next 36 hours, no credits used.",
     "SERIE A: no games in the next 36 hours, no credits used.",
-    "Used 12 credits this run."
-  ],
-  "errors": [
-    "Weather Querétaro: Request failed after 3 tries: fetch failed",
-    "Weather New York Jets: Request failed after 3 tries: fetch failed",
-    "Weather Cleveland Browns: Request failed after 3 tries: fetch failed",
-    "Weather Green Bay Packers: Request failed after 3 tries: fetch failed",
-    "Weather Tennessee Titans: Request failed after 3 tries: fetch failed",
-    "Weather Cincinnati Bengals: Request failed after 3 tries: fetch failed",
-    "Weather Baltimore Ravens: Request failed after 3 tries: fetch failed"
+    "Used 11 credits this run."
   ]
 }
