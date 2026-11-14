@@ -297,149 +297,6 @@
     "aiHomeProb": 32.5
   },
   {
-    "id": "6669b911691463c669a5c10574742e8e",
-    "league": "NBA",
-    "kickoff": "2026-11-14T00:10:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "New York Knicks",
-    "market": "Moneyline",
-    "selection": "Indiana Pacers ML",
-    "odds": 3.6,
-    "openOdds": 3.6,
-    "baseProb": 27.2,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "76416359b5453c01968e94702a375f16",
-    "league": "NBA",
-    "kickoff": "2026-11-14T00:10:00Z",
-    "venue": "",
-    "home": "Orlando Magic",
-    "away": "Milwaukee Bucks",
-    "market": "Moneyline",
-    "selection": "Milwaukee Bucks ML",
-    "odds": 4,
-    "openOdds": 4,
-    "baseProb": 24.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "80ffc963f864f3d4fcefa82fd02b7d7b",
-    "league": "NBA",
-    "kickoff": "2026-11-14T01:10:00Z",
-    "venue": "",
-    "home": "Chicago Bulls",
-    "away": "Atlanta Hawks",
-    "market": "Moneyline",
-    "selection": "Atlanta Hawks ML",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 68.9,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "58b860d500be69ebf853926aa1ac8271",
-    "league": "NBA",
-    "kickoff": "2026-11-14T01:10:00Z",
-    "venue": "",
-    "home": "Miami Heat",
-    "away": "Cleveland Cavaliers",
-    "market": "Moneyline",
-    "selection": "Cleveland Cavaliers ML",
-    "odds": 2.2,
-    "openOdds": 2.2,
-    "baseProb": 44.7,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "8a40b260e8fa0d67c1f2bc2b39a24982",
-    "league": "NBA",
-    "kickoff": "2026-11-14T01:10:00Z",
-    "venue": "",
-    "home": "New Orleans Pelicans",
-    "away": "Memphis Grizzlies",
-    "market": "Spread",
-    "selection": "Memphis Grizzlies -2.5",
-    "odds": 1.98,
-    "openOdds": 1.98,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -2.5
-    }
-  },
-  {
-    "id": "d04acca7f0f369fc53bf04cd3357cb0d",
-    "league": "NBA",
-    "kickoff": "2026-11-14T01:40:00Z",
-    "venue": "",
-    "home": "Houston Rockets",
-    "away": "Utah Jazz",
-    "market": "Spread",
-    "selection": "Houston Rockets -16",
-    "odds": 1.97,
-    "openOdds": 1.97,
-    "baseProb": 49.5,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -16
-    }
-  },
-  {
-    "id": "1fae7f34ec6035dffa74feb148ee26c7",
-    "league": "NBA",
-    "kickoff": "2026-11-14T02:40:00Z",
-    "venue": "",
-    "home": "San Antonio Spurs",
-    "away": "Golden State Warriors",
-    "market": "Spread",
-    "selection": "Golden State Warriors +11.5",
-    "odds": 1.94,
-    "openOdds": 1.94,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 11.5
-    }
-  },
-  {
     "id": "a51c350318d7570c2b74af08eedb9fcd",
     "league": "NBA",
     "kickoff": "2026-11-14T03:10:00Z",
@@ -502,26 +359,6 @@
     }
   },
   {
-    "id": "069bea369487ef0cd3017c9ceea68817",
-    "league": "NHL",
-    "kickoff": "2026-11-14T02:10:00Z",
-    "venue": "",
-    "home": "Vancouver Canucks",
-    "away": "New York Rangers",
-    "market": "Moneyline",
-    "selection": "Vancouver Canucks ML",
-    "odds": 2.95,
-    "openOdds": 2.89,
-    "baseProb": 33.6,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "21cd36d8c877a851efe2016178ff0bd1",
     "league": "NHL",
     "kickoff": "2026-11-14T03:10:00Z",
@@ -563,5 +400,27 @@
       "type": "h2h",
       "side": "away"
     }
+  },
+  {
+    "id": "80ffc963f864f3d4fcefa82fd02b7d7b",
+    "league": "NBA",
+    "kickoff": "2026-11-14T01:10:00Z",
+    "venue": "",
+    "home": "Chicago Bulls",
+    "away": "Atlanta Hawks",
+    "market": "Moneyline",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.43,
+    "openOdds": 1.43,
+    "baseProb": 68.9,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "locked": true,
+    "publishedOdds": 1.43,
+    "live": true
   }
 ]
