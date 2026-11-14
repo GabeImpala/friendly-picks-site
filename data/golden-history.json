@@ -166,5 +166,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "80ffc963f864f3d4fcefa82fd02b7d7b|golden|h2h|away|",
+    "date": "2026-11-13",
+    "league": "NBA",
+    "home": "Chicago Bulls",
+    "away": "Atlanta Hawks",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.43,
+    "prob": 68.9,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]

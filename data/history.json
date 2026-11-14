@@ -3243,5 +3243,27 @@
     "odds": 1.57,
     "prob": 62.5,
     "result": "W"
+  },
+  {
+    "id": "21cd36d8c877a851efe2016178ff0bd1|spread|away|1.5",
+    "date": "2026-11-13",
+    "league": "NHL",
+    "home": "Vegas Golden Knights",
+    "away": "Nashville Predators",
+    "selection": "Nashville Predators +1.5",
+    "odds": 1.65,
+    "prob": 59.5,
+    "result": "W"
+  },
+  {
+    "id": "80ffc963f864f3d4fcefa82fd02b7d7b|h2h|away|",
+    "date": "2026-11-13",
+    "league": "NBA",
+    "home": "Chicago Bulls",
+    "away": "Atlanta Hawks",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.43,
+    "prob": 68.9,
+    "result": "L"
   }
 ]
