@@ -14,5 +14,21 @@
     "odds": 1.77,
     "prob": 60.4,
     "live": false
+  },
+  {
+    "id": "5d8d85473b87f772a979ecf294acab94|ai",
+    "eventId": "5d8d85473b87f772a979ecf294acab94",
+    "league": "NFL",
+    "kickoff": "2026-11-15T18:00:00Z",
+    "home": "Green Bay Packers",
+    "away": "Minnesota Vikings",
+    "selection": "Minnesota Vikings ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 2.34,
+    "prob": 63,
+    "live": false
   }
 ]
