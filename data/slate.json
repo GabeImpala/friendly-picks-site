@@ -458,32 +458,6 @@
     }
   },
   {
-    "id": "0380db9fc7de24aed0c27138c02467e5",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-14T23:00:00Z",
-    "venue": "",
-    "home": "Querétaro",
-    "away": "Monterrey",
-    "market": "Match result",
-    "selection": "Querétaro to win",
-    "odds": 3.85,
-    "openOdds": 3.55,
-    "baseProb": 26.6,
-    "baselineNote": "Consensus of 18 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 70.3,
-      "windMph": 5.8,
-      "precip": "None",
-      "roof": "open"
-    }
-  },
-  {
     "id": "20f100d5b4c8ce5d8c868f34ea7bddbf",
     "league": "NHL",
     "kickoff": "2026-11-15T00:10:00Z",
