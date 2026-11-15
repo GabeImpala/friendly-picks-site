@@ -3287,5 +3287,27 @@
     "odds": 1.43,
     "prob": 69.6,
     "result": "L"
+  },
+  {
+    "id": "a7cb6062530bd69eb6caee84a015abd0|h2h|home|",
+    "date": "2026-11-14",
+    "league": "NBA",
+    "home": "Memphis Grizzlies",
+    "away": "Brooklyn Nets",
+    "selection": "Memphis Grizzlies ML",
+    "odds": 1.74,
+    "prob": 56.9,
+    "result": "W"
+  },
+  {
+    "id": "4d5a1a721175165a7fc09cc39fd19214|spread|away|1.5",
+    "date": "2026-11-14",
+    "league": "NHL",
+    "home": "Los Angeles Kings",
+    "away": "Calgary Flames",
+    "selection": "Calgary Flames +1.5",
+    "odds": 1.59,
+    "prob": 61.9,
+    "result": "W"
   }
 ]

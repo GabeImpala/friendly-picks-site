@@ -3794,5 +3794,147 @@
     "publishedAt": "2026-11-12T15:15:19.188Z",
     "result": "W",
     "settledAt": "2026-11-13T06:00:22.070Z"
+  },
+  {
+    "day": "2026-11-14",
+    "legs": [
+      {
+        "eventId": "77dfcbc978ae3818dc04d2434342bc48",
+        "league": "NHL",
+        "kickoff": "2026-11-15T00:10:00Z",
+        "home": "St Louis Blues",
+        "away": "Florida Panthers",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.43,
+        "prob": 69.6,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "20f100d5b4c8ce5d8c868f34ea7bddbf",
+        "league": "NHL",
+        "kickoff": "2026-11-15T00:10:00Z",
+        "home": "Boston Bruins",
+        "away": "Minnesota Wild",
+        "market": "Spread",
+        "selection": "Boston Bruins +1.5",
+        "odds": 1.43,
+        "prob": 69,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 6,
+        "result": "L"
+      },
+      {
+        "eventId": "624643d0e1445dfdb95d86127440548a",
+        "league": "NHL",
+        "kickoff": "2026-11-15T00:09:00Z",
+        "home": "Montréal Canadiens",
+        "away": "Colorado Avalanche",
+        "market": "Spread",
+        "selection": "Colorado Avalanche +1.5",
+        "odds": 1.45,
+        "prob": 68,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "13ccf67b4b7c472d4e05fdda2b440b42",
+        "league": "NHL",
+        "kickoff": "2026-11-15T00:10:00Z",
+        "home": "Pittsburgh Penguins",
+        "away": "Ottawa Senators",
+        "market": "Spread",
+        "selection": "Pittsburgh Penguins +1.5",
+        "odds": 1.48,
+        "prob": 66.8,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "7f213f5d9c0852282bcf4d2c8c2bae9b",
+        "league": "NHL",
+        "kickoff": "2026-11-15T01:10:00Z",
+        "home": "Dallas Stars",
+        "away": "Buffalo Sabres",
+        "market": "Spread",
+        "selection": "Buffalo Sabres +1.5",
+        "odds": 1.5,
+        "prob": 65.5,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "4d5a1a721175165a7fc09cc39fd19214",
+        "league": "NHL",
+        "kickoff": "2026-11-15T03:10:00Z",
+        "home": "Los Angeles Kings",
+        "away": "Calgary Flames",
+        "market": "Spread",
+        "selection": "Calgary Flames +1.5",
+        "odds": 1.61,
+        "prob": 61.1,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "7f07a205e325038963274f255cb856cc",
+        "league": "NHL",
+        "kickoff": "2026-11-15T00:10:00Z",
+        "home": "Toronto Maple Leafs",
+        "away": "Edmonton Oilers",
+        "market": "Moneyline",
+        "selection": "Edmonton Oilers ML",
+        "odds": 1.71,
+        "prob": 57.5,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 0,
+        "awayScore": 1,
+        "result": "W"
+      }
+    ],
+    "odds": 18.122371877609996,
+    "hitChance": 5.02,
+    "publishedAt": "2026-11-14T14:03:47.707Z",
+    "result": "L",
+    "settledAt": "2026-11-15T06:00:21.717Z"
   }
 ]
