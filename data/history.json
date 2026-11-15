@@ -3309,5 +3309,16 @@
     "odds": 1.59,
     "prob": 61.9,
     "result": "W"
+  },
+  {
+    "id": "5d8d85473b87f772a979ecf294acab94|h2h|home|",
+    "date": "2026-11-15",
+    "league": "NFL",
+    "home": "Green Bay Packers",
+    "away": "Minnesota Vikings",
+    "selection": "Green Bay Packers ML",
+    "odds": 1.69,
+    "prob": 58,
+    "result": "L"
   }
 ]

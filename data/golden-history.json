@@ -194,5 +194,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "5d8d85473b87f772a979ecf294acab94|golden|h2h|away|",
+    "date": "2026-11-15",
+    "league": "NFL",
+    "home": "Green Bay Packers",
+    "away": "Minnesota Vikings",
+    "selection": "Minnesota Vikings ML",
+    "odds": 2.3,
+    "prob": 63,
+    "result": "W",
+    "models": [
+      "ai"
+    ]
   }
 ]

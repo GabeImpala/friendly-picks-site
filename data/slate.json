@@ -427,28 +427,5 @@
     "publishedOdds": 1.77,
     "live": true,
     "aiHomeProb": 60.4
-  },
-  {
-    "id": "5d8d85473b87f772a979ecf294acab94",
-    "league": "NFL",
-    "kickoff": "2026-11-15T18:00:00Z",
-    "venue": "",
-    "home": "Green Bay Packers",
-    "away": "Minnesota Vikings",
-    "market": "Moneyline",
-    "selection": "Green Bay Packers ML",
-    "odds": 1.69,
-    "openOdds": 1.65,
-    "baseProb": 58,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.69,
-    "live": true,
-    "aiHomeProb": 37
   }
 ]
