@@ -3265,5 +3265,27 @@
     "odds": 1.43,
     "prob": 68.9,
     "result": "L"
+  },
+  {
+    "id": "20f100d5b4c8ce5d8c868f34ea7bddbf|spread|home|1.5",
+    "date": "2026-11-14",
+    "league": "NHL",
+    "home": "Boston Bruins",
+    "away": "Minnesota Wild",
+    "selection": "Boston Bruins +1.5",
+    "odds": 1.43,
+    "prob": 69,
+    "result": "L"
+  },
+  {
+    "id": "77dfcbc978ae3818dc04d2434342bc48|spread|home|1.5",
+    "date": "2026-11-14",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Florida Panthers",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.43,
+    "prob": 69.6,
+    "result": "L"
   }
 ]

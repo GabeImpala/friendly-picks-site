@@ -180,5 +180,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "77dfcbc978ae3818dc04d2434342bc48|golden|spread|home|1.5",
+    "date": "2026-11-14",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Florida Panthers",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.43,
+    "prob": 69.6,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]
