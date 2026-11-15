@@ -13,7 +13,7 @@
     },
     "odds": 1.77,
     "prob": 60.4,
-    "live": false
+    "live": true
   },
   {
     "id": "5d8d85473b87f772a979ecf294acab94|ai",
@@ -29,6 +29,6 @@
     },
     "odds": 2.34,
     "prob": 63,
-    "live": false
+    "live": true
   }
 ]

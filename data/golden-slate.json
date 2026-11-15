@@ -20,6 +20,6 @@
     "models": [
       "ai"
     ],
-    "live": false
+    "live": true
   }
 ]
