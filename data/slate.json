@@ -25,50 +25,5 @@
       "precip": "None",
       "roof": "open"
     }
-  },
-  {
-    "id": "edbb603c4a7ed77b892f7bba6dcef824",
-    "league": "NHL",
-    "kickoff": "2026-11-16T01:10:00Z",
-    "venue": "",
-    "home": "Dallas Stars",
-    "away": "Florida Panthers",
-    "market": "Moneyline",
-    "selection": "Dallas Stars ML",
-    "odds": 1.77,
-    "openOdds": 1.77,
-    "baseProb": 55.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.77,
-    "live": true
-  },
-  {
-    "id": "c4ac537963707b247ad9e4eab06c15de",
-    "league": "NHL",
-    "kickoff": "2026-11-16T02:10:00Z",
-    "venue": "",
-    "home": "Vegas Golden Knights",
-    "away": "Vancouver Canucks",
-    "market": "Spread",
-    "selection": "Vegas Golden Knights -1.5",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 58.1,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.7,
-    "live": true
   }
 ]

@@ -3331,5 +3331,27 @@
     "odds": 1.69,
     "prob": 58,
     "result": "L"
+  },
+  {
+    "id": "edbb603c4a7ed77b892f7bba6dcef824|h2h|home|",
+    "date": "2026-11-15",
+    "league": "NHL",
+    "home": "Dallas Stars",
+    "away": "Florida Panthers",
+    "selection": "Dallas Stars ML",
+    "odds": 1.77,
+    "prob": 55.4,
+    "result": "W"
+  },
+  {
+    "id": "c4ac537963707b247ad9e4eab06c15de|spread|home|-1.5",
+    "date": "2026-11-15",
+    "league": "NHL",
+    "home": "Vegas Golden Knights",
+    "away": "Vancouver Canucks",
+    "selection": "Vegas Golden Knights -1.5",
+    "odds": 1.7,
+    "prob": 58.1,
+    "result": "L"
   }
 ]

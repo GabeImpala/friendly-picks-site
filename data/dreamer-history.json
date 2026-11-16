@@ -3936,5 +3936,88 @@
     "publishedAt": "2026-11-14T14:03:47.707Z",
     "result": "L",
     "settledAt": "2026-11-15T06:00:21.717Z"
+  },
+  {
+    "day": "2026-11-15",
+    "legs": [
+      {
+        "eventId": "c4ac537963707b247ad9e4eab06c15de",
+        "league": "NHL",
+        "kickoff": "2026-11-16T02:10:00Z",
+        "home": "Vegas Golden Knights",
+        "away": "Vancouver Canucks",
+        "market": "Spread",
+        "selection": "Vegas Golden Knights -1.5",
+        "odds": 1.68,
+        "prob": 58.5,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": -1.5
+        },
+        "homeScore": 3,
+        "awayScore": 6,
+        "result": "L"
+      },
+      {
+        "eventId": "5d8d85473b87f772a979ecf294acab94",
+        "league": "NFL",
+        "kickoff": "2026-11-15T18:00:00Z",
+        "home": "Green Bay Packers",
+        "away": "Minnesota Vikings",
+        "market": "Moneyline",
+        "selection": "Green Bay Packers ML",
+        "odds": 1.69,
+        "prob": 57.1,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 10,
+        "awayScore": 30,
+        "result": "L"
+      },
+      {
+        "eventId": "edbb603c4a7ed77b892f7bba6dcef824",
+        "league": "NHL",
+        "kickoff": "2026-11-16T01:10:00Z",
+        "home": "Dallas Stars",
+        "away": "Florida Panthers",
+        "market": "Moneyline",
+        "selection": "Dallas Stars ML",
+        "odds": 1.77,
+        "prob": 54.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "e5aa20e1364dd639f042af1c2281bbe2",
+        "league": "NFL",
+        "kickoff": "2026-11-15T18:00:00Z",
+        "home": "New Orleans Saints",
+        "away": "Carolina Panthers",
+        "market": "Moneyline",
+        "selection": "New Orleans Saints ML",
+        "odds": 1.93,
+        "prob": 51.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 17,
+        "awayScore": 20,
+        "result": "L"
+      }
+    ],
+    "odds": 9.698991119999999,
+    "hitChance": 9.37,
+    "publishedAt": "2026-11-15T15:15:17.864Z",
+    "result": "L",
+    "settledAt": "2026-11-16T06:00:25.742Z"
   }
 ]
