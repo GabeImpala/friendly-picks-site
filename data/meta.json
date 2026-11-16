@@ -1,13 +1,21 @@
 {
-  "updatedAt": "2026-11-16T12:32:17.245Z",
+  "updatedAt": "2026-11-16T15:15:21.014Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
-  "fullRunAt": "2026-11-15T15:15:17.864Z",
+  "fullRunAt": "2026-11-16T15:15:21.014Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 19092,
+  "creditsRemaining": 19083,
   "info": [
     "This run could spend up to 106 credits (1067 left this cycle).",
-    "Settle-only run: skipped fetching new odds.",
-    "Used 0 credits this run."
+    "LIGA MX: no games in the next 36 hours, no credits used.",
+    "EPL: no games in the next 36 hours, no credits used.",
+    "CHAMPIONS LEAGUE: no games in the next 36 hours, no credits used.",
+    "LA LIGA: no games in the next 36 hours, no credits used.",
+    "SERIE A: no games in the next 36 hours, no credits used.",
+    "Golden Pick: none today. no model produced a bet to choose from.",
+    "Used 9 credits this run."
+  ],
+  "errors": [
+    "Weather Baltimore Ravens: Request failed after 3 tries: fetch failed"
   ]
 }
