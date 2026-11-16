@@ -1,5 +1,32 @@
 [
   {
+    "id": "35e3bdff558b5d1506251e814986f164",
+    "league": "NFL",
+    "kickoff": "2026-11-17T01:15:00Z",
+    "venue": "",
+    "home": "Baltimore Ravens",
+    "away": "Los Angeles Chargers",
+    "market": "Moneyline",
+    "selection": "Los Angeles Chargers ML",
+    "odds": 2.95,
+    "openOdds": 2.88,
+    "baseProb": 33.3,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 43.6,
+      "windMph": 5.1,
+      "precip": "None",
+      "roof": "open"
+    },
+    "aiHomeProb": 66.7
+  },
+  {
     "id": "7c2ac54a119f461bf8fc1a23da536f29",
     "league": "NBA",
     "kickoff": "2026-11-17T00:10:00Z",
@@ -426,32 +453,5 @@
       "side": "under",
       "line": 5.5
     }
-  },
-  {
-    "id": "35e3bdff558b5d1506251e814986f164",
-    "league": "NFL",
-    "kickoff": "2026-11-17T01:15:00Z",
-    "venue": "",
-    "home": "Baltimore Ravens",
-    "away": "Los Angeles Chargers",
-    "market": "Moneyline",
-    "selection": "Los Angeles Chargers ML",
-    "odds": 2.95,
-    "openOdds": 2.88,
-    "baseProb": 33.3,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 43.6,
-      "windMph": 5.1,
-      "precip": "None",
-      "roof": "open"
-    },
-    "aiHomeProb": 66.7
   }
 ]
