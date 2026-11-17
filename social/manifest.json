@@ -1,32 +1,4 @@
 {
   "day": "2026-11-17",
-  "posts": [
-    {
-      "id": "recap",
-      "file": "2026-11-17-recap.png",
-      "caption": "Yesterday's results - Monday, November 16\n- Philadelphia 76ers ML (Philadelphia 76ers at Brooklyn Nets) @ 1.53: WON +0.53u\nThe day: 1-0 (+0.5u).\nOriginal model record: 178-124-4 (+22.0u). Wins and losses are all public.\n\nFor entertainment only. Not betting advice, no pick is guaranteed. 21+. Problem gambling? 1-800-GAMBLER.\n\nfriendlypicks.net\n\n#sportsanalytics #dailypicks #friendlypicks"
-    },
-    {
-      "id": "golden",
-      "file": "2026-11-17-golden.png",
-      "caption": "Developer's Choice for Tuesday, November 17\nColumbus Blue Jackets +1.5 (Spread) - Columbus Blue Jackets at New York Islanders, NHL, 6:10 PM CT\nBest price found: 1.50 | Chance: 66% | 1 of 3 methods agree\nRecord so far: 12-4 (+3.5u). Wins and losses are all public on the site.\n\nFor entertainment only. Not betting advice, no pick is guaranteed. 21+. Problem gambling? 1-800-GAMBLER.\n\nfriendlypicks.net\n\n#sportsanalytics #dailypicks #friendlypicks"
-    },
-    {
-      "id": "summary",
-      "file": "2026-11-17-summary.png",
-      "caption": "Today's picks - Tuesday, November 17\n- Columbus Blue Jackets +1.5 (Columbus Blue Jackets at New York Islanders) @ 1.50, 66%\n- Anaheim Ducks +1.5 (Anaheim Ducks at St Louis Blues) @ 1.51, 65%\nOriginal model record: 178-124-4 (+22.0u). Wins and losses are all public.\n\nFor entertainment only. Not betting advice, no pick is guaranteed. 21+. Problem gambling? 1-800-GAMBLER.\n\nfriendlypicks.net\n\n#sportsanalytics #dailypicks #friendlypicks"
-    },
-    {
-      "id": "learn",
-      "key": "edu-2026-11-17",
-      "file": "2026-11-17-learn-ev-1.png",
-      "files": [
-        "2026-11-17-learn-ev-1.png",
-        "2026-11-17-learn-ev-2.png",
-        "2026-11-17-learn-ev-3.png",
-        "2026-11-17-learn-ev-4.png"
-      ],
-      "caption": "Learn: What is EV?\nThe number that matters more than win rate.\n\nEvery price has a break-even point.\nAt odds 2.00 you must win 50% of the time just to break even.\nAt 1.80 you need 55.6%. At 1.50 you need 66.7%.\n\nEV = chance × odds − 1.\n55% chance at odds 2.00: 0.55 × 2.00 − 1 = +10% EV.\nThe same 55% at odds 1.80: 0.55 × 1.80 − 1 = −1% EV.\nSame pick, different price. One has value, one does not.\n\nLikely to win is not the same as worth the price. Every card shows both: Chance and EV.\n\nFor entertainment only. Not betting advice, no pick is guaranteed. 21+. Problem gambling? 1-800-GAMBLER.\n\nfriendlypicks.net\n\n#sportsanalytics #dailypicks #friendlypicks"
-    }
-  ]
+  "posts": []
 }
