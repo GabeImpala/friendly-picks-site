@@ -224,27 +224,5 @@
       "side": "under",
       "line": 5.5
     }
-  },
-  {
-    "id": "efd4d1a289cc2aca91d30116e3629d1f",
-    "league": "NBA",
-    "kickoff": "2026-11-17T00:40:00Z",
-    "venue": "",
-    "home": "Brooklyn Nets",
-    "away": "Philadelphia 76ers",
-    "market": "Moneyline",
-    "selection": "Philadelphia 76ers ML",
-    "odds": 1.53,
-    "openOdds": 1.48,
-    "baseProb": 64.6,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.53,
-    "live": true
   }
 ]
