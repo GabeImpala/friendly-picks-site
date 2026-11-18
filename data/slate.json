@@ -1,5 +1,32 @@
 [
   {
+    "id": "66f9e83cf025d58acee12bce18661fb3",
+    "league": "NFL",
+    "kickoff": "2026-11-20T01:15:00Z",
+    "venue": "",
+    "home": "Houston Texans",
+    "away": "Indianapolis Colts",
+    "market": "Spread",
+    "selection": "Indianapolis Colts +12.5",
+    "odds": 1.95,
+    "openOdds": 1.95,
+    "baseProb": 50.1,
+    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 12.5
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
     "id": "b7e3f453045a3162b3c4940f4b50ff32",
     "league": "NBA",
     "kickoff": "2026-11-19T00:10:00Z",
@@ -301,33 +328,6 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
-  },
-  {
-    "id": "66f9e83cf025d58acee12bce18661fb3",
-    "league": "NFL",
-    "kickoff": "2026-11-20T01:15:00Z",
-    "venue": "",
-    "home": "Houston Texans",
-    "away": "Indianapolis Colts",
-    "market": "Spread",
-    "selection": "Indianapolis Colts +12.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 12.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
     }
   }
 ]
