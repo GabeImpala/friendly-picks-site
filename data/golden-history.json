@@ -222,5 +222,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "03ad7eb1b11b6d15943b734624469fdf|golden|spread|away|1.5",
+    "date": "2026-11-17",
+    "league": "NHL",
+    "home": "New York Islanders",
+    "away": "Columbus Blue Jackets",
+    "selection": "Columbus Blue Jackets +1.5",
+    "odds": 1.5,
+    "prob": 65.7,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]

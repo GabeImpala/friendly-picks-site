@@ -4019,5 +4019,109 @@
     "publishedAt": "2026-11-15T15:15:17.864Z",
     "result": "L",
     "settledAt": "2026-11-16T06:00:25.742Z"
+  },
+  {
+    "day": "2026-11-17",
+    "legs": [
+      {
+        "eventId": "6238e006f875cb22d570c5eda2dfe820",
+        "league": "NHL",
+        "kickoff": "2026-11-18T03:10:00Z",
+        "home": "San Jose Sharks",
+        "away": "Calgary Flames",
+        "market": "Spread",
+        "selection": "Calgary Flames +1.5",
+        "odds": 1.48,
+        "prob": 67.3,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "03ad7eb1b11b6d15943b734624469fdf",
+        "league": "NHL",
+        "kickoff": "2026-11-18T00:10:00Z",
+        "home": "New York Islanders",
+        "away": "Columbus Blue Jackets",
+        "market": "Spread",
+        "selection": "Columbus Blue Jackets +1.5",
+        "odds": 1.5,
+        "prob": 65.7,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "87e99dffdbf06748171533ee8ba96f75",
+        "league": "NHL",
+        "kickoff": "2026-11-18T01:10:00Z",
+        "home": "St Louis Blues",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.51,
+        "prob": 64.6,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 8,
+        "awayScore": 6,
+        "result": "L"
+      },
+      {
+        "eventId": "5cfe0dc8ffa69bdd676d878da0ae62fb",
+        "league": "NHL",
+        "kickoff": "2026-11-18T00:10:00Z",
+        "home": "Boston Bruins",
+        "away": "Los Angeles Kings",
+        "market": "Spread",
+        "selection": "Los Angeles Kings +1.5",
+        "odds": 1.57,
+        "prob": 62.8,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 0,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "8261a14ac1f636f0b382af43b97ef915",
+        "league": "NHL",
+        "kickoff": "2026-11-18T00:40:00Z",
+        "home": "Chicago Blackhawks",
+        "away": "Toronto Maple Leafs",
+        "market": "Moneyline",
+        "selection": "Toronto Maple Leafs ML",
+        "odds": 1.7,
+        "prob": 58.1,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 6,
+        "awayScore": 3,
+        "result": "L"
+      }
+    ],
+    "odds": 8.9470218,
+    "hitChance": 10.42,
+    "publishedAt": "2026-11-17T15:15:21.398Z",
+    "result": "L",
+    "settledAt": "2026-11-18T06:00:28.472Z"
   }
 ]
