@@ -236,5 +236,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "990b541d0ada46fce07ce8b502cf425c|golden|h2h|away|",
+    "date": "2026-11-18",
+    "league": "NBA",
+    "home": "New Orleans Pelicans",
+    "away": "Detroit Pistons",
+    "selection": "Detroit Pistons ML",
+    "odds": 1.42,
+    "prob": 69.4,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

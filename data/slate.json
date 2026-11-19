@@ -27,68 +27,6 @@
     }
   },
   {
-    "id": "2adabff2dca8b2ed4b39540a6a25ffb2",
-    "league": "NBA",
-    "kickoff": "2026-11-19T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Utah Jazz",
-    "market": "Total",
-    "selection": "Under 230.5",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 230.5
-    }
-  },
-  {
-    "id": "4bdafbab228335fd29f62006a4bc932d",
-    "league": "NBA",
-    "kickoff": "2026-11-19T03:10:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "Phoenix Suns",
-    "market": "Moneyline",
-    "selection": "Sacramento Kings ML",
-    "odds": 3.35,
-    "openOdds": 3.25,
-    "baseProb": 29.7,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "af8d9e2567d44dcbb4a548272d876b6b",
-    "league": "NHL",
-    "kickoff": "2026-11-19T03:10:00Z",
-    "venue": "",
-    "home": "Utah Mammoth",
-    "away": "Colorado Avalanche",
-    "market": "Spread",
-    "selection": "Colorado Avalanche +1.5",
-    "odds": 1.4,
-    "openOdds": 1.42,
-    "baseProb": 70.4,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    }
-  },
-  {
     "id": "6e1de7988dd0c9689abb85f6b8399336",
     "league": "NHL",
     "kickoff": "2026-11-20T00:10:00Z",
@@ -340,47 +278,26 @@
     }
   },
   {
-    "id": "5896e4ed2ed41ce673e882b6529078b8",
-    "league": "NBA",
-    "kickoff": "2026-11-19T00:40:00Z",
+    "id": "af8d9e2567d44dcbb4a548272d876b6b",
+    "league": "NHL",
+    "kickoff": "2026-11-19T03:10:00Z",
     "venue": "",
-    "home": "Toronto Raptors",
-    "away": "Washington Wizards",
-    "market": "Moneyline",
-    "selection": "Toronto Raptors ML",
-    "odds": 1.44,
-    "openOdds": 1.44,
-    "baseProb": 68.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.44,
-    "live": true
-  },
-  {
-    "id": "990b541d0ada46fce07ce8b502cf425c",
-    "league": "NBA",
-    "kickoff": "2026-11-19T01:10:00Z",
-    "venue": "",
-    "home": "New Orleans Pelicans",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 1.42,
+    "home": "Utah Mammoth",
+    "away": "Colorado Avalanche",
+    "market": "Spread",
+    "selection": "Colorado Avalanche +1.5",
+    "odds": 1.4,
     "openOdds": 1.42,
-    "baseProb": 69.4,
+    "baseProb": 70.4,
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "h2h",
-      "side": "away"
+      "type": "spread",
+      "side": "away",
+      "line": 1.5
     },
     "locked": true,
-    "publishedOdds": 1.42,
+    "publishedOdds": 1.4,
     "live": true
   }
 ]
