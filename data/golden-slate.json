@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "3e6894e350f62db024db622aedba4507|golden|h2h|away|",
+    "day": "2026-11-19",
+    "league": "NHL",
+    "kickoff": "2026-11-20T01:10:00Z",
+    "home": "Calgary Flames",
+    "away": "Minnesota Wild",
+    "market": "Moneyline",
+    "selection": "Minnesota Wild ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.46,
+    "prob": 66.8,
+    "ev": -0.025,
+    "edge": -1.7,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
