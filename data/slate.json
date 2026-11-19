@@ -276,28 +276,5 @@
       "side": "away",
       "line": 1.5
     }
-  },
-  {
-    "id": "af8d9e2567d44dcbb4a548272d876b6b",
-    "league": "NHL",
-    "kickoff": "2026-11-19T03:10:00Z",
-    "venue": "",
-    "home": "Utah Mammoth",
-    "away": "Colorado Avalanche",
-    "market": "Spread",
-    "selection": "Colorado Avalanche +1.5",
-    "odds": 1.4,
-    "openOdds": 1.42,
-    "baseProb": 70.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.4,
-    "live": true
   }
 ]

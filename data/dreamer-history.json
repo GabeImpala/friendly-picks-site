@@ -4123,5 +4123,106 @@
     "publishedAt": "2026-11-17T15:15:21.398Z",
     "result": "L",
     "settledAt": "2026-11-18T06:00:28.472Z"
+  },
+  {
+    "day": "2026-11-18",
+    "legs": [
+      {
+        "eventId": "af8d9e2567d44dcbb4a548272d876b6b",
+        "league": "NHL",
+        "kickoff": "2026-11-19T03:10:00Z",
+        "home": "Utah Mammoth",
+        "away": "Colorado Avalanche",
+        "market": "Spread",
+        "selection": "Colorado Avalanche +1.5",
+        "odds": 1.4,
+        "prob": 70.4,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "e0d8f7b450122679865f9a80b048908b",
+        "league": "NBA",
+        "kickoff": "2026-11-19T01:10:00Z",
+        "home": "Oklahoma City Thunder",
+        "away": "Atlanta Hawks",
+        "market": "Moneyline",
+        "selection": "Oklahoma City Thunder ML",
+        "odds": 1.42,
+        "prob": 69.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 112,
+        "awayScore": 117,
+        "result": "L"
+      },
+      {
+        "eventId": "990b541d0ada46fce07ce8b502cf425c",
+        "league": "NBA",
+        "kickoff": "2026-11-19T01:10:00Z",
+        "home": "New Orleans Pelicans",
+        "away": "Detroit Pistons",
+        "market": "Moneyline",
+        "selection": "Detroit Pistons ML",
+        "odds": 1.57,
+        "prob": 62.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 109,
+        "awayScore": 122,
+        "result": "W"
+      },
+      {
+        "eventId": "635a9b07c018a821e08b521ea473133b",
+        "league": "NBA",
+        "kickoff": "2026-11-19T00:10:00Z",
+        "home": "Orlando Magic",
+        "away": "Philadelphia 76ers",
+        "market": "Moneyline",
+        "selection": "Orlando Magic ML",
+        "odds": 1.57,
+        "prob": 62.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 116,
+        "awayScore": 121,
+        "result": "L"
+      },
+      {
+        "eventId": "5896e4ed2ed41ce673e882b6529078b8",
+        "league": "NBA",
+        "kickoff": "2026-11-19T00:40:00Z",
+        "home": "Toronto Raptors",
+        "away": "Washington Wizards",
+        "market": "Moneyline",
+        "selection": "Toronto Raptors ML",
+        "odds": 1.59,
+        "prob": 61.5,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 99,
+        "awayScore": 103,
+        "result": "L"
+      }
+    ],
+    "odds": 7.7913517080000005,
+    "hitChance": 11.81,
+    "publishedAt": "2026-11-19T00:01:58.239Z",
+    "result": "L",
+    "settledAt": "2026-11-19T12:39:08.200Z"
   }
 ]

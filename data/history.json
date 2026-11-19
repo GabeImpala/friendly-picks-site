@@ -3430,5 +3430,16 @@
     "odds": 1.42,
     "prob": 69.4,
     "result": "W"
+  },
+  {
+    "id": "af8d9e2567d44dcbb4a548272d876b6b|spread|away|1.5",
+    "date": "2026-11-18",
+    "league": "NHL",
+    "home": "Utah Mammoth",
+    "away": "Colorado Avalanche",
+    "selection": "Colorado Avalanche +1.5",
+    "odds": 1.4,
+    "prob": 70.4,
+    "result": "L"
   }
 ]
