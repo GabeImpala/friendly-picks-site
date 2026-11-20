@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "7a62fe738bd20cfff6027c52fec05d51|edge|h2h|away|",
+    "eventId": "7a62fe738bd20cfff6027c52fec05d51",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-22T20:00:00Z",
+    "home": "Getafe",
+    "away": "Atlético Madrid",
+    "market": "Match result",
+    "selection": "Atlético Madrid to win",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.66,
+    "openOdds": 1.66,
+    "fairProb": 62.5,
+    "modelProb": 62.5,
+    "consProb": 61.5,
+    "edge": 2.2,
+    "ev": 0.02,
+    "stakePct": 0.007706237833185975,
+    "books": 19,
+    "devigMethod": "power",
+    "offConsensus": true,
+    "locked": true,
+    "publishedOdds": 1.66,
+    "live": false
+  }
+]
