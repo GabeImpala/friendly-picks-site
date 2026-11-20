@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "9051693857c6a0e5e1bc6bb2b4f6fe35|golden|h2h|home|",
+    "day": "2026-11-20",
+    "league": "NBA",
+    "kickoff": "2026-11-21T00:40:00Z",
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
+    "market": "Moneyline",
+    "selection": "Detroit Pistons ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.42,
+    "prob": 69.7,
+    "ev": -0.01,
+    "edge": -0.7,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
