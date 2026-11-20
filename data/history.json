@@ -3441,5 +3441,38 @@
     "odds": 1.4,
     "prob": 70.4,
     "result": "L"
+  },
+  {
+    "id": "3e6894e350f62db024db622aedba4507|h2h|away|",
+    "date": "2026-11-19",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Minnesota Wild",
+    "selection": "Minnesota Wild ML",
+    "odds": 1.5,
+    "prob": 65.5,
+    "result": "W"
+  },
+  {
+    "id": "8689e63a36a8d62c4eba2fc402bb4f0c|spread|away|1.5",
+    "date": "2026-11-19",
+    "league": "NHL",
+    "home": "Colorado Avalanche",
+    "away": "Anaheim Ducks",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.55,
+    "prob": 63.6,
+    "result": "L"
+  },
+  {
+    "id": "3c082b72aa002131c276ff5e24bada1b|h2h|home|",
+    "date": "2026-11-19",
+    "league": "NBA",
+    "home": "Memphis Grizzlies",
+    "away": "Golden State Warriors",
+    "selection": "Memphis Grizzlies ML",
+    "odds": 1.5,
+    "prob": 65.5,
+    "result": "W"
   }
 ]

@@ -250,5 +250,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "3e6894e350f62db024db622aedba4507|golden|h2h|away|",
+    "date": "2026-11-19",
+    "league": "NHL",
+    "home": "Calgary Flames",
+    "away": "Minnesota Wild",
+    "selection": "Minnesota Wild ML",
+    "odds": 1.46,
+    "prob": 66.8,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

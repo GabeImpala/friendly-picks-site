@@ -4224,5 +4224,108 @@
     "publishedAt": "2026-11-19T00:01:58.239Z",
     "result": "L",
     "settledAt": "2026-11-19T12:39:08.200Z"
+  },
+  {
+    "day": "2026-11-19",
+    "legs": [
+      {
+        "eventId": "3e6894e350f62db024db622aedba4507",
+        "league": "NHL",
+        "kickoff": "2026-11-20T01:10:00Z",
+        "home": "Calgary Flames",
+        "away": "Minnesota Wild",
+        "market": "Moneyline",
+        "selection": "Minnesota Wild ML",
+        "odds": 1.46,
+        "prob": 66.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 1,
+        "awayScore": 4,
+        "result": "W"
+      },
+      {
+        "eventId": "8689e63a36a8d62c4eba2fc402bb4f0c",
+        "league": "NHL",
+        "kickoff": "2026-11-20T02:10:00Z",
+        "home": "Colorado Avalanche",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.48,
+        "prob": 65.4,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 0,
+        "result": "L"
+      },
+      {
+        "eventId": "7f30902099116c9c5824e85201be7d60",
+        "league": "NHL",
+        "kickoff": "2026-11-20T01:10:00Z",
+        "home": "Chicago Blackhawks",
+        "away": "Columbus Blue Jackets",
+        "market": "Spread",
+        "selection": "Chicago Blackhawks +1.5",
+        "odds": 1.57,
+        "prob": 62.7,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 4,
+        "result": "L"
+      },
+      {
+        "eventId": "84d6f3a55d9aac25cd001f3d94aab44b",
+        "league": "NHL",
+        "kickoff": "2026-11-20T00:10:00Z",
+        "home": "Ottawa Senators",
+        "away": "Philadelphia Flyers",
+        "market": "Spread",
+        "selection": "Philadelphia Flyers +1.5",
+        "odds": 1.62,
+        "prob": 60.6,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 6,
+        "result": "W"
+      },
+      {
+        "eventId": "64955eccc864e1b34e23754d71319db4",
+        "league": "NHL",
+        "kickoff": "2026-11-20T02:50:00Z",
+        "home": "Seattle Kraken",
+        "away": "Vancouver Canucks",
+        "market": "Moneyline",
+        "selection": "Seattle Kraken ML",
+        "odds": 1.64,
+        "prob": 60.1,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 5,
+        "awayScore": 1,
+        "result": "W"
+      }
+    ],
+    "odds": 9.0130771008,
+    "hitChance": 9.98,
+    "publishedAt": "2026-11-19T15:15:20.959Z",
+    "result": "L",
+    "settledAt": "2026-11-20T06:00:29.218Z"
   }
 ]
