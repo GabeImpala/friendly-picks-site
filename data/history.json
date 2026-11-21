@@ -3474,5 +3474,16 @@
     "odds": 1.5,
     "prob": 65.5,
     "result": "W"
+  },
+  {
+    "id": "dcee36f9b8a9989972b6d4ddde76c4c7|h2h|home|",
+    "date": "2026-11-20",
+    "league": "LA LIGA",
+    "home": "Athletic Bilbao",
+    "away": "Espanyol",
+    "selection": "Athletic Bilbao to win",
+    "odds": 1.53,
+    "prob": 64.5,
+    "result": "L"
   }
 ]
