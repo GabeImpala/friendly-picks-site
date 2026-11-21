@@ -3485,5 +3485,16 @@
     "odds": 1.53,
     "prob": 64.5,
     "result": "L"
+  },
+  {
+    "id": "f8ad540db00e4a4a360d67dfcb7a53b8|h2h|home|",
+    "date": "2026-11-20",
+    "league": "NBA",
+    "home": "Atlanta Hawks",
+    "away": "Charlotte Hornets",
+    "selection": "Atlanta Hawks ML",
+    "odds": 1.44,
+    "prob": 68.1,
+    "result": "W"
   }
 ]

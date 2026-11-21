@@ -291,152 +291,6 @@
     "aiHomeProb": 27.4
   },
   {
-    "id": "f8ad540db00e4a4a360d67dfcb7a53b8",
-    "league": "NBA",
-    "kickoff": "2026-11-21T00:10:00Z",
-    "venue": "",
-    "home": "Atlanta Hawks",
-    "away": "Charlotte Hornets",
-    "market": "Moneyline",
-    "selection": "Atlanta Hawks ML",
-    "odds": 1.41,
-    "openOdds": 1.44,
-    "baseProb": 69.3,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.44
-  },
-  {
-    "id": "6e1faf38d3fed9e0396d6613891770e1",
-    "league": "NBA",
-    "kickoff": "2026-11-21T00:40:00Z",
-    "venue": "",
-    "home": "Brooklyn Nets",
-    "away": "Orlando Magic",
-    "market": "Moneyline",
-    "selection": "Brooklyn Nets ML",
-    "odds": 3.17,
-    "openOdds": 3,
-    "baseProb": 31,
-    "baselineNote": "Consensus of 11 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "10e9b9aca502ce158d6a3a91bf00bfd2",
-    "league": "NBA",
-    "kickoff": "2026-11-21T00:40:00Z",
-    "venue": "",
-    "home": "Cleveland Cavaliers",
-    "away": "Indiana Pacers",
-    "market": "Moneyline",
-    "selection": "Cleveland Cavaliers ML",
-    "odds": 1.48,
-    "openOdds": 1.44,
-    "baseProb": 66.6,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "9051693857c6a0e5e1bc6bb2b4f6fe35",
-    "league": "NBA",
-    "kickoff": "2026-11-21T00:40:00Z",
-    "venue": "",
-    "home": "Detroit Pistons",
-    "away": "Toronto Raptors",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 1.4,
-    "openOdds": 1.42,
-    "baseProb": 70,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.42
-  },
-  {
-    "id": "d6ed1e97c331fc604506e4c354ab1cdc",
-    "league": "NBA",
-    "kickoff": "2026-11-21T01:10:00Z",
-    "venue": "",
-    "home": "Chicago Bulls",
-    "away": "Washington Wizards",
-    "market": "Spread",
-    "selection": "Washington Wizards +2.5",
-    "odds": 1.93,
-    "openOdds": 1.95,
-    "baseProb": 50.7,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "17e3a8dc71275a88b19d0d6750a5052c",
-    "league": "NBA",
-    "kickoff": "2026-11-21T01:10:00Z",
-    "venue": "",
-    "home": "Oklahoma City Thunder",
-    "away": "New Orleans Pelicans",
-    "market": "Spread",
-    "selection": "New Orleans Pelicans +11.5",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 10 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 11.5
-    }
-  },
-  {
-    "id": "ee204ae35d677450476eab6ad6a146a7",
-    "league": "NBA",
-    "kickoff": "2026-11-21T02:40:00Z",
-    "venue": "",
-    "home": "Utah Jazz",
-    "away": "Phoenix Suns",
-    "market": "Moneyline",
-    "selection": "Utah Jazz ML",
-    "odds": 2.62,
-    "openOdds": 2.6,
-    "baseProb": 37.4,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "086d2fe80483ffcc280994fe2e12d4f4",
     "league": "NBA",
     "kickoff": "2026-11-21T03:10:00Z",
@@ -477,62 +331,6 @@
       "side": "away",
       "line": 14
     }
-  },
-  {
-    "id": "40846f0ceef5db45bac4e5a3a72dcc57",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-21T01:00:00Z",
-    "venue": "",
-    "home": "Puebla",
-    "away": "Atlético San Luis",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.64,
-    "openOdds": 1.64,
-    "baseProb": 60.2,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 65.8,
-      "windMph": 4.8,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.64
-  },
-  {
-    "id": "1abcf514f875d7be5251e1afa961323f",
-    "league": "LIGA MX",
-    "kickoff": "2026-11-21T03:00:00Z",
-    "venue": "",
-    "home": "FC Juárez",
-    "away": "Atlas",
-    "market": "Both teams to score",
-    "selection": "Both teams to score: Yes",
-    "odds": 1.67,
-    "openOdds": 1.67,
-    "baseProb": 58.8,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "btts",
-      "side": "yes"
-    },
-    "weather": {
-      "tempF": 59.2,
-      "windMph": 5.4,
-      "precip": "None",
-      "roof": "open"
-    },
-    "locked": true,
-    "publishedOdds": 1.67
   },
   {
     "id": "264c6eae15dd1aa5e2189c58d409c5b0",
@@ -1620,5 +1418,71 @@
       "type": "h2h",
       "side": "home"
     }
+  },
+  {
+    "id": "9051693857c6a0e5e1bc6bb2b4f6fe35",
+    "league": "NBA",
+    "kickoff": "2026-11-21T00:40:00Z",
+    "venue": "",
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
+    "market": "Moneyline",
+    "selection": "Detroit Pistons ML",
+    "odds": 1.42,
+    "openOdds": 1.42,
+    "baseProb": 69.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.42,
+    "live": true
+  },
+  {
+    "id": "40846f0ceef5db45bac4e5a3a72dcc57",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "venue": "",
+    "home": "Puebla",
+    "away": "Atlético San Luis",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.64,
+    "openOdds": 1.64,
+    "baseProb": 60.2,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "locked": true,
+    "publishedOdds": 1.64,
+    "live": true
+  },
+  {
+    "id": "1abcf514f875d7be5251e1afa961323f",
+    "league": "LIGA MX",
+    "kickoff": "2026-11-21T03:00:00Z",
+    "venue": "",
+    "home": "FC Juárez",
+    "away": "Atlas",
+    "market": "Both teams to score",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.67,
+    "openOdds": 1.67,
+    "baseProb": 58.8,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "btts",
+      "side": "yes"
+    },
+    "locked": true,
+    "publishedOdds": 1.67,
+    "live": true
   }
 ]
