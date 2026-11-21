@@ -4327,5 +4327,141 @@
     "publishedAt": "2026-11-19T15:15:20.959Z",
     "result": "L",
     "settledAt": "2026-11-20T06:00:29.218Z"
+  },
+  {
+    "day": "2026-11-20",
+    "legs": [
+      {
+        "eventId": "9051693857c6a0e5e1bc6bb2b4f6fe35",
+        "league": "NBA",
+        "kickoff": "2026-11-21T00:40:00Z",
+        "home": "Detroit Pistons",
+        "away": "Toronto Raptors",
+        "market": "Moneyline",
+        "selection": "Detroit Pistons ML",
+        "odds": 1.42,
+        "prob": 69.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 102,
+        "awayScore": 105,
+        "result": "L"
+      },
+      {
+        "eventId": "f8ad540db00e4a4a360d67dfcb7a53b8",
+        "league": "NBA",
+        "kickoff": "2026-11-21T00:10:00Z",
+        "home": "Atlanta Hawks",
+        "away": "Charlotte Hornets",
+        "market": "Moneyline",
+        "selection": "Atlanta Hawks ML",
+        "odds": 1.44,
+        "prob": 68.1,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 111,
+        "awayScore": 97,
+        "result": "W"
+      },
+      {
+        "eventId": "dcee36f9b8a9989972b6d4ddde76c4c7",
+        "league": "LA LIGA",
+        "kickoff": "2026-11-20T20:00:00Z",
+        "home": "Athletic Bilbao",
+        "away": "Espanyol",
+        "market": "Match result",
+        "selection": "Athletic Bilbao to win",
+        "odds": 1.53,
+        "prob": 64.7,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 0,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "ee204ae35d677450476eab6ad6a146a7",
+        "league": "NBA",
+        "kickoff": "2026-11-21T02:40:00Z",
+        "home": "Utah Jazz",
+        "away": "Phoenix Suns",
+        "market": "Moneyline",
+        "selection": "Phoenix Suns ML",
+        "odds": 1.59,
+        "prob": 61.9,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 101,
+        "awayScore": 111,
+        "result": "W"
+      },
+      {
+        "eventId": "40846f0ceef5db45bac4e5a3a72dcc57",
+        "league": "LIGA MX",
+        "kickoff": "2026-11-21T01:00:00Z",
+        "home": "Puebla",
+        "away": "Atlético San Luis",
+        "market": "Both teams to score",
+        "selection": "Both teams to score: Yes",
+        "odds": 1.64,
+        "prob": 60.2,
+        "bet": {
+          "type": "btts",
+          "side": "yes"
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "W"
+      },
+      {
+        "eventId": "1abcf514f875d7be5251e1afa961323f",
+        "league": "LIGA MX",
+        "kickoff": "2026-11-21T03:00:00Z",
+        "home": "FC Juárez",
+        "away": "Atlas",
+        "market": "Both teams to score",
+        "selection": "Both teams to score: Yes",
+        "odds": 1.67,
+        "prob": 58.8,
+        "bet": {
+          "type": "btts",
+          "side": "yes"
+        },
+        "homeScore": 3,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "d6ed1e97c331fc604506e4c354ab1cdc",
+        "league": "NBA",
+        "kickoff": "2026-11-21T01:10:00Z",
+        "home": "Chicago Bulls",
+        "away": "Washington Wizards",
+        "market": "Moneyline",
+        "selection": "Chicago Bulls ML",
+        "odds": 1.75,
+        "prob": 56,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 94,
+        "awayScore": 98,
+        "result": "L"
+      }
+    ],
+    "odds": 23.841729674784,
+    "hitChance": 3.77,
+    "publishedAt": "2026-11-20T15:15:24.283Z",
+    "result": "L",
+    "settledAt": "2026-11-21T06:00:24.884Z"
   }
 ]

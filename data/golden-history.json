@@ -264,5 +264,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "9051693857c6a0e5e1bc6bb2b4f6fe35|golden|h2h|home|",
+    "date": "2026-11-20",
+    "league": "NBA",
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
+    "selection": "Detroit Pistons ML",
+    "odds": 1.42,
+    "prob": 69.7,
+    "result": "L",
+    "models": [
+      "rules"
+    ]
   }
 ]

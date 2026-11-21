@@ -3496,5 +3496,38 @@
     "odds": 1.44,
     "prob": 68.1,
     "result": "W"
+  },
+  {
+    "id": "9051693857c6a0e5e1bc6bb2b4f6fe35|h2h|home|",
+    "date": "2026-11-20",
+    "league": "NBA",
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
+    "selection": "Detroit Pistons ML",
+    "odds": 1.42,
+    "prob": 69.7,
+    "result": "L"
+  },
+  {
+    "id": "40846f0ceef5db45bac4e5a3a72dcc57|btts|yes|",
+    "date": "2026-11-20",
+    "league": "LIGA MX",
+    "home": "Puebla",
+    "away": "Atlético San Luis",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.64,
+    "prob": 60.2,
+    "result": "W"
+  },
+  {
+    "id": "1abcf514f875d7be5251e1afa961323f|btts|yes|",
+    "date": "2026-11-20",
+    "league": "LIGA MX",
+    "home": "FC Juárez",
+    "away": "Atlas",
+    "selection": "Both teams to score: Yes",
+    "odds": 1.67,
+    "prob": 58.8,
+    "result": "W"
   }
 ]
