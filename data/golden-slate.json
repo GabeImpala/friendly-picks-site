@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "7c6930f22180d748b3c0270afe1d67b4|golden|spread|home|1.5",
+    "day": "2026-11-21",
+    "league": "NHL",
+    "kickoff": "2026-11-22T00:00:00Z",
+    "home": "St Louis Blues",
+    "away": "New Jersey Devils",
+    "market": "Spread",
+    "selection": "St Louis Blues +1.5",
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": 1.5
+    },
+    "odds": 1.48,
+    "prob": 66.5,
+    "ev": -0.016,
+    "edge": -1.1,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]

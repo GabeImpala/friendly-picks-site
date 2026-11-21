@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "cbe45bafcc2615fc1d96cbc12840377a|ai",
+    "eventId": "cbe45bafcc2615fc1d96cbc12840377a",
+    "league": "NFL",
+    "kickoff": "2026-11-22T18:00:00Z",
+    "home": "Philadelphia Eagles",
+    "away": "Pittsburgh Steelers",
+    "selection": "Philadelphia Eagles ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 2.74,
+    "prob": 50.5,
+    "live": false
+  },
+  {
+    "id": "60e1d27b083a335b722c2c852ea85612|ai",
+    "eventId": "60e1d27b083a335b722c2c852ea85612",
+    "league": "NFL",
+    "kickoff": "2026-11-23T01:20:00Z",
+    "home": "San Francisco 49ers",
+    "away": "Minnesota Vikings",
+    "selection": "San Francisco 49ers ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.61,
+    "prob": 59.5,
+    "live": false
+  }
+]
