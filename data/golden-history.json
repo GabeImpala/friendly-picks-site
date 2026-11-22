@@ -278,5 +278,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "7c6930f22180d748b3c0270afe1d67b4|golden|spread|home|1.5",
+    "date": "2026-11-21",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "New Jersey Devils",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.48,
+    "prob": 66.5,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

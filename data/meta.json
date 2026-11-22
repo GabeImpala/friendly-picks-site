@@ -1,18 +1,13 @@
 {
-  "updatedAt": "2026-11-22T00:15:56.628Z",
+  "updatedAt": "2026-11-22T03:00:20.665Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "fullRunAt": "2026-11-22T00:15:56.628Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
   "creditsRemaining": 464,
   "info": [
-    "This run could spend up to 79 credits (475 left this cycle).",
-    "Used 13 credits this run."
-  ],
-  "errors": [
-    "Weather Kansas City Chiefs: Request failed after 3 tries: fetch failed",
-    "Weather Carolina Panthers: Request failed after 3 tries: fetch failed",
-    "Weather Buffalo Bills: Request failed after 3 tries: fetch failed",
-    "Weather Chicago Bears: Request failed after 3 tries: fetch failed"
+    "This run could spend up to 73 credits (439 left this cycle).",
+    "Settle-only run: skipped fetching new odds.",
+    "Used 0 credits this run."
   ]
 }
