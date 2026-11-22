@@ -53,6 +53,6 @@
     "offConsensus": true,
     "locked": true,
     "publishedOdds": 1.25,
-    "live": false
+    "live": true
   }
 ]

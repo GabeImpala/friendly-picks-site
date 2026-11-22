@@ -3617,5 +3617,16 @@
     "odds": 1.5,
     "prob": 65.8,
     "result": "W"
+  },
+  {
+    "id": "be2fcabc408be29ca01ce92ab266f8b7|h2h|home|",
+    "date": "2026-11-22",
+    "league": "SERIE A",
+    "home": "Juventus",
+    "away": "Venezia",
+    "selection": "Juventus to win",
+    "odds": 1.4,
+    "prob": 70.3,
+    "result": "W"
   }
 ]
