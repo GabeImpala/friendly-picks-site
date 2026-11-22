@@ -490,28 +490,6 @@
     }
   },
   {
-    "id": "be2fcabc408be29ca01ce92ab266f8b7",
-    "league": "SERIE A",
-    "kickoff": "2026-11-22T11:30:00Z",
-    "venue": "",
-    "home": "Juventus",
-    "away": "Venezia",
-    "market": "Match result",
-    "selection": "Juventus to win",
-    "odds": 1.4,
-    "openOdds": 1.4,
-    "baseProb": 70.4,
-    "baselineNote": "Consensus of 24 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.4
-  },
-  {
     "id": "5bc13c44b33981f3185400163388267e",
     "league": "SERIE A",
     "kickoff": "2026-11-22T14:00:00Z",
@@ -737,6 +715,28 @@
     },
     "locked": true,
     "publishedOdds": 1.55
+  },
+  {
+    "id": "be2fcabc408be29ca01ce92ab266f8b7",
+    "league": "SERIE A",
+    "kickoff": "2026-11-22T11:30:00Z",
+    "venue": "",
+    "home": "Juventus",
+    "away": "Venezia",
+    "market": "Match result",
+    "selection": "Juventus to win",
+    "odds": 1.4,
+    "openOdds": 1.4,
+    "baseProb": 70.3,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "locked": true,
+    "publishedOdds": 1.4,
+    "live": true
   },
   {
     "id": "4c08b213ed416e8f41e038f42a42b962",
