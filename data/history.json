@@ -3619,6 +3619,28 @@
     "result": "W"
   },
   {
+    "id": "214a79b6e08dbe3f508844936158c038|total|under|4.5",
+    "date": "2026-11-22",
+    "league": "LA LIGA",
+    "home": "Barcelona",
+    "away": "Villarreal",
+    "selection": "Under 4.5 goals",
+    "odds": 1.81,
+    "prob": 55.5,
+    "result": "L"
+  },
+  {
+    "id": "230a356290e1a358e9dd2f7fa23de3b9|h2h|away|",
+    "date": "2026-11-22",
+    "league": "EPL",
+    "home": "Hull City",
+    "away": "Brighton and Hove Albion",
+    "selection": "Brighton and Hove Albion to win",
+    "odds": 1.55,
+    "prob": 63.3,
+    "result": "L"
+  },
+  {
     "id": "be2fcabc408be29ca01ce92ab266f8b7|h2h|home|",
     "date": "2026-11-22",
     "league": "SERIE A",
@@ -3628,5 +3650,27 @@
     "odds": 1.4,
     "prob": 70.3,
     "result": "W"
+  },
+  {
+    "id": "5faf836ce6c0fd72af5d1fe258c63bc6|h2h|home|",
+    "date": "2026-11-22",
+    "league": "SERIE A",
+    "home": "AC Milan",
+    "away": "Frosinone",
+    "selection": "AC Milan to win",
+    "odds": 1.58,
+    "prob": 62.1,
+    "result": "W"
+  },
+  {
+    "id": "4c08b213ed416e8f41e038f42a42b962|total|under|3.5",
+    "date": "2026-11-22",
+    "league": "EPL",
+    "home": "Liverpool",
+    "away": "Manchester United",
+    "selection": "Under 3.5 goals",
+    "odds": 1.72,
+    "prob": 57,
+    "result": "L"
   }
 ]

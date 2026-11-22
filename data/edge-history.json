@@ -91,5 +91,21 @@
     "stakePct": 0.011462786804237473,
     "offConsensus": true,
     "result": "W"
+  },
+  {
+    "id": "214a79b6e08dbe3f508844936158c038|edge|h2h|home|",
+    "date": "2026-11-22",
+    "league": "LA LIGA",
+    "home": "Barcelona",
+    "away": "Villarreal",
+    "selection": "Barcelona to win",
+    "odds": 1.25,
+    "consProb": 81.6,
+    "edge": 2.6,
+    "ev": 0.02,
+    "stakePct": 0.015,
+    "offConsensus": true,
+    "result": "W",
+    "clv": 3.4
   }
 ]
