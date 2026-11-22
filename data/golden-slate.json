@@ -21,6 +21,6 @@
     "models": [
       "rules"
     ],
-    "live": false
+    "live": true
   }
 ]
