@@ -3606,5 +3606,16 @@
     "odds": 1.48,
     "prob": 66.8,
     "result": "W"
+  },
+  {
+    "id": "c891a951ef4b408976f84839c3d886e2|spread|home|1.5",
+    "date": "2026-11-21",
+    "league": "NHL",
+    "home": "Winnipeg Jets",
+    "away": "Vegas Golden Knights",
+    "selection": "Winnipeg Jets +1.5",
+    "odds": 1.5,
+    "prob": 65.8,
+    "result": "W"
   }
 ]

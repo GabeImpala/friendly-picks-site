@@ -4463,5 +4463,163 @@
     "publishedAt": "2026-11-20T15:15:24.283Z",
     "result": "L",
     "settledAt": "2026-11-21T06:00:24.884Z"
+  },
+  {
+    "day": "2026-11-21",
+    "legs": [
+      {
+        "eventId": "bf921a2780e2a25201da8a3bfece84c4",
+        "league": "SERIE A",
+        "kickoff": "2026-11-21T14:00:00Z",
+        "home": "Lazio",
+        "away": "Lecce",
+        "market": "Match result",
+        "selection": "Lazio to win",
+        "odds": 1.43,
+        "prob": 69.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 3,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "6ef39b0fd8839f6e93a3de32523e9807",
+        "league": "EPL",
+        "kickoff": "2026-11-21T12:30:00Z",
+        "home": "Manchester City",
+        "away": "Fulham",
+        "market": "Match result",
+        "selection": "Manchester City to win",
+        "odds": 1.42,
+        "prob": 69.3,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "6d5c13d697e753014382cb88c02b8d0a",
+        "league": "NHL",
+        "kickoff": "2026-11-22T00:00:00Z",
+        "home": "Detroit Red Wings",
+        "away": "New York Islanders",
+        "market": "Spread",
+        "selection": "Detroit Red Wings +1.5",
+        "odds": 1.44,
+        "prob": 68.6,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "7c6930f22180d748b3c0270afe1d67b4",
+        "league": "NHL",
+        "kickoff": "2026-11-22T00:00:00Z",
+        "home": "St Louis Blues",
+        "away": "New Jersey Devils",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.48,
+        "prob": 66.5,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 9,
+        "awayScore": 6,
+        "result": "W"
+      },
+      {
+        "eventId": "c891a951ef4b408976f84839c3d886e2",
+        "league": "NHL",
+        "kickoff": "2026-11-22T00:00:00Z",
+        "home": "Winnipeg Jets",
+        "away": "Vegas Golden Knights",
+        "market": "Spread",
+        "selection": "Winnipeg Jets +1.5",
+        "odds": 1.5,
+        "prob": 65.7,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 5,
+        "result": "W"
+      },
+      {
+        "eventId": "34b40b7e82b5c14148142f49a11c8b23",
+        "league": "LIGA MX",
+        "kickoff": "2026-11-21T23:00:00Z",
+        "home": "Santos Laguna",
+        "away": "León",
+        "market": "Both teams to score",
+        "selection": "Both teams to score: Yes",
+        "odds": 1.58,
+        "prob": 62.6,
+        "bet": {
+          "type": "btts",
+          "side": "yes"
+        },
+        "homeScore": 1,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "league": "EPL",
+        "kickoff": "2026-11-21T15:00:00Z",
+        "home": "Tottenham Hotspur",
+        "away": "Ipswich Town",
+        "market": "Match result",
+        "selection": "Tottenham Hotspur to win",
+        "odds": 1.6,
+        "prob": 61.9,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 2,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "e491b0b72df0e6f41b1bf7f9c349a136",
+        "league": "NHL",
+        "kickoff": "2026-11-22T00:00:00Z",
+        "home": "Ottawa Senators",
+        "away": "Los Angeles Kings",
+        "market": "Spread",
+        "selection": "Los Angeles Kings +1.5",
+        "odds": 1.61,
+        "prob": 61.3,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 2,
+        "result": "L"
+      }
+    ],
+    "odds": 26.4206071793664,
+    "hitChance": 3.42,
+    "publishedAt": "2026-11-21T15:15:24.191Z",
+    "result": "L",
+    "settledAt": "2026-11-22T06:00:23.763Z"
   }
 ]

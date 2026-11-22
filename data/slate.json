@@ -304,27 +304,6 @@
     "aiHomeProb": 45.4
   },
   {
-    "id": "b754a1bf84af81d45d4a3a16398daa44",
-    "league": "NBA",
-    "kickoff": "2026-11-22T03:10:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "Boston Celtics",
-    "market": "Spread",
-    "selection": "Sacramento Kings +12",
-    "odds": 1.99,
-    "openOdds": 1.99,
-    "baseProb": 49.2,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 12
-    }
-  },
-  {
     "id": "222a2887819bb18d9b9572aef63d9b9e",
     "league": "NBA",
     "kickoff": "2026-11-22T20:40:00Z",
@@ -780,28 +759,5 @@
     },
     "locked": true,
     "publishedOdds": 1.72
-  },
-  {
-    "id": "c891a951ef4b408976f84839c3d886e2",
-    "league": "NHL",
-    "kickoff": "2026-11-22T00:00:00Z",
-    "venue": "",
-    "home": "Winnipeg Jets",
-    "away": "Vegas Golden Knights",
-    "market": "Spread",
-    "selection": "Winnipeg Jets +1.5",
-    "odds": 1.5,
-    "openOdds": 1.44,
-    "baseProb": 65.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.5,
-    "live": true
   }
 ]
