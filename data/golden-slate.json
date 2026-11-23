@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "5074be0d13d60cc7fd82b06c4d8ddd31|golden|spread|away|1.5",
+    "day": "2026-11-23",
+    "league": "NHL",
+    "kickoff": "2026-11-24T02:50:00Z",
+    "home": "Seattle Kraken",
+    "away": "Anaheim Ducks",
+    "market": "Spread",
+    "selection": "Anaheim Ducks +1.5",
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 1.5
+    },
+    "odds": 1.43,
+    "prob": 68.9,
+    "ev": -0.015,
+    "edge": -1,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
