@@ -3630,6 +3630,17 @@
     "result": "L"
   },
   {
+    "id": "7a62fe738bd20cfff6027c52fec05d51|h2h|away|",
+    "date": "2026-11-22",
+    "league": "LA LIGA",
+    "home": "Getafe",
+    "away": "Atlético Madrid",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.66,
+    "prob": 60.2,
+    "result": "W"
+  },
+  {
     "id": "230a356290e1a358e9dd2f7fa23de3b9|h2h|away|",
     "date": "2026-11-22",
     "league": "EPL",
@@ -3671,6 +3682,28 @@
     "selection": "Under 3.5 goals",
     "odds": 1.72,
     "prob": 57,
+    "result": "L"
+  },
+  {
+    "id": "cbe45bafcc2615fc1d96cbc12840377a|h2h|away|",
+    "date": "2026-11-22",
+    "league": "NFL",
+    "home": "Philadelphia Eagles",
+    "away": "Pittsburgh Steelers",
+    "selection": "Pittsburgh Steelers ML",
+    "odds": 1.54,
+    "prob": 64.1,
+    "result": "L"
+  },
+  {
+    "id": "e22f82b10fe71d230248b88fef87e58f|h2h|away|",
+    "date": "2026-11-22",
+    "league": "SERIE A",
+    "home": "Atalanta BC",
+    "away": "Inter Milan",
+    "selection": "Inter Milan to win",
+    "odds": 1.6,
+    "prob": 61.9,
     "result": "L"
   }
 ]

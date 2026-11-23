@@ -449,5 +449,16 @@
     "odds": 2.34,
     "prob": 63,
     "result": "W"
+  },
+  {
+    "id": "cbe45bafcc2615fc1d96cbc12840377a|ai",
+    "date": "2026-11-22",
+    "league": "NFL",
+    "home": "Philadelphia Eagles",
+    "away": "Pittsburgh Steelers",
+    "selection": "Philadelphia Eagles ML",
+    "odds": 2.74,
+    "prob": 50.5,
+    "result": "W"
   }
 ]

@@ -292,5 +292,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "7a62fe738bd20cfff6027c52fec05d51|golden|h2h|away|",
+    "date": "2026-11-22",
+    "league": "LA LIGA",
+    "home": "Getafe",
+    "away": "Atlético Madrid",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.59,
+    "prob": 62.2,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

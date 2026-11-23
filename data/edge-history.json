@@ -93,6 +93,22 @@
     "result": "W"
   },
   {
+    "id": "7a62fe738bd20cfff6027c52fec05d51|edge|h2h|away|",
+    "date": "2026-11-22",
+    "league": "LA LIGA",
+    "home": "Getafe",
+    "away": "Atlético Madrid",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.66,
+    "consProb": 61.5,
+    "edge": 2.2,
+    "ev": 0.02,
+    "stakePct": 0.007706237833185975,
+    "offConsensus": true,
+    "result": "W",
+    "clv": 5.7
+  },
+  {
     "id": "214a79b6e08dbe3f508844936158c038|edge|h2h|home|",
     "date": "2026-11-22",
     "league": "LA LIGA",
