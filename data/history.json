@@ -3696,6 +3696,17 @@
     "result": "L"
   },
   {
+    "id": "60e1d27b083a335b722c2c852ea85612|h2h|home|",
+    "date": "2026-11-22",
+    "league": "NFL",
+    "home": "San Francisco 49ers",
+    "away": "Minnesota Vikings",
+    "selection": "San Francisco 49ers ML",
+    "odds": 1.61,
+    "prob": 60.9,
+    "result": "W"
+  },
+  {
     "id": "e22f82b10fe71d230248b88fef87e58f|h2h|away|",
     "date": "2026-11-22",
     "league": "SERIE A",
