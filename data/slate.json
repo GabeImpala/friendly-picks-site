@@ -1,5 +1,120 @@
 [
   {
+    "id": "5b612899d6dcdf998107f2c6c6e49a58",
+    "league": "NFL",
+    "kickoff": "2026-11-26T01:00:00Z",
+    "venue": "",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
+    "market": "Spread",
+    "selection": "Los Angeles Rams -2.5",
+    "odds": 2,
+    "openOdds": 1.91,
+    "baseProb": 49.7,
+    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": -2.5
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
+    "id": "9b825e6518156008da499be041975fdd",
+    "league": "NFL",
+    "kickoff": "2026-11-26T18:00:00Z",
+    "venue": "",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "market": "Moneyline",
+    "selection": "Chicago Bears ML",
+    "odds": 1.75,
+    "openOdds": 1.75,
+    "baseProb": 56,
+    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    },
+    "aiHomeProb": 40.2
+  },
+  {
+    "id": "ffaa06af56a7137d4b078c5c46c0b730",
+    "league": "NFL",
+    "kickoff": "2026-11-26T21:30:00Z",
+    "venue": "",
+    "home": "Dallas Cowboys",
+    "away": "Philadelphia Eagles",
+    "market": "Total",
+    "selection": "Over 48",
+    "odds": 1.96,
+    "openOdds": 1.96,
+    "baseProb": 49.5,
+    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 48
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
+    "id": "f36f518585aec40e8cb40e071c0844aa",
+    "league": "NFL",
+    "kickoff": "2026-11-27T01:20:00Z",
+    "venue": "",
+    "home": "Buffalo Bills",
+    "away": "Kansas City Chiefs",
+    "market": "Total",
+    "selection": "Under 47.5",
+    "odds": 1.93,
+    "openOdds": 1.93,
+    "baseProb": 49.8,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [
+      {
+        "kind": "weather",
+        "label": "Wind about 18 mph",
+        "detail": "Strong wind in an open stadium tends to lower scoring, mostly the passing game.",
+        "points": 1.7
+      }
+    ],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 47.5
+    },
+    "weather": {
+      "tempF": 36.5,
+      "windMph": 17.5,
+      "precip": "Light rain",
+      "roof": "open"
+    }
+  },
+  {
     "id": "42f48a4769eab3d1472d76aac0fd0fa7",
     "league": "NBA",
     "kickoff": "2026-11-25T00:11:00Z",
@@ -160,121 +275,6 @@
       "type": "spread",
       "side": "away",
       "line": -1.5
-    }
-  },
-  {
-    "id": "5b612899d6dcdf998107f2c6c6e49a58",
-    "league": "NFL",
-    "kickoff": "2026-11-26T01:00:00Z",
-    "venue": "",
-    "home": "Los Angeles Rams",
-    "away": "Green Bay Packers",
-    "market": "Spread",
-    "selection": "Los Angeles Rams -2.5",
-    "odds": 2,
-    "openOdds": 1.91,
-    "baseProb": 49.7,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "9b825e6518156008da499be041975fdd",
-    "league": "NFL",
-    "kickoff": "2026-11-26T18:00:00Z",
-    "venue": "",
-    "home": "Detroit Lions",
-    "away": "Chicago Bears",
-    "market": "Moneyline",
-    "selection": "Chicago Bears ML",
-    "odds": 1.75,
-    "openOdds": 1.75,
-    "baseProb": 56,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "aiHomeProb": 40.2
-  },
-  {
-    "id": "ffaa06af56a7137d4b078c5c46c0b730",
-    "league": "NFL",
-    "kickoff": "2026-11-26T21:30:00Z",
-    "venue": "",
-    "home": "Dallas Cowboys",
-    "away": "Philadelphia Eagles",
-    "market": "Total",
-    "selection": "Over 48",
-    "odds": 1.96,
-    "openOdds": 1.96,
-    "baseProb": 49.5,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 48
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "f36f518585aec40e8cb40e071c0844aa",
-    "league": "NFL",
-    "kickoff": "2026-11-27T01:20:00Z",
-    "venue": "",
-    "home": "Buffalo Bills",
-    "away": "Kansas City Chiefs",
-    "market": "Total",
-    "selection": "Under 47.5",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 49.8,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "weather",
-        "label": "Wind about 18 mph",
-        "detail": "Strong wind in an open stadium tends to lower scoring, mostly the passing game.",
-        "points": 1.7
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 47.5
-    },
-    "weather": {
-      "tempF": 36.5,
-      "windMph": 17.5,
-      "precip": "Light rain",
-      "roof": "open"
     }
   }
 ]
