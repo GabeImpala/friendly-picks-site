@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-24T14:40:18.477Z",
+  "updatedAt": "2026-11-24T15:15:17.173Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
-  "fullRunAt": "2026-11-24T01:50:14.447Z",
+  "fullRunAt": "2026-11-24T15:15:17.173Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 432,
+  "creditsRemaining": 423,
   "info": [
     "This run could spend up to 87 credits (407 left this cycle).",
-    "Settle-only run: skipped fetching new odds.",
-    "Used 0 credits this run."
+    "LA LIGA: no games in the next 36 hours, no credits used.",
+    "SERIE A: no games in the next 36 hours, no credits used.",
+    "Golden Pick: none today. 2 bets from the models, but none for a game still ahead today.",
+    "Used 9 credits this run."
   ]
 }
