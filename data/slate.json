@@ -6,17 +6,18 @@
     "venue": "",
     "home": "Orlando Magic",
     "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Orlando Magic ML",
-    "odds": 2.15,
-    "openOdds": 2.08,
-    "baseProb": 53.3,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "market": "Spread",
+    "selection": "Detroit Pistons +3",
+    "odds": 2,
+    "openOdds": 1.96,
+    "baseProb": 49.5,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "h2h",
-      "side": "home"
+      "type": "spread",
+      "side": "away",
+      "line": 3
     }
   },
   {
@@ -28,9 +29,9 @@
     "away": "Detroit Pistons",
     "market": "Moneyline",
     "selection": "Detroit Pistons ML",
-    "odds": 2.32,
+    "odds": 2.34,
     "openOdds": 1.81,
-    "baseProb": 46.7,
+    "baseProb": 42.7,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -38,6 +39,8 @@
       "type": "h2h",
       "side": "away"
     },
+    "locked": true,
+    "publishedOdds": 2.32,
     "role": "upset"
   },
   {
@@ -47,18 +50,18 @@
     "venue": "",
     "home": "Washington Wizards",
     "away": "Boston Celtics",
-    "market": "Total",
-    "selection": "Under 219",
-    "odds": 1.91,
-    "openOdds": 1.91,
-    "baseProb": 50.9,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "market": "Spread",
+    "selection": "Boston Celtics -11",
+    "odds": 1.94,
+    "openOdds": 1.94,
+    "baseProb": 50.3,
+    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 219
+      "type": "spread",
+      "side": "away",
+      "line": -11
     }
   },
   {
@@ -72,7 +75,7 @@
     "selection": "Dallas Mavericks ML",
     "odds": 3.55,
     "openOdds": 3.65,
-    "baseProb": 27.7,
+    "baseProb": 27.8,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -119,7 +122,9 @@
     "bet": {
       "type": "h2h",
       "side": "home"
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.71
   },
   {
     "id": "07421d1675d6bc51bb5fa91f84a09eb3",
@@ -132,7 +137,7 @@
     "selection": "Minnesota Timberwolves ML",
     "odds": 2.1,
     "openOdds": 2.25,
-    "baseProb": 46.7,
+    "baseProb": 46.5,
     "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -172,7 +177,7 @@
     "selection": "Over 6.5",
     "odds": 1.88,
     "openOdds": 2.05,
-    "baseProb": 52.9,
+    "baseProb": 53,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -222,7 +227,9 @@
       "type": "spread",
       "side": "away",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.5
   },
   {
     "id": "52d88f1e2ea2e8165d992430998b84f1",
@@ -298,7 +305,7 @@
     "selection": "Under 5.5",
     "odds": 2.08,
     "openOdds": 2.08,
-    "baseProb": 47.8,
+    "baseProb": 47.7,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -327,7 +334,9 @@
       "type": "spread",
       "side": "away",
       "line": 1.5
-    }
+    },
+    "locked": true,
+    "publishedOdds": 1.44
   },
   {
     "id": "c29af8a41ac40846cff6811e8a345682",
@@ -361,7 +370,7 @@
     "selection": "Vancouver Canucks +1.5",
     "odds": 1.8,
     "openOdds": 1.8,
-    "baseProb": 55.3,
+    "baseProb": 55.2,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -382,7 +391,7 @@
     "selection": "Nashville Predators +1.5",
     "odds": 1.59,
     "openOdds": 1.59,
-    "baseProb": 62.3,
+    "baseProb": 62.2,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -445,7 +454,7 @@
     "selection": "Chicago Blackhawks +1.5",
     "odds": 1.57,
     "openOdds": 1.57,
-    "baseProb": 62.5,
+    "baseProb": 62.6,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
@@ -462,18 +471,18 @@
     "venue": "",
     "home": "Anaheim Ducks",
     "away": "San Jose Sharks",
-    "market": "Total",
-    "selection": "Under 6.5",
-    "odds": 2.06,
-    "openOdds": 2.06,
-    "baseProb": 48,
+    "market": "Spread",
+    "selection": "Anaheim Ducks -1.5",
+    "odds": 2.72,
+    "openOdds": 2.72,
+    "baseProb": 36.1,
     "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 6.5
+      "type": "spread",
+      "side": "home",
+      "line": -1.5
     }
   },
   {

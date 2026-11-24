@@ -26,33 +26,5 @@
     "locked": true,
     "publishedOdds": 2.15,
     "live": false
-  },
-  {
-    "id": "42f48a4769eab3d1472d76aac0fd0fa7|edge|h2h|away|",
-    "eventId": "42f48a4769eab3d1472d76aac0fd0fa7",
-    "league": "NBA",
-    "kickoff": "2026-11-25T00:11:00Z",
-    "home": "Orlando Magic",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "odds": 2.32,
-    "openOdds": 1.81,
-    "fairProb": 46.5,
-    "modelProb": 46.5,
-    "consProb": 45.5,
-    "edge": 3.4,
-    "ev": 0.056,
-    "stakePct": 0.010548098379883006,
-    "books": 9,
-    "devigMethod": "power",
-    "offConsensus": true,
-    "locked": true,
-    "publishedOdds": 2.32,
-    "live": false
   }
 ]
