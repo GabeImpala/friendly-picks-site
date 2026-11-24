@@ -405,51 +405,5 @@
       "side": "home",
       "line": 1.5
     }
-  },
-  {
-    "id": "99776445d5a5f4ed008f9a6d6a1495b7",
-    "league": "SERIE A",
-    "kickoff": "2026-11-23T19:45:00Z",
-    "venue": "",
-    "home": "Monza",
-    "away": "Fiorentina",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.67,
-    "openOdds": 1.67,
-    "baseProb": 59.5,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.67,
-    "live": true
-  },
-  {
-    "id": "afae1c9d986e4ab2200dc9bd44b6b6c4",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-23T20:00:00Z",
-    "venue": "",
-    "home": "Levante",
-    "away": "Elche CF",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.76,
-    "openOdds": 1.75,
-    "baseProb": 55.8,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    },
-    "locked": true,
-    "publishedOdds": 1.76,
-    "live": true
   }
 ]
