@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-24T21:00:27.902Z",
+  "updatedAt": "2026-11-24T23:36:32.679Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
-  "fullRunAt": "2026-11-24T15:15:17.173Z",
+  "fullRunAt": "2026-11-24T23:36:32.679Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
-  "creditsRemaining": 423,
+  "creditsRemaining": 414,
   "info": [
     "This run could spend up to 85 credits (398 left this cycle).",
-    "Settle-only run: skipped fetching new odds.",
-    "Used 0 credits this run."
+    "LA LIGA: no games in the next 36 hours, no credits used.",
+    "SERIE A: no games in the next 36 hours, no credits used.",
+    "Golden Pick: none today. 2 candidate bets today: 0 paid under 1.4, 2 under 55% chance, 0 disputed by another method, 0 backed by one method far above the market, 0 overpriced. Closest: Orlando Magic ML (Orlando Magic) at 2.15, 52% chance, EV 12.9%.",
+    "Used 9 credits this run."
   ]
 }
