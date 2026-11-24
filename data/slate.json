@@ -1,66 +1,29 @@
 [
   {
-    "id": "5074be0d13d60cc7fd82b06c4d8ddd31",
-    "league": "NHL",
-    "kickoff": "2026-11-24T02:50:00Z",
+    "id": "5b612899d6dcdf998107f2c6c6e49a58",
+    "league": "NFL",
+    "kickoff": "2026-11-26T01:00:00Z",
     "venue": "",
-    "home": "Seattle Kraken",
-    "away": "Anaheim Ducks",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
     "market": "Spread",
-    "selection": "Anaheim Ducks +1.5",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 67.9,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "selection": "Green Bay Packers +2.5",
+    "odds": 2,
+    "openOdds": 2,
+    "baseProb": 48.9,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
       "side": "away",
-      "line": 1.5
+      "line": 2.5
     },
-    "locked": true,
-    "publishedOdds": 1.43
-  },
-  {
-    "id": "43376208ec2111794696249fe50f5e84",
-    "league": "NHL",
-    "kickoff": "2026-11-24T03:10:00Z",
-    "venue": "",
-    "home": "San Jose Sharks",
-    "away": "Minnesota Wild",
-    "market": "Spread",
-    "selection": "San Jose Sharks +1.5",
-    "odds": 1.67,
-    "openOdds": 1.72,
-    "baseProb": 58.9,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    }
-  },
-  {
-    "id": "155fbdda10b6474a41649023baadfdf3",
-    "league": "NHL",
-    "kickoff": "2026-11-25T01:00:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Vegas Golden Knights",
-    "market": "Moneyline",
-    "selection": "Edmonton Oilers ML",
-    "odds": 2.08,
-    "openOdds": 2.08,
-    "baseProb": 48.3,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
     }
   },
   {
@@ -166,53 +129,45 @@
     }
   },
   {
-    "id": "5b612899d6dcdf998107f2c6c6e49a58",
-    "league": "NFL",
-    "kickoff": "2026-11-26T01:00:00Z",
+    "id": "43376208ec2111794696249fe50f5e84",
+    "league": "NHL",
+    "kickoff": "2026-11-24T03:10:00Z",
     "venue": "",
-    "home": "Los Angeles Rams",
-    "away": "Green Bay Packers",
+    "home": "San Jose Sharks",
+    "away": "Minnesota Wild",
     "market": "Spread",
-    "selection": "Green Bay Packers +2.5",
-    "odds": 2,
-    "openOdds": 2,
-    "baseProb": 48.9,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "selection": "San Jose Sharks +1.5",
+    "odds": 1.67,
+    "openOdds": 1.72,
+    "baseProb": 58.9,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "spread",
-      "side": "away",
-      "line": 2.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
+      "side": "home",
+      "line": 1.5
     }
   },
   {
-    "id": "35ca45d3e548dc7207fd7f1696ab16f5",
-    "league": "NBA",
-    "kickoff": "2026-11-24T00:10:00Z",
+    "id": "155fbdda10b6474a41649023baadfdf3",
+    "league": "NHL",
+    "kickoff": "2026-11-25T01:00:00Z",
     "venue": "",
-    "home": "Charlotte Hornets",
-    "away": "Memphis Grizzlies",
+    "home": "Edmonton Oilers",
+    "away": "Vegas Golden Knights",
     "market": "Moneyline",
-    "selection": "Memphis Grizzlies ML",
-    "odds": 1.7,
-    "openOdds": 1.7,
-    "baseProb": 57.8,
+    "selection": "Edmonton Oilers ML",
+    "odds": 2.08,
+    "openOdds": 2.08,
+    "baseProb": 48.3,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 1.7,
-    "live": true
+      "side": "home"
+    }
   },
   {
     "id": "e2efcb24b2d9689232946057b7e43d23",
@@ -231,6 +186,29 @@
     "bet": {
       "type": "spread",
       "side": "home",
+      "line": 1.5
+    },
+    "locked": true,
+    "publishedOdds": 1.43,
+    "live": true
+  },
+  {
+    "id": "5074be0d13d60cc7fd82b06c4d8ddd31",
+    "league": "NHL",
+    "kickoff": "2026-11-24T02:50:00Z",
+    "venue": "",
+    "home": "Seattle Kraken",
+    "away": "Anaheim Ducks",
+    "market": "Spread",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.43,
+    "openOdds": 1.43,
+    "baseProb": 68.9,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
       "line": 1.5
     },
     "locked": true,
