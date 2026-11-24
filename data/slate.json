@@ -27,47 +27,6 @@
     }
   },
   {
-    "id": "3e9dc52cb055c0154839c4aec417955b",
-    "league": "NBA",
-    "kickoff": "2026-11-24T03:10:00Z",
-    "venue": "",
-    "home": "Los Angeles Lakers",
-    "away": "Utah Jazz",
-    "market": "Spread",
-    "selection": "Los Angeles Lakers -13.5",
-    "odds": 1.99,
-    "openOdds": 1.9,
-    "baseProb": 49.6,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -13.5
-    }
-  },
-  {
-    "id": "17f31499f145cd9d3232819395d29448",
-    "league": "NBA",
-    "kickoff": "2026-11-24T03:10:00Z",
-    "venue": "",
-    "home": "Sacramento Kings",
-    "away": "San Antonio Spurs",
-    "market": "Moneyline",
-    "selection": "Sacramento Kings ML",
-    "odds": 3.65,
-    "openOdds": 4.8,
-    "baseProb": 27.6,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
     "id": "42f48a4769eab3d1472d76aac0fd0fa7",
     "league": "NBA",
     "kickoff": "2026-11-25T00:11:00Z",
@@ -129,27 +88,6 @@
     }
   },
   {
-    "id": "43376208ec2111794696249fe50f5e84",
-    "league": "NHL",
-    "kickoff": "2026-11-24T03:10:00Z",
-    "venue": "",
-    "home": "San Jose Sharks",
-    "away": "Minnesota Wild",
-    "market": "Spread",
-    "selection": "San Jose Sharks +1.5",
-    "odds": 1.67,
-    "openOdds": 1.72,
-    "baseProb": 58.9,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    }
-  },
-  {
     "id": "155fbdda10b6474a41649023baadfdf3",
     "league": "NHL",
     "kickoff": "2026-11-25T01:00:00Z",
@@ -168,51 +106,5 @@
       "type": "h2h",
       "side": "home"
     }
-  },
-  {
-    "id": "e2efcb24b2d9689232946057b7e43d23",
-    "league": "NHL",
-    "kickoff": "2026-11-24T00:40:00Z",
-    "venue": "",
-    "home": "Winnipeg Jets",
-    "away": "Utah Mammoth",
-    "market": "Spread",
-    "selection": "Winnipeg Jets +1.5",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 68.7,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.43,
-    "live": true
-  },
-  {
-    "id": "5074be0d13d60cc7fd82b06c4d8ddd31",
-    "league": "NHL",
-    "kickoff": "2026-11-24T02:50:00Z",
-    "venue": "",
-    "home": "Seattle Kraken",
-    "away": "Anaheim Ducks",
-    "market": "Spread",
-    "selection": "Anaheim Ducks +1.5",
-    "odds": 1.43,
-    "openOdds": 1.43,
-    "baseProb": 68.9,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.43,
-    "live": true
   }
 ]

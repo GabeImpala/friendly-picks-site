@@ -306,5 +306,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "5074be0d13d60cc7fd82b06c4d8ddd31|golden|spread|away|1.5",
+    "date": "2026-11-23",
+    "league": "NHL",
+    "home": "Seattle Kraken",
+    "away": "Anaheim Ducks",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.43,
+    "prob": 68.9,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

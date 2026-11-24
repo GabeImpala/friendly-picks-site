@@ -3749,5 +3749,27 @@
     "odds": 1.7,
     "prob": 57.8,
     "result": "W"
+  },
+  {
+    "id": "e2efcb24b2d9689232946057b7e43d23|spread|home|1.5",
+    "date": "2026-11-23",
+    "league": "NHL",
+    "home": "Winnipeg Jets",
+    "away": "Utah Mammoth",
+    "selection": "Winnipeg Jets +1.5",
+    "odds": 1.43,
+    "prob": 68.7,
+    "result": "W"
+  },
+  {
+    "id": "5074be0d13d60cc7fd82b06c4d8ddd31|spread|away|1.5",
+    "date": "2026-11-23",
+    "league": "NHL",
+    "home": "Seattle Kraken",
+    "away": "Anaheim Ducks",
+    "selection": "Anaheim Ducks +1.5",
+    "odds": 1.43,
+    "prob": 68.9,
+    "result": "W"
   }
 ]

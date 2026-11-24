@@ -4777,5 +4777,147 @@
     "publishedAt": "2026-11-22T15:15:17.935Z",
     "result": "L",
     "settledAt": "2026-11-23T06:00:25.070Z"
+  },
+  {
+    "day": "2026-11-23",
+    "legs": [
+      {
+        "eventId": "5074be0d13d60cc7fd82b06c4d8ddd31",
+        "league": "NHL",
+        "kickoff": "2026-11-24T02:50:00Z",
+        "home": "Seattle Kraken",
+        "away": "Anaheim Ducks",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.43,
+        "prob": 68.9,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "e2efcb24b2d9689232946057b7e43d23",
+        "league": "NHL",
+        "kickoff": "2026-11-24T00:40:00Z",
+        "home": "Winnipeg Jets",
+        "away": "Utah Mammoth",
+        "market": "Spread",
+        "selection": "Winnipeg Jets +1.5",
+        "odds": 1.43,
+        "prob": 68.7,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 4,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "806787e1b3ac73d09e3ae05f6d595865",
+        "league": "NHL",
+        "kickoff": "2026-11-24T00:40:00Z",
+        "home": "Montréal Canadiens",
+        "away": "Los Angeles Kings",
+        "market": "Spread",
+        "selection": "Los Angeles Kings +1.5",
+        "odds": 1.56,
+        "prob": 63.3,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "99776445d5a5f4ed008f9a6d6a1495b7",
+        "league": "SERIE A",
+        "kickoff": "2026-11-23T19:45:00Z",
+        "home": "Monza",
+        "away": "Fiorentina",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.7,
+        "prob": 58.8,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 3,
+        "awayScore": 0,
+        "result": "W"
+      },
+      {
+        "eventId": "35ca45d3e548dc7207fd7f1696ab16f5",
+        "league": "NBA",
+        "kickoff": "2026-11-24T00:10:00Z",
+        "home": "Charlotte Hornets",
+        "away": "Memphis Grizzlies",
+        "market": "Moneyline",
+        "selection": "Memphis Grizzlies ML",
+        "odds": 1.7,
+        "prob": 57.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 111,
+        "awayScore": 117,
+        "result": "W"
+      },
+      {
+        "eventId": "afae1c9d986e4ab2200dc9bd44b6b6c4",
+        "league": "LA LIGA",
+        "kickoff": "2026-11-23T20:00:00Z",
+        "home": "Levante",
+        "away": "Elche CF",
+        "market": "Total",
+        "selection": "Over 2.5 goals",
+        "odds": 1.73,
+        "prob": 57,
+        "bet": {
+          "type": "total",
+          "side": "over",
+          "line": 2.5
+        },
+        "homeScore": 1,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "43376208ec2111794696249fe50f5e84",
+        "league": "NHL",
+        "kickoff": "2026-11-24T03:10:00Z",
+        "home": "San Jose Sharks",
+        "away": "Minnesota Wild",
+        "market": "Spread",
+        "selection": "San Jose Sharks +1.5",
+        "odds": 1.72,
+        "prob": 57,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 2,
+        "awayScore": 5,
+        "result": "L"
+      }
+    ],
+    "odds": 27.432732337296,
+    "hitChance": 3.31,
+    "publishedAt": "2026-11-23T15:15:19.340Z",
+    "result": "L",
+    "settledAt": "2026-11-24T06:00:24.744Z"
   }
 ]
