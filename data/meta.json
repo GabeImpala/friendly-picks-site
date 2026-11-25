@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-24T23:55:55.551Z",
+  "updatedAt": "2026-11-25T00:00:25.675Z",
   "modelVersion": "heuristic-v0",
   "timezone": "America/Chicago",
   "fullRunAt": "2026-11-24T23:55:55.551Z",
   "notice": "Experimental model. The factor weights are simple rules that have not been tested against past results.",
   "creditsRemaining": 405,
   "info": [
-    "This run could spend up to 83 credits (389 left this cycle).",
-    "LA LIGA: no games in the next 36 hours, no credits used.",
-    "SERIE A: no games in the next 36 hours, no credits used.",
-    "Edge Check: withdrew Detroit Pistons ML (Detroit Pistons at Orlando Magic); its price was off-consensus and the other side is also published.",
-    "Golden Pick: none today. 1 candidate bets today: 0 paid under 1.4, 1 under 55% chance, 0 disputed by another method, 0 backed by one method far above the market, 0 overpriced. Closest: Detroit Pistons ML (Orlando Magic) at 2.34, 43% chance, EV -0.1%.",
-    "Used 9 credits this run."
+    "This run could spend up to 95 credits (380 left this cycle).",
+    "Settle-only run: skipped fetching new odds.",
+    "Used 0 credits this run."
   ]
 }
