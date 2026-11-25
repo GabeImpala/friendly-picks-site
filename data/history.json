@@ -3771,5 +3771,16 @@
     "odds": 1.43,
     "prob": 68.9,
     "result": "W"
+  },
+  {
+    "id": "42f48a4769eab3d1472d76aac0fd0fa7|h2h|away|",
+    "date": "2026-11-24",
+    "league": "NBA",
+    "home": "Orlando Magic",
+    "away": "Detroit Pistons",
+    "selection": "Detroit Pistons ML",
+    "odds": 2.32,
+    "prob": 46.7,
+    "result": "W"
   }
 ]
