@@ -1,5 +1,155 @@
 [
   {
+    "id": "5b612899d6dcdf998107f2c6c6e49a58",
+    "league": "NFL",
+    "kickoff": "2026-11-26T01:00:00Z",
+    "venue": "",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
+    "market": "Spread",
+    "selection": "Los Angeles Rams -2.5",
+    "odds": 1.97,
+    "openOdds": 1.91,
+    "baseProb": 50.1,
+    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "home",
+      "line": -2.5
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
+    "id": "9b825e6518156008da499be041975fdd",
+    "league": "NFL",
+    "kickoff": "2026-11-26T18:00:00Z",
+    "venue": "",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "market": "Moneyline",
+    "selection": "Chicago Bears ML",
+    "odds": 1.85,
+    "openOdds": 1.75,
+    "baseProb": 52.4,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    },
+    "locked": true,
+    "publishedOdds": 1.75,
+    "aiHomeProb": 40.2
+  },
+  {
+    "id": "ffaa06af56a7137d4b078c5c46c0b730",
+    "league": "NFL",
+    "kickoff": "2026-11-26T21:30:00Z",
+    "venue": "",
+    "home": "Dallas Cowboys",
+    "away": "Philadelphia Eagles",
+    "market": "Spread",
+    "selection": "Philadelphia Eagles +9",
+    "odds": 1.95,
+    "openOdds": 1.95,
+    "baseProb": 50.1,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "spread",
+      "side": "away",
+      "line": 9
+    },
+    "weather": {
+      "tempF": 72,
+      "windMph": 0,
+      "precip": "None",
+      "roof": "dome"
+    }
+  },
+  {
+    "id": "f36f518585aec40e8cb40e071c0844aa",
+    "league": "NFL",
+    "kickoff": "2026-11-27T01:20:00Z",
+    "venue": "",
+    "home": "Buffalo Bills",
+    "away": "Kansas City Chiefs",
+    "market": "Total",
+    "selection": "Under 47",
+    "odds": 1.93,
+    "openOdds": 1.93,
+    "baseProb": 50.2,
+    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [
+      {
+        "kind": "weather",
+        "label": "Wind about 19 mph",
+        "detail": "Strong wind in an open stadium tends to lower scoring, mostly the passing game.",
+        "points": 2.2
+      },
+      {
+        "kind": "weather",
+        "label": "Heavy rain at kickoff",
+        "detail": "Wet conditions tend to lower scoring slightly.",
+        "points": 1
+      }
+    ],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 47
+    },
+    "weather": {
+      "tempF": 37.1,
+      "windMph": 19.4,
+      "precip": "Heavy rain",
+      "roof": "open"
+    }
+  },
+  {
+    "id": "44a3bcf5bd002583ddef2207a92dd977",
+    "league": "NFL",
+    "kickoff": "2026-11-27T20:00:00Z",
+    "venue": "",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "market": "Moneyline",
+    "selection": "Pittsburgh Steelers ML",
+    "odds": 2.74,
+    "openOdds": 2.32,
+    "baseProb": 36.1,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "weather": {
+      "tempF": 38.1,
+      "windMph": 12.6,
+      "precip": "Light rain",
+      "roof": "open"
+    },
+    "aiHomeProb": 49.8
+  },
+  {
     "id": "4f6d199bb67cf3a517a3880fd2f00b26",
     "league": "NBA",
     "kickoff": "2026-11-25T22:10:00Z",
@@ -477,155 +627,5 @@
       "type": "h2h",
       "side": "away"
     }
-  },
-  {
-    "id": "5b612899d6dcdf998107f2c6c6e49a58",
-    "league": "NFL",
-    "kickoff": "2026-11-26T01:00:00Z",
-    "venue": "",
-    "home": "Los Angeles Rams",
-    "away": "Green Bay Packers",
-    "market": "Spread",
-    "selection": "Los Angeles Rams -2.5",
-    "odds": 1.97,
-    "openOdds": 1.91,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "home",
-      "line": -2.5
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "9b825e6518156008da499be041975fdd",
-    "league": "NFL",
-    "kickoff": "2026-11-26T18:00:00Z",
-    "venue": "",
-    "home": "Detroit Lions",
-    "away": "Chicago Bears",
-    "market": "Moneyline",
-    "selection": "Chicago Bears ML",
-    "odds": 1.85,
-    "openOdds": 1.75,
-    "baseProb": 52.4,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "locked": true,
-    "publishedOdds": 1.75,
-    "aiHomeProb": 40.2
-  },
-  {
-    "id": "ffaa06af56a7137d4b078c5c46c0b730",
-    "league": "NFL",
-    "kickoff": "2026-11-26T21:30:00Z",
-    "venue": "",
-    "home": "Dallas Cowboys",
-    "away": "Philadelphia Eagles",
-    "market": "Spread",
-    "selection": "Philadelphia Eagles +9",
-    "odds": 1.95,
-    "openOdds": 1.95,
-    "baseProb": 50.1,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 9
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    }
-  },
-  {
-    "id": "f36f518585aec40e8cb40e071c0844aa",
-    "league": "NFL",
-    "kickoff": "2026-11-27T01:20:00Z",
-    "venue": "",
-    "home": "Buffalo Bills",
-    "away": "Kansas City Chiefs",
-    "market": "Total",
-    "selection": "Under 47",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50.2,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "weather",
-        "label": "Wind about 19 mph",
-        "detail": "Strong wind in an open stadium tends to lower scoring, mostly the passing game.",
-        "points": 2.2
-      },
-      {
-        "kind": "weather",
-        "label": "Heavy rain at kickoff",
-        "detail": "Wet conditions tend to lower scoring slightly.",
-        "points": 1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 47
-    },
-    "weather": {
-      "tempF": 37.1,
-      "windMph": 19.4,
-      "precip": "Heavy rain",
-      "roof": "open"
-    }
-  },
-  {
-    "id": "44a3bcf5bd002583ddef2207a92dd977",
-    "league": "NFL",
-    "kickoff": "2026-11-27T20:00:00Z",
-    "venue": "",
-    "home": "Pittsburgh Steelers",
-    "away": "Denver Broncos",
-    "market": "Moneyline",
-    "selection": "Pittsburgh Steelers ML",
-    "odds": 2.74,
-    "openOdds": 2.32,
-    "baseProb": 36.1,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "weather": {
-      "tempF": 38.1,
-      "windMph": 12.6,
-      "precip": "Light rain",
-      "roof": "open"
-    },
-    "aiHomeProb": 49.8
   }
 ]
