@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text x="50" y="76" font-size="80" text-anchor="middle">🍀</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22357A"/><stop offset="1" stop-color="#0A1030"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE9A3"/><stop offset=".55" stop-color="#F2C23C"/><stop offset="1" stop-color="#C98F0A"/></linearGradient>
+<linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="0" y1="28" x2="0" y2="92"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#BFD0FF"/></linearGradient>
+<radialGradient id="sh" cx=".5" cy=".18" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<circle cx="60" cy="60" r="57" fill="url(#gold)"/>
+<circle cx="60" cy="60" r="53.5" fill="url(#bg)"/>
+<circle cx="60" cy="60" r="53.5" fill="url(#sh)"/>
+<circle cx="60" cy="60" r="49" fill="none" stroke="url(#gold)" stroke-width="1" opacity=".55"/>
+<g fill="none" stroke="url(#ink)" stroke-width="9" stroke-linecap="butt" stroke-linejoin="round">
+  <path d="M29 90 V32 H76 A17.5 17.5 0 0 1 76 67 H62"/>
+  <path d="M62 32 V90"/>
+  <path d="M29 58 H49"/>
+</g>
+<g transform="translate(77.5 49.5) scale(.23)"><path d="M0 -2 C-6 -8 -20 -14 -19 -27 C-18 -38 -6 -40 0 -29 C6 -40 18 -38 19 -27 C20 -14 6 -8 0 -2Z" transform="rotate(0)" fill="url(#gold)"/><path d="M0 -2 C-6 -8 -20 -14 -19 -27 C-18 -38 -6 -40 0 -29 C6 -40 18 -38 19 -27 C20 -14 6 -8 0 -2Z" transform="rotate(90)" fill="url(#gold)"/><path d="M0 -2 C-6 -8 -20 -14 -19 -27 C-18 -38 -6 -40 0 -29 C6 -40 18 -38 19 -27 C20 -14 6 -8 0 -2Z" transform="rotate(180)" fill="url(#gold)"/><path d="M0 -2 C-6 -8 -20 -14 -19 -27 C-18 -38 -6 -40 0 -29 C6 -40 18 -38 19 -27 C20 -14 6 -8 0 -2Z" transform="rotate(270)" fill="url(#gold)"/></g>
+</svg>

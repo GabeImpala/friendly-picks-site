@@ -144,71 +144,6 @@
     }
   },
   {
-    "id": "42f48a4769eab3d1472d76aac0fd0fa7",
-    "league": "NBA",
-    "kickoff": "2026-11-25T00:11:00Z",
-    "venue": "",
-    "home": "Orlando Magic",
-    "away": "Detroit Pistons",
-    "market": "Spread",
-    "selection": "Detroit Pistons +3",
-    "odds": 2,
-    "openOdds": 1.96,
-    "baseProb": 49.5,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 3
-    }
-  },
-  {
-    "id": "42f48a4769eab3d1472d76aac0fd0fa7",
-    "league": "NBA",
-    "kickoff": "2026-11-25T00:11:00Z",
-    "venue": "",
-    "home": "Orlando Magic",
-    "away": "Detroit Pistons",
-    "market": "Moneyline",
-    "selection": "Detroit Pistons ML",
-    "odds": 2.34,
-    "openOdds": 1.81,
-    "baseProb": 42.7,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "locked": true,
-    "publishedOdds": 2.32,
-    "role": "upset"
-  },
-  {
-    "id": "3167a4072c65c9314c71d0fe49be8e28",
-    "league": "NBA",
-    "kickoff": "2026-11-25T01:10:00Z",
-    "venue": "",
-    "home": "Washington Wizards",
-    "away": "Boston Celtics",
-    "market": "Spread",
-    "selection": "Boston Celtics -11",
-    "odds": 1.94,
-    "openOdds": 1.94,
-    "baseProb": 50.3,
-    "baselineNote": "Consensus of 4 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": -11
-    }
-  },
-  {
     "id": "6bfadbd22ed8a054cf82ec1b12b78243",
     "league": "NBA",
     "kickoff": "2026-11-25T03:10:00Z",
@@ -308,27 +243,6 @@
     "bet": {
       "type": "h2h",
       "side": "away"
-    }
-  },
-  {
-    "id": "155fbdda10b6474a41649023baadfdf3",
-    "league": "NHL",
-    "kickoff": "2026-11-25T01:10:00Z",
-    "venue": "",
-    "home": "Edmonton Oilers",
-    "away": "Vegas Golden Knights",
-    "market": "Total",
-    "selection": "Over 6.5",
-    "odds": 1.88,
-    "openOdds": 2.05,
-    "baseProb": 53,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 6.5
     }
   },
   {
@@ -628,5 +542,28 @@
       "side": "home",
       "line": -1.5
     }
+  },
+  {
+    "id": "42f48a4769eab3d1472d76aac0fd0fa7",
+    "league": "NBA",
+    "kickoff": "2026-11-25T00:11:00Z",
+    "venue": "",
+    "home": "Orlando Magic",
+    "away": "Detroit Pistons",
+    "market": "Moneyline",
+    "selection": "Detroit Pistons ML",
+    "odds": 2.32,
+    "openOdds": 1.81,
+    "baseProb": 46.7,
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "role": "upset",
+    "locked": true,
+    "publishedOdds": 2.32,
+    "live": true
   }
 ]
