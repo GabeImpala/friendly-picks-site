@@ -144,26 +144,6 @@
     }
   },
   {
-    "id": "6bfadbd22ed8a054cf82ec1b12b78243",
-    "league": "NBA",
-    "kickoff": "2026-11-25T03:10:00Z",
-    "venue": "",
-    "home": "Denver Nuggets",
-    "away": "Dallas Mavericks",
-    "market": "Moneyline",
-    "selection": "Dallas Mavericks ML",
-    "odds": 3.55,
-    "openOdds": 3.65,
-    "baseProb": 27.8,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
     "id": "4f6d199bb67cf3a517a3880fd2f00b26",
     "league": "NBA",
     "kickoff": "2026-11-25T22:10:00Z",
