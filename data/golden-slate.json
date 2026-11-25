@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "698d6d78acf30f4ff4e4aaf6670249ee|golden|h2h|home|",
+    "day": "2026-11-25",
+    "league": "NBA",
+    "kickoff": "2026-11-26T01:10:00Z",
+    "home": "Memphis Grizzlies",
+    "away": "Los Angeles Clippers",
+    "market": "Moneyline",
+    "selection": "Memphis Grizzlies ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.42,
+    "prob": 69.6,
+    "ev": -0.012,
+    "edge": -0.8,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
