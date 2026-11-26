@@ -4919,5 +4919,127 @@
     "publishedAt": "2026-11-23T15:15:19.340Z",
     "result": "L",
     "settledAt": "2026-11-24T06:00:24.744Z"
+  },
+  {
+    "day": "2026-11-25",
+    "legs": [
+      {
+        "eventId": "698d6d78acf30f4ff4e4aaf6670249ee",
+        "league": "NBA",
+        "kickoff": "2026-11-26T01:10:00Z",
+        "home": "Memphis Grizzlies",
+        "away": "Los Angeles Clippers",
+        "market": "Moneyline",
+        "selection": "Memphis Grizzlies ML",
+        "odds": 1.42,
+        "prob": 69.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 115,
+        "awayScore": 97,
+        "result": "W"
+      },
+      {
+        "eventId": "70e9e98dccc07e86adad8349ad0c07fa",
+        "league": "NHL",
+        "kickoff": "2026-11-26T00:00:00Z",
+        "home": "New York Islanders",
+        "away": "St Louis Blues",
+        "market": "Spread",
+        "selection": "St Louis Blues +1.5",
+        "odds": 1.43,
+        "prob": 68.5,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 2,
+        "result": "W"
+      },
+      {
+        "eventId": "a96a74be66899182f7eea8d72ec0e0fb",
+        "league": "NHL",
+        "kickoff": "2026-11-26T00:00:00Z",
+        "home": "Buffalo Sabres",
+        "away": "New York Rangers",
+        "market": "Spread",
+        "selection": "New York Rangers +1.5",
+        "odds": 1.5,
+        "prob": 65.7,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 1,
+        "result": "L"
+      },
+      {
+        "eventId": "52d88f1e2ea2e8165d992430998b84f1",
+        "league": "NHL",
+        "kickoff": "2026-11-26T00:00:00Z",
+        "home": "Pittsburgh Penguins",
+        "away": "Calgary Flames",
+        "market": "Spread",
+        "selection": "Calgary Flames +1.5",
+        "odds": 1.57,
+        "prob": 62.5,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 6,
+        "result": "W"
+      },
+      {
+        "eventId": "73d5e978fab618f46090f2dc47721bda",
+        "league": "NHL",
+        "kickoff": "2026-11-26T01:00:00Z",
+        "home": "Dallas Stars",
+        "away": "Nashville Predators",
+        "market": "Spread",
+        "selection": "Nashville Predators +1.5",
+        "odds": 1.59,
+        "prob": 62,
+        "bet": {
+          "type": "spread",
+          "side": "away",
+          "line": 1.5
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "result": "W"
+      },
+      {
+        "eventId": "f08629281f1510f47d91cc408f86a2a8",
+        "league": "NBA",
+        "kickoff": "2026-11-26T00:40:00Z",
+        "home": "New York Knicks",
+        "away": "Cleveland Cavaliers",
+        "market": "Moneyline",
+        "selection": "New York Knicks ML",
+        "odds": 1.68,
+        "prob": 58.4,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 121,
+        "awayScore": 102,
+        "result": "W"
+      }
+    ],
+    "odds": 12.773846685599999,
+    "hitChance": 7.09,
+    "publishedAt": "2026-11-25T15:15:19.478Z",
+    "result": "L",
+    "settledAt": "2026-11-26T06:00:24.029Z"
   }
 ]

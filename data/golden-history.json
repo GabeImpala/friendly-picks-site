@@ -320,5 +320,19 @@
     "models": [
       "rules"
     ]
+  },
+  {
+    "id": "698d6d78acf30f4ff4e4aaf6670249ee|golden|h2h|home|",
+    "date": "2026-11-25",
+    "league": "NBA",
+    "home": "Memphis Grizzlies",
+    "away": "Los Angeles Clippers",
+    "selection": "Memphis Grizzlies ML",
+    "odds": 1.42,
+    "prob": 69.6,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]
