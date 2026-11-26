@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "9b825e6518156008da499be041975fdd|golden|h2h|away|",
+    "day": "2026-11-26",
+    "league": "NFL",
+    "kickoff": "2026-11-26T18:00:00Z",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "market": "Moneyline",
+    "selection": "Chicago Bears ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.86,
+    "prob": 55.9,
+    "ev": 0.04,
+    "edge": 2.1,
+    "stakePct": 0.0116,
+    "models": [
+      "rules",
+      "ai"
+    ],
+    "live": false
+  }
+]

@@ -14,5 +14,21 @@
     "odds": 1.75,
     "prob": 59.8,
     "live": false
+  },
+  {
+    "id": "44a3bcf5bd002583ddef2207a92dd977|ai",
+    "eventId": "44a3bcf5bd002583ddef2207a92dd977",
+    "league": "NFL",
+    "kickoff": "2026-11-27T20:00:00Z",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "selection": "Denver Broncos ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.5,
+    "prob": 50.2,
+    "live": false
   }
 ]
