@@ -3782,5 +3782,38 @@
     "odds": 2.32,
     "prob": 46.7,
     "result": "W"
+  },
+  {
+    "id": "f08629281f1510f47d91cc408f86a2a8|h2h|home|",
+    "date": "2026-11-25",
+    "league": "NBA",
+    "home": "New York Knicks",
+    "away": "Cleveland Cavaliers",
+    "selection": "New York Knicks ML",
+    "odds": 1.71,
+    "prob": 58.6,
+    "result": "W"
+  },
+  {
+    "id": "a96a74be66899182f7eea8d72ec0e0fb|spread|away|1.5",
+    "date": "2026-11-25",
+    "league": "NHL",
+    "home": "Buffalo Sabres",
+    "away": "New York Rangers",
+    "selection": "New York Rangers +1.5",
+    "odds": 1.5,
+    "prob": 65.9,
+    "result": "L"
+  },
+  {
+    "id": "70e9e98dccc07e86adad8349ad0c07fa|spread|away|1.5",
+    "date": "2026-11-25",
+    "league": "NHL",
+    "home": "New York Islanders",
+    "away": "St Louis Blues",
+    "selection": "St Louis Blues +1.5",
+    "odds": 1.44,
+    "prob": 68.9,
+    "result": "W"
   }
 ]
