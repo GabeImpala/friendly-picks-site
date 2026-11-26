@@ -1,34 +1,5 @@
 [
   {
-    "id": "9b825e6518156008da499be041975fdd",
-    "league": "NFL",
-    "kickoff": "2026-11-26T18:00:00Z",
-    "venue": "",
-    "home": "Detroit Lions",
-    "away": "Chicago Bears",
-    "market": "Moneyline",
-    "selection": "Chicago Bears ML",
-    "odds": 1.86,
-    "openOdds": 1.75,
-    "baseProb": 52,
-    "baselineNote": "Consensus of 8 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "weather": {
-      "tempF": 72,
-      "windMph": 0,
-      "precip": "None",
-      "roof": "dome"
-    },
-    "locked": true,
-    "publishedOdds": 1.75,
-    "aiHomeProb": 40.2
-  },
-  {
     "id": "ffaa06af56a7137d4b078c5c46c0b730",
     "league": "NFL",
     "kickoff": "2026-11-26T21:30:00Z",
@@ -121,6 +92,394 @@
       "roof": "open"
     },
     "aiHomeProb": 49.8
+  },
+  {
+    "id": "3c522e32c3035d7dc3e1734903b84654",
+    "league": "NBA",
+    "kickoff": "2026-11-28T00:10:00Z",
+    "venue": "",
+    "home": "New York Knicks",
+    "away": "Miami Heat",
+    "market": "Moneyline",
+    "selection": "New York Knicks ML",
+    "odds": 1.62,
+    "openOdds": 1.62,
+    "baseProb": 60.8,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "3c522e32c3035d7dc3e1734903b84654",
+    "league": "NBA",
+    "kickoff": "2026-11-28T00:10:00Z",
+    "venue": "",
+    "home": "New York Knicks",
+    "away": "Miami Heat",
+    "market": "Moneyline",
+    "selection": "Miami Heat ML",
+    "odds": 2.63,
+    "openOdds": 2.63,
+    "baseProb": 39.2,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "role": "upset"
+  },
+  {
+    "id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
+    "league": "NBA",
+    "kickoff": "2026-11-28T00:40:00Z",
+    "venue": "",
+    "home": "Indiana Pacers",
+    "away": "Philadelphia 76ers",
+    "market": "Moneyline",
+    "selection": "Indiana Pacers ML",
+    "odds": 2.6,
+    "openOdds": 2.6,
+    "baseProb": 38,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "c5dc35b4116988de2c1425df17456478",
+    "league": "NBA",
+    "kickoff": "2026-11-28T01:10:00Z",
+    "venue": "",
+    "home": "Boston Celtics",
+    "away": "Atlanta Hawks",
+    "market": "Moneyline",
+    "selection": "Atlanta Hawks ML",
+    "odds": 4.15,
+    "openOdds": 4.15,
+    "baseProb": 24.2,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    }
+  },
+  {
+    "id": "428050645d1dc8b16d84287e21de55fa",
+    "league": "NBA",
+    "kickoff": "2026-11-28T02:40:00Z",
+    "venue": "",
+    "home": "Utah Jazz",
+    "away": "Denver Nuggets",
+    "market": "Moneyline",
+    "selection": "Utah Jazz ML",
+    "odds": 4,
+    "openOdds": 4,
+    "baseProb": 24.5,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "13d9ca3bcb664829c603755d31401002",
+    "league": "NBA",
+    "kickoff": "2026-11-28T02:40:00Z",
+    "venue": "",
+    "home": "San Antonio Spurs",
+    "away": "Los Angeles Lakers",
+    "market": "Moneyline",
+    "selection": "San Antonio Spurs ML",
+    "odds": 1.53,
+    "openOdds": 1.53,
+    "baseProb": 64.4,
+    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "80c92a163a81b69fef76530221e2edd0",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-27T20:00:00Z",
+    "venue": "",
+    "home": "Levante",
+    "away": "Real Racing Club de Santander",
+    "market": "Total",
+    "selection": "Under 3.5 goals",
+    "odds": 1.78,
+    "openOdds": 1.78,
+    "baseProb": 57,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 3.5
+    }
+  },
+  {
+    "id": "c81520b9a9794749cfdab57f89bdeb16",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-28T13:00:00Z",
+    "venue": "",
+    "home": "Real Betis",
+    "away": "Rayo Vallecano",
+    "market": "Match result",
+    "selection": "Real Betis to win",
+    "odds": 1.65,
+    "openOdds": 1.65,
+    "baseProb": 60.1,
+    "baselineNote": "Consensus of 21 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "33d92dabbd2606dfe9d31058f7b20cc8",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-28T15:15:00Z",
+    "venue": "",
+    "home": "Málaga",
+    "away": "Athletic Bilbao",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.1,
+    "openOdds": 2.1,
+    "baseProb": 48.8,
+    "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "40236ab976955345ebd1edb72abf6b22",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "venue": "",
+    "home": "Elche CF",
+    "away": "Atlético Madrid",
+    "market": "Match result",
+    "selection": "Atlético Madrid to win",
+    "odds": 1.52,
+    "openOdds": 1.52,
+    "baseProb": 65.1,
+    "baselineNote": "Consensus of 20 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    }
+  },
+  {
+    "id": "c99772cba1418e72f2eded26e4afeb59",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-28T20:00:00Z",
+    "venue": "",
+    "home": "Real Madrid",
+    "away": "Alavés",
+    "market": "Total",
+    "selection": "Under 3.5 goals",
+    "odds": 2.1,
+    "openOdds": 2.1,
+    "baseProb": 48.1,
+    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 3.5
+    }
+  },
+  {
+    "id": "1ab9541320cecbe9f043565fd4a141e0",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-29T13:00:00Z",
+    "venue": "",
+    "home": "Valencia",
+    "away": "CA Osasuna",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 2.38,
+    "openOdds": 2.38,
+    "baseProb": 43.1,
+    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "69fc06d019491be2aa1bf69b8f8041e3",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-29T15:15:00Z",
+    "venue": "",
+    "home": "Deportivo La Coruña",
+    "away": "Barcelona",
+    "market": "Total",
+    "selection": "Over 3.5 goals",
+    "odds": 1.74,
+    "openOdds": 1.74,
+    "baseProb": 58,
+    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 3.5
+    }
+  },
+  {
+    "id": "e9a663f13e7503c0ac20a54804338b60",
+    "league": "SERIE A",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "venue": "",
+    "home": "Venezia",
+    "away": "Bologna",
+    "market": "Match result",
+    "selection": "Venezia to win",
+    "odds": 3.55,
+    "openOdds": 3.55,
+    "baseProb": 28.7,
+    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "af3432ca724da03d38f0ff4e62045e4c",
+    "league": "SERIE A",
+    "kickoff": "2026-11-28T14:00:00Z",
+    "venue": "",
+    "home": "Frosinone",
+    "away": "Parma",
+    "market": "Match result",
+    "selection": "Frosinone to win",
+    "odds": 1.53,
+    "openOdds": 1.53,
+    "baseProb": 64.2,
+    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "aec86b479e922f437ba228b9a9d74da1",
+    "league": "SERIE A",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "venue": "",
+    "home": "Torino",
+    "away": "Lazio",
+    "market": "Match result",
+    "selection": "Torino to win",
+    "odds": 3.8,
+    "openOdds": 3.8,
+    "baseProb": 27,
+    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    }
+  },
+  {
+    "id": "f128c19fa7af43e30dbe3c373e7bc27e",
+    "league": "SERIE A",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "venue": "",
+    "home": "Inter Milan",
+    "away": "Genoa",
+    "market": "Total",
+    "selection": "Under 2.5 goals",
+    "odds": 2.56,
+    "openOdds": 2.56,
+    "baseProb": 39.3,
+    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "under",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "d3d47b94324eb7cde85bd93993437d1c",
+    "league": "SERIE A",
+    "kickoff": "2026-11-29T11:30:00Z",
+    "venue": "",
+    "home": "Udinese",
+    "away": "Fiorentina",
+    "market": "Total",
+    "selection": "Over 2.5 goals",
+    "odds": 1.79,
+    "openOdds": 1.79,
+    "baseProb": 55.3,
+    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "total",
+      "side": "over",
+      "line": 2.5
+    }
+  },
+  {
+    "id": "dc63586a1b1d938a461d71bf5b36d982",
+    "league": "SERIE A",
+    "kickoff": "2026-11-29T14:00:00Z",
+    "venue": "",
+    "home": "Sassuolo",
+    "away": "Napoli",
+    "market": "Match result",
+    "selection": "Draw",
+    "odds": 4.5,
+    "openOdds": 4.5,
+    "baseProb": 22.5,
+    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "factors": [],
+    "injuries": [],
+    "bet": {
+      "type": "h2h",
+      "side": "draw"
+    }
   },
   {
     "id": "27cb678af08c1929cf19d9350d9f511e",
@@ -429,391 +788,26 @@
     }
   },
   {
-    "id": "e9a663f13e7503c0ac20a54804338b60",
-    "league": "SERIE A",
-    "kickoff": "2026-11-27T19:45:00Z",
+    "id": "9b825e6518156008da499be041975fdd",
+    "league": "NFL",
+    "kickoff": "2026-11-26T18:00:00Z",
     "venue": "",
-    "home": "Venezia",
-    "away": "Bologna",
-    "market": "Match result",
-    "selection": "Venezia to win",
-    "odds": 3.55,
-    "openOdds": 3.55,
-    "baseProb": 28.7,
-    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "af3432ca724da03d38f0ff4e62045e4c",
-    "league": "SERIE A",
-    "kickoff": "2026-11-28T14:00:00Z",
-    "venue": "",
-    "home": "Frosinone",
-    "away": "Parma",
-    "market": "Match result",
-    "selection": "Frosinone to win",
-    "odds": 1.53,
-    "openOdds": 1.53,
-    "baseProb": 64.2,
-    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "aec86b479e922f437ba228b9a9d74da1",
-    "league": "SERIE A",
-    "kickoff": "2026-11-28T17:00:00Z",
-    "venue": "",
-    "home": "Torino",
-    "away": "Lazio",
-    "market": "Match result",
-    "selection": "Torino to win",
-    "odds": 3.8,
-    "openOdds": 3.8,
-    "baseProb": 27,
-    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "f128c19fa7af43e30dbe3c373e7bc27e",
-    "league": "SERIE A",
-    "kickoff": "2026-11-28T19:45:00Z",
-    "venue": "",
-    "home": "Inter Milan",
-    "away": "Genoa",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.56,
-    "openOdds": 2.56,
-    "baseProb": 39.3,
-    "baselineNote": "Consensus of 7 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "d3d47b94324eb7cde85bd93993437d1c",
-    "league": "SERIE A",
-    "kickoff": "2026-11-29T11:30:00Z",
-    "venue": "",
-    "home": "Udinese",
-    "away": "Fiorentina",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 1.79,
-    "openOdds": 1.79,
-    "baseProb": 55.3,
-    "baselineNote": "Consensus of 14 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "dc63586a1b1d938a461d71bf5b36d982",
-    "league": "SERIE A",
-    "kickoff": "2026-11-29T14:00:00Z",
-    "venue": "",
-    "home": "Sassuolo",
-    "away": "Napoli",
-    "market": "Match result",
-    "selection": "Draw",
-    "odds": 4.5,
-    "openOdds": 4.5,
-    "baseProb": 22.5,
-    "baselineNote": "Consensus of 25 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "draw"
-    }
-  },
-  {
-    "id": "80c92a163a81b69fef76530221e2edd0",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-27T20:00:00Z",
-    "venue": "",
-    "home": "Levante",
-    "away": "Real Racing Club de Santander",
-    "market": "Total",
-    "selection": "Under 3.5 goals",
-    "odds": 1.78,
-    "openOdds": 1.78,
-    "baseProb": 57,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 3.5
-    }
-  },
-  {
-    "id": "c81520b9a9794749cfdab57f89bdeb16",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-28T13:00:00Z",
-    "venue": "",
-    "home": "Real Betis",
-    "away": "Rayo Vallecano",
-    "market": "Match result",
-    "selection": "Real Betis to win",
-    "odds": 1.65,
-    "openOdds": 1.65,
-    "baseProb": 60.1,
-    "baselineNote": "Consensus of 21 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "33d92dabbd2606dfe9d31058f7b20cc8",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-28T15:15:00Z",
-    "venue": "",
-    "home": "Málaga",
-    "away": "Athletic Bilbao",
-    "market": "Total",
-    "selection": "Under 2.5 goals",
-    "odds": 2.1,
-    "openOdds": 2.1,
-    "baseProb": 48.8,
-    "baselineNote": "Consensus of 15 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "40236ab976955345ebd1edb72abf6b22",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-28T17:30:00Z",
-    "venue": "",
-    "home": "Elche CF",
-    "away": "Atlético Madrid",
-    "market": "Match result",
-    "selection": "Atlético Madrid to win",
-    "odds": 1.52,
-    "openOdds": 1.52,
-    "baseProb": 65.1,
-    "baselineNote": "Consensus of 20 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "c99772cba1418e72f2eded26e4afeb59",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-28T20:00:00Z",
-    "venue": "",
-    "home": "Real Madrid",
-    "away": "Alavés",
-    "market": "Total",
-    "selection": "Under 3.5 goals",
-    "odds": 2.1,
-    "openOdds": 2.1,
-    "baseProb": 48.1,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 3.5
-    }
-  },
-  {
-    "id": "1ab9541320cecbe9f043565fd4a141e0",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-29T13:00:00Z",
-    "venue": "",
-    "home": "Valencia",
-    "away": "CA Osasuna",
-    "market": "Total",
-    "selection": "Over 2.5 goals",
-    "odds": 2.38,
-    "openOdds": 2.38,
-    "baseProb": 43.1,
-    "baselineNote": "Consensus of 12 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 2.5
-    }
-  },
-  {
-    "id": "69fc06d019491be2aa1bf69b8f8041e3",
-    "league": "LA LIGA",
-    "kickoff": "2026-11-29T15:15:00Z",
-    "venue": "",
-    "home": "Deportivo La Coruña",
-    "away": "Barcelona",
-    "market": "Total",
-    "selection": "Over 3.5 goals",
-    "odds": 1.74,
-    "openOdds": 1.74,
-    "baseProb": 58,
-    "baselineNote": "Consensus of 9 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "over",
-      "line": 3.5
-    }
-  },
-  {
-    "id": "3c522e32c3035d7dc3e1734903b84654",
-    "league": "NBA",
-    "kickoff": "2026-11-28T00:10:00Z",
-    "venue": "",
-    "home": "New York Knicks",
-    "away": "Miami Heat",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
     "market": "Moneyline",
-    "selection": "New York Knicks ML",
-    "odds": 1.62,
-    "openOdds": 1.62,
-    "baseProb": 60.8,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "3c522e32c3035d7dc3e1734903b84654",
-    "league": "NBA",
-    "kickoff": "2026-11-28T00:10:00Z",
-    "venue": "",
-    "home": "New York Knicks",
-    "away": "Miami Heat",
-    "market": "Moneyline",
-    "selection": "Miami Heat ML",
-    "odds": 2.63,
-    "openOdds": 2.63,
-    "baseProb": 39.2,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
+    "selection": "Chicago Bears ML",
+    "odds": 1.75,
+    "openOdds": 1.75,
+    "baseProb": 56,
     "factors": [],
     "injuries": [],
     "bet": {
       "type": "h2h",
       "side": "away"
     },
-    "role": "upset"
-  },
-  {
-    "id": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
-    "league": "NBA",
-    "kickoff": "2026-11-28T00:40:00Z",
-    "venue": "",
-    "home": "Indiana Pacers",
-    "away": "Philadelphia 76ers",
-    "market": "Moneyline",
-    "selection": "Indiana Pacers ML",
-    "odds": 2.6,
-    "openOdds": 2.6,
-    "baseProb": 38,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "c5dc35b4116988de2c1425df17456478",
-    "league": "NBA",
-    "kickoff": "2026-11-28T01:10:00Z",
-    "venue": "",
-    "home": "Boston Celtics",
-    "away": "Atlanta Hawks",
-    "market": "Moneyline",
-    "selection": "Atlanta Hawks ML",
-    "odds": 4.15,
-    "openOdds": 4.15,
-    "baseProb": 24.2,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    }
-  },
-  {
-    "id": "428050645d1dc8b16d84287e21de55fa",
-    "league": "NBA",
-    "kickoff": "2026-11-28T02:40:00Z",
-    "venue": "",
-    "home": "Utah Jazz",
-    "away": "Denver Nuggets",
-    "market": "Moneyline",
-    "selection": "Utah Jazz ML",
-    "odds": 4,
-    "openOdds": 4,
-    "baseProb": 24.5,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
-  },
-  {
-    "id": "13d9ca3bcb664829c603755d31401002",
-    "league": "NBA",
-    "kickoff": "2026-11-28T02:40:00Z",
-    "venue": "",
-    "home": "San Antonio Spurs",
-    "away": "Los Angeles Lakers",
-    "market": "Moneyline",
-    "selection": "San Antonio Spurs ML",
-    "odds": 1.53,
-    "openOdds": 1.53,
-    "baseProb": 64.4,
-    "baselineNote": "Consensus of 5 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    }
+    "locked": true,
+    "publishedOdds": 1.75,
+    "live": true,
+    "aiHomeProb": 40.2
   }
 ]
