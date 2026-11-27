@@ -3837,5 +3837,16 @@
     "odds": 1.75,
     "prob": 56,
     "result": "W"
+  },
+  {
+    "id": "27cb678af08c1929cf19d9350d9f511e|h2h|home|",
+    "date": "2026-11-27",
+    "league": "NHL",
+    "home": "Boston Bruins",
+    "away": "Toronto Maple Leafs",
+    "selection": "Boston Bruins ML",
+    "odds": 1.65,
+    "prob": 59.4,
+    "result": "L"
   }
 ]
