@@ -471,5 +471,16 @@
     "odds": 1.61,
     "prob": 59.5,
     "result": "W"
+  },
+  {
+    "id": "9b825e6518156008da499be041975fdd|ai",
+    "date": "2026-11-26",
+    "league": "NFL",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "selection": "Chicago Bears ML",
+    "odds": 1.75,
+    "prob": 59.8,
+    "result": "W"
   }
 ]

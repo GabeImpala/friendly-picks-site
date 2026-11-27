@@ -1,21 +1,5 @@
 [
   {
-    "id": "9b825e6518156008da499be041975fdd|ai",
-    "eventId": "9b825e6518156008da499be041975fdd",
-    "league": "NFL",
-    "kickoff": "2026-11-26T18:00:00Z",
-    "home": "Detroit Lions",
-    "away": "Chicago Bears",
-    "selection": "Chicago Bears ML",
-    "bet": {
-      "type": "h2h",
-      "side": "away"
-    },
-    "odds": 1.75,
-    "prob": 59.8,
-    "live": true
-  },
-  {
     "id": "44a3bcf5bd002583ddef2207a92dd977|ai",
     "eventId": "44a3bcf5bd002583ddef2207a92dd977",
     "league": "NFL",
