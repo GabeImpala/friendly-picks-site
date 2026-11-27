@@ -1,45 +1,5 @@
 [
   {
-    "id": "f36f518585aec40e8cb40e071c0844aa",
-    "league": "NFL",
-    "kickoff": "2026-11-27T01:20:00Z",
-    "venue": "",
-    "home": "Buffalo Bills",
-    "away": "Kansas City Chiefs",
-    "market": "Total",
-    "selection": "Under 46",
-    "odds": 1.93,
-    "openOdds": 1.93,
-    "baseProb": 50.2,
-    "baselineNote": "Consensus of 6 sportsbooks with the margin removed. The odds shown are the best price found.",
-    "factors": [
-      {
-        "kind": "weather",
-        "label": "Wind about 17 mph",
-        "detail": "Strong wind in an open stadium tends to lower scoring, mostly the passing game.",
-        "points": 1.6
-      },
-      {
-        "kind": "weather",
-        "label": "Heavy rain at kickoff",
-        "detail": "Wet conditions tend to lower scoring slightly.",
-        "points": 1
-      }
-    ],
-    "injuries": [],
-    "bet": {
-      "type": "total",
-      "side": "under",
-      "line": 46
-    },
-    "weather": {
-      "tempF": 35.1,
-      "windMph": 17.3,
-      "precip": "Heavy rain",
-      "roof": "open"
-    }
-  },
-  {
     "id": "44a3bcf5bd002583ddef2207a92dd977",
     "league": "NFL",
     "kickoff": "2026-11-27T20:00:00Z",
