@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "13d9ca3bcb664829c603755d31401002|golden|h2h|home|",
+    "day": "2026-11-27",
+    "league": "NBA",
+    "kickoff": "2026-11-28T02:40:00Z",
+    "home": "San Antonio Spurs",
+    "away": "Los Angeles Lakers",
+    "market": "Moneyline",
+    "selection": "San Antonio Spurs ML",
+    "bet": {
+      "type": "h2h",
+      "side": "home"
+    },
+    "odds": 1.45,
+    "prob": 67,
+    "ev": -0.028,
+    "edge": -2,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]
