@@ -3848,5 +3848,16 @@
     "odds": 1.65,
     "prob": 59.4,
     "result": "L"
+  },
+  {
+    "id": "f23fc3f7fb3bfb06c2bee42fcfe8f050|h2h|away|",
+    "date": "2026-11-27",
+    "league": "NHL",
+    "home": "St Louis Blues",
+    "away": "Dallas Stars",
+    "selection": "Dallas Stars ML",
+    "odds": 1.76,
+    "prob": 56,
+    "result": "L"
   }
 ]
