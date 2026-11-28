@@ -482,5 +482,16 @@
     "odds": 1.75,
     "prob": 59.8,
     "result": "W"
+  },
+  {
+    "id": "44a3bcf5bd002583ddef2207a92dd977|ai",
+    "date": "2026-11-27",
+    "league": "NFL",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "selection": "Denver Broncos ML",
+    "odds": 1.5,
+    "prob": 50.2,
+    "result": "L"
   }
 ]

@@ -3839,6 +3839,17 @@
     "result": "W"
   },
   {
+    "id": "44a3bcf5bd002583ddef2207a92dd977|h2h|away|",
+    "date": "2026-11-27",
+    "league": "NFL",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "selection": "Denver Broncos ML",
+    "odds": 1.5,
+    "prob": 66.3,
+    "result": "L"
+  },
+  {
     "id": "27cb678af08c1929cf19d9350d9f511e|h2h|home|",
     "date": "2026-11-27",
     "league": "NHL",
@@ -3858,6 +3869,17 @@
     "selection": "Dallas Stars ML",
     "odds": 1.76,
     "prob": 56,
+    "result": "L"
+  },
+  {
+    "id": "80c92a163a81b69fef76530221e2edd0|total|under|3.5",
+    "date": "2026-11-27",
+    "league": "LA LIGA",
+    "home": "Levante",
+    "away": "Real Racing Club de Santander",
+    "selection": "Under 3.5 goals",
+    "odds": 1.78,
+    "prob": 57,
     "result": "L"
   }
 ]
