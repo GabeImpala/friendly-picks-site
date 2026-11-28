@@ -349,5 +349,19 @@
       "rules",
       "ai"
     ]
+  },
+  {
+    "id": "13d9ca3bcb664829c603755d31401002|golden|h2h|home|",
+    "date": "2026-11-27",
+    "league": "NBA",
+    "home": "San Antonio Spurs",
+    "away": "Los Angeles Lakers",
+    "selection": "San Antonio Spurs ML",
+    "odds": 1.45,
+    "prob": 67,
+    "result": "W",
+    "models": [
+      "rules"
+    ]
   }
 ]

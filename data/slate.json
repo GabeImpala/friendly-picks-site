@@ -923,50 +923,5 @@
       "side": "away",
       "line": -1.5
     }
-  },
-  {
-    "id": "13d9ca3bcb664829c603755d31401002",
-    "league": "NBA",
-    "kickoff": "2026-11-28T02:40:00Z",
-    "venue": "",
-    "home": "San Antonio Spurs",
-    "away": "Los Angeles Lakers",
-    "market": "Moneyline",
-    "selection": "San Antonio Spurs ML",
-    "odds": 1.53,
-    "openOdds": 1.53,
-    "baseProb": 64.4,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "h2h",
-      "side": "home"
-    },
-    "locked": true,
-    "publishedOdds": 1.53,
-    "live": true
-  },
-  {
-    "id": "3553bd967a739912ede178eb373433b8",
-    "league": "NHL",
-    "kickoff": "2026-11-28T01:10:00Z",
-    "venue": "",
-    "home": "Buffalo Sabres",
-    "away": "Pittsburgh Penguins",
-    "market": "Spread",
-    "selection": "Pittsburgh Penguins +1.5",
-    "odds": 1.53,
-    "openOdds": 1.54,
-    "baseProb": 64.3,
-    "factors": [],
-    "injuries": [],
-    "bet": {
-      "type": "spread",
-      "side": "away",
-      "line": 1.5
-    },
-    "locked": true,
-    "publishedOdds": 1.53,
-    "live": true
   }
 ]

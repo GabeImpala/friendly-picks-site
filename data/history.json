@@ -3892,5 +3892,27 @@
     "odds": 2.63,
     "prob": 39.2,
     "result": "W"
+  },
+  {
+    "id": "13d9ca3bcb664829c603755d31401002|h2h|home|",
+    "date": "2026-11-27",
+    "league": "NBA",
+    "home": "San Antonio Spurs",
+    "away": "Los Angeles Lakers",
+    "selection": "San Antonio Spurs ML",
+    "odds": 1.53,
+    "prob": 64.4,
+    "result": "W"
+  },
+  {
+    "id": "3553bd967a739912ede178eb373433b8|spread|away|1.5",
+    "date": "2026-11-27",
+    "league": "NHL",
+    "home": "Buffalo Sabres",
+    "away": "Pittsburgh Penguins",
+    "selection": "Pittsburgh Penguins +1.5",
+    "odds": 1.53,
+    "prob": 64.3,
+    "result": "W"
   }
 ]

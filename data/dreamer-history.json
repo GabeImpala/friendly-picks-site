@@ -5041,5 +5041,161 @@
     "publishedAt": "2026-11-25T15:15:19.478Z",
     "result": "L",
     "settledAt": "2026-11-26T06:00:24.029Z"
+  },
+  {
+    "day": "2026-11-27",
+    "legs": [
+      {
+        "eventId": "b5234ea5788fb4f5393efc6c33c8e5e7",
+        "league": "NHL",
+        "kickoff": "2026-11-27T18:00:00Z",
+        "home": "Nashville Predators",
+        "away": "Utah Mammoth",
+        "market": "Spread",
+        "selection": "Nashville Predators +1.5",
+        "odds": 1.43,
+        "prob": 68.8,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 5,
+        "awayScore": 6,
+        "result": "W"
+      },
+      {
+        "eventId": "634c54722c6860c9773604c369f6e062",
+        "league": "NHL",
+        "kickoff": "2026-11-27T21:00:00Z",
+        "home": "Anaheim Ducks",
+        "away": "Los Angeles Kings",
+        "market": "Spread",
+        "selection": "Anaheim Ducks +1.5",
+        "odds": 1.43,
+        "prob": 68.7,
+        "bet": {
+          "type": "spread",
+          "side": "home",
+          "line": 1.5
+        },
+        "homeScore": 3,
+        "awayScore": 5,
+        "result": "L"
+      },
+      {
+        "eventId": "44a3bcf5bd002583ddef2207a92dd977",
+        "league": "NFL",
+        "kickoff": "2026-11-27T20:00:00Z",
+        "home": "Pittsburgh Steelers",
+        "away": "Denver Broncos",
+        "market": "Moneyline",
+        "selection": "Denver Broncos ML",
+        "odds": 1.43,
+        "prob": 67.8,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 27,
+        "awayScore": 5,
+        "result": "L"
+      },
+      {
+        "eventId": "13d9ca3bcb664829c603755d31401002",
+        "league": "NBA",
+        "kickoff": "2026-11-28T02:40:00Z",
+        "home": "San Antonio Spurs",
+        "away": "Los Angeles Lakers",
+        "market": "Moneyline",
+        "selection": "San Antonio Spurs ML",
+        "odds": 1.45,
+        "prob": 67,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 99,
+        "awayScore": 96,
+        "result": "W"
+      },
+      {
+        "eventId": "3c522e32c3035d7dc3e1734903b84654",
+        "league": "NBA",
+        "kickoff": "2026-11-28T00:10:00Z",
+        "home": "New York Knicks",
+        "away": "Miami Heat",
+        "market": "Moneyline",
+        "selection": "New York Knicks ML",
+        "odds": 1.6,
+        "prob": 61.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 105,
+        "awayScore": 108,
+        "result": "L"
+      },
+      {
+        "eventId": "5b64071f3e3bf67b0fdea8d1ac81d0ec",
+        "league": "NBA",
+        "kickoff": "2026-11-28T00:40:00Z",
+        "home": "Indiana Pacers",
+        "away": "Philadelphia 76ers",
+        "market": "Moneyline",
+        "selection": "Philadelphia 76ers ML",
+        "odds": 1.67,
+        "prob": 59.5,
+        "bet": {
+          "type": "h2h",
+          "side": "away"
+        },
+        "homeScore": 87,
+        "awayScore": 111,
+        "result": "W"
+      },
+      {
+        "eventId": "27cb678af08c1929cf19d9350d9f511e",
+        "league": "NHL",
+        "kickoff": "2026-11-27T18:00:00Z",
+        "home": "Boston Bruins",
+        "away": "Toronto Maple Leafs",
+        "market": "Moneyline",
+        "selection": "Boston Bruins ML",
+        "odds": 1.66,
+        "prob": 58.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "result": "L"
+      },
+      {
+        "eventId": "fecbaa4e1973217826262c63d8f52dea",
+        "league": "NBA",
+        "kickoff": "2026-11-28T02:40:00Z",
+        "home": "Los Angeles Clippers",
+        "away": "New Orleans Pelicans",
+        "market": "Moneyline",
+        "selection": "Los Angeles Clippers ML",
+        "odds": 1.74,
+        "prob": 56.6,
+        "bet": {
+          "type": "h2h",
+          "side": "home"
+        },
+        "homeScore": 104,
+        "awayScore": 105,
+        "result": "L"
+      }
+    ],
+    "odds": 32.72426529015071,
+    "hitChance": 2.61,
+    "publishedAt": "2026-11-27T15:15:21.633Z",
+    "result": "L",
+    "settledAt": "2026-11-28T06:00:26.382Z"
   }
 ]
