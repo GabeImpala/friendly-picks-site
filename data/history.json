@@ -3881,5 +3881,16 @@
     "odds": 1.78,
     "prob": 57,
     "result": "L"
+  },
+  {
+    "id": "3c522e32c3035d7dc3e1734903b84654|h2h|away|",
+    "date": "2026-11-27",
+    "league": "NBA",
+    "home": "New York Knicks",
+    "away": "Miami Heat",
+    "selection": "Miami Heat ML",
+    "odds": 2.63,
+    "prob": 39.2,
+    "result": "W"
   }
 ]
