@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "40236ab976955345ebd1edb72abf6b22|golden|h2h|away|",
+    "day": "2026-11-28",
+    "league": "LA LIGA",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "home": "Elche CF",
+    "away": "Atlético Madrid",
+    "market": "Match result",
+    "selection": "Atlético Madrid to win",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.54,
+    "prob": 64.1,
+    "ev": -0.013,
+    "edge": -0.8,
+    "stakePct": 0,
+    "models": [
+      "rules"
+    ],
+    "live": false
+  }
+]

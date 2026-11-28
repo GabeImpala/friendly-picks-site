@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c64ceba13ede564e8658693e3171e7f9|ai",
+    "eventId": "c64ceba13ede564e8658693e3171e7f9",
+    "league": "NFL",
+    "kickoff": "2026-11-29T21:05:00Z",
+    "home": "Los Angeles Chargers",
+    "away": "New England Patriots",
+    "selection": "New England Patriots ML",
+    "bet": {
+      "type": "h2h",
+      "side": "away"
+    },
+    "odds": 1.68,
+    "prob": 62.6,
+    "live": false
+  }
+]
